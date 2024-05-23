@@ -9,6 +9,5 @@
 ### Local development
 
 To run a local server:
-- `cd cdf-modern`
 - `bundle exec jekyll serve --livereload`
 - Go to `http://localhost:4000`
