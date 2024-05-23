@@ -330,3 +330,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Github Pages stuff
+domain: cdf-modern.fr
+baseurl: /cdf-modern/
