@@ -47,7 +47,20 @@ TODO
 
 ### Nicolas Borgel, trésorier
 
-TODO
+Le petit Nicolas decouvre Magic en 1996 avec l'extension Mirage, en meme temps qu'Internet et l'abonnement Wanadoo. Après quelques années à jouer en casual, il fait son premier Grand Prix à Reims en format étendu en 2003, avec un deck d'intellectuel comprenant des Jackal Pup et des Flame Rift.
+
+Prepa, Deug de Math, Licence de Psychologie, école de commerce (Kamoulox) et premières années de boulot auront raison de son envie de jouer (ou presque) entre 2007 et 2017.  
+Parce qu'un vieux pote lui a dit "j'arrête de fumer, je reprends Magic, viens on va s'éclater en Modern", Nicolas se lance en 2017 en Modern avec un mono red prison.
+
+Records en Modern :
+- Top 16 au GP Birmingham en 2019 (mono red prison)
+- Gagnant d'un super qualifier MTGO en 2022 (RB Obosh)
+- Top 16 au LMS Prague en 2023 (RW Obosh)
+- [Pioneer] Top 32 au RC Athènes en 2023 et qualification au Pro Tour (UR Chandra control)
+- J2 du PT LOTR a Barcelone en 2023 (Scam)
+- J2 au LMS Barcelone en 2023 (Rhinos)
+- 39eme au RC Ghent en 2024 (Rhinos)
+
 
 ### Pierre Mourlanne, président
 
