@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "fr-fr"
 title                    : "Coupe de France Modern"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "Un circuit d'exception pour un format iconique" # site tagline that appears below site title in masthead
+name                     : "Coupe de France Modern"
+description              : "Le site de la Coupe de France Modern, le format de Magic iconique"
 url                      : "https://cdf-modern.fr" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cdf-modern/cdf-modern.girhub.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "L'assemblée du Modern"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Association à but non lucratif qui cherche à dynamiser le Modern autour de nous"
   # location         : "Somewhere"
   email            :
   links:
@@ -124,10 +124,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cdf-modern/cdf-modern.github.io"
-
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:lassembleedumodern@gmail.com"
+
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
