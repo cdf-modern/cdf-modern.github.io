@@ -20,7 +20,7 @@ title                    : "Coupe de France Modern"
 title_separator          : "-"
 subtitle                 : "Un circuit d'exception pour un format iconique" # site tagline that appears below site title in masthead
 name                     : "Coupe de France Modern"
-description              : "Le site de la Coupe de France Modern, le format de Magic iconique"
+description              : "Le site de la Coupe de France Modern, le format de Magic the Gathering iconique"
 url                      : "https://cdf-modern.fr" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cdf-modern/cdf-modern.girhub.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
