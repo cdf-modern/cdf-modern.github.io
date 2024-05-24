@@ -1,3 +1,7 @@
+## Coupe de France Modern
+
+This is the repository for the Coupe de France Modern website. It is available at [cdf-modern.fr](https://cdf-modern.fr).
+
 ### Local installation
 
 - Install [rbenv](https://github.com/rbenv/rbenv)
