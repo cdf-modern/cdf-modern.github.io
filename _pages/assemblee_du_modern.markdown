@@ -43,7 +43,11 @@ TODO
 
 ### Julien Rouar, secrétaire
 
-TODO
+Julien découvre Magic à la fac en 2012 en parallèle des études et de trop de temps libre. Dés le début attiré par le milieu compétitif, il se met au modern un an après la naissance du format. Sans pause, alternant avec d'autres formats sans jamais arrêter le modern ni les circuits compétitifs divers, il devient vite fan d'une approche théorique et basé sur les données dans le jeu.
+
+Un petit passage en tant qu'arbitre et un peu d'investissement en tant que membre de plusieurs associations concrétisent son attachement à la communauté MTG.
+
+Maintenant, grinder de MTGO et de DC, des fois de RCQ et auteur chez [Mystical-Teachings](https://mystical-teachings.com/) résume son activité.
 
 ### Nicolas Borgel, trésorier
 
