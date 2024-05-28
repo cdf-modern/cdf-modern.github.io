@@ -328,11 +328,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: false
+      author_profile: false
+      read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
 
 # Github Pages stuff
 domain: cdf-modern.fr
