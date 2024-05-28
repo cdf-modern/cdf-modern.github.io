@@ -35,7 +35,17 @@ Parce que nous sommes à but non lucratif, notre intérêt premier est de faire 
 
 ### Anaël Yahi, administrateur
 
-TODO
+**Anaël** joue pour la première fois à Magic début **2016** aux alentours de la sortie d'Oath of Zendikar. Il était en pleine prépa maths physique à ce moment, ne faites pas comme Anaël.
+
+En parallèle d'un temps déraisonnable passé à se renseigner sur tous les aspects du jeu par curiosité et envie de répondre aux questions des autres joueurs, il s'investit rapidement beaucoup dans de multiples communautés associatives et en ligne. Il contribue entre autres au développement de Magic sur Discord, avec la modération du serveur **MTG FR** puis la création de multiples serveurs de formats, et la modération ponctuelle d'autres grandes communautés francophones telles que **PERF'**, **Magic Biquette** ou **MTG RAD**. 
+
+IRL, il déménage régulièrement et passe entre les associations et boutiques de Bretagne, Occitanie, Île-de-France, Suisse et Pays de la Loire, parfois fondant ou présidant certaines d'entre elles. C'est d'ailleurs pour elles qu'il passe son **L1** d'arbitrage en été 2022, devenant un cauchemar pour les cartes marquées (oui, c'est à toi qu'il pense la chips foil).
+
+Au bout de quelques années, il développe des applications et écrit des articles d'actualités, métagame, règles et statistiques pour feu Cardrooster, [Spikes Academy](https://spikesacademy.com/p/spikes-metagame-data-analysis) et [Cardmarket](https://www.cardmarket.com/en/Magic/Insight/Writers/ana%C3%ABl-yahi).
+
+En effet, sa formation de **Data Scientist** a profité d'un thème tout trouvé pour ses sujets de mémoires avec MTG, il a donc rédigé dans ce cadre puis pour le plaisir quelques dossiers académiques et développé des applications sur le jeu, la plupart d'entre eux pouvant être retrouvés dans son **[compendium mathématique](https://docs.google.com/spreadsheets/d/1YvQkZyNJNKEjUlewPjmdEPDqqvnZCD5Y_IRKQ5qU-TM/edit?usp=sharing)**.
+
+Ses analyses régulières de métagame et nouveaux articles peuvent être retrouvés sur ses [réseaux](https://x.com/AnaelYahi).
 
 ### Julien Bled, administrateur
 
