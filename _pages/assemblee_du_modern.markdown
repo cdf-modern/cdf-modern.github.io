@@ -49,7 +49,11 @@ Ses analyses régulières de métagame et nouveaux articles peuvent être retrou
 
 ### Julien Bled, administrateur
 
-TODO
+Julien aime faire les choses dans l'ordre et avec simplicité. C'est donc en plein perfectionnement de son statut de daron (sa deuxième fille s'est annoncée depuis peu) qu'il se met à Magic, en novembre 2021. Après avoir téléchargé Arena par hasard et (re)découvert les règles du jeu ---il avait ouvert quelques boosters de Tempête dans sa jeunesse---, il se pointe dans un magasin local et met un doigt dans l'engrenage.
+
+Bientôt 3 ans après, l'engrenage lui a bouffé tout le bras, a vidé son compte en banque mais aussi son temps de cerveau disponible. Il joue en Modern, en DC et en Vintage Cube parce que c'est le meilleur format du jeu.
+
+Vous le croiserez en ligne sous le nom de WhinMTG.
 
 ### Julien Rouar, secrétaire
 
