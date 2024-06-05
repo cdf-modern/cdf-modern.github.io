@@ -25,5 +25,5 @@ En jouant dans les événements qualificatifs, et en terminant parmi les premiè
 
 ## Où et quand aura lieu le tournoi final ?
 
-Nous sommes en train de prospecter pour trouver une super salle, bien placée et pas trop cher. Plus de nouvelles bientôt :)  
+Nous sommes en train de prospecter pour trouver une super salle, bien placée et pas trop chère. Plus de nouvelles bientôt :)  
 Pour la date nous visons juin 2025.
