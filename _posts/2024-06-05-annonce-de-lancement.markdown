@@ -4,7 +4,7 @@ title: "La Coupe de France Modern c'est parti !"
 
 Nous sommes ravis de vous annoncer le lancement public du projet de Coupe de France Modern 🎉
 
-Il y a quelques semaines plusieurs personnes motivées ont été élues au bureau de l'association [L'assemblée du Modern](/assemblee-du-modern/){:target="_blank"} pour lancer ce projet de Coupe de France Modern. L'objectif est clair : redynamiser le Modern partout en France, notamment grâce à la promesse d'un tournoi final qui claque 🤩
+Il y a quelques semaines, plusieurs personnes motivées ont été élues au bureau de l'association [L'assemblée du Modern](/assemblee-du-modern/){:target="_blank"} pour lancer ce projet de Coupe de France Modern. L'objectif est clair : redynamiser le Modern partout en France, notamment grâce à la promesse d'un tournoi final qui claque 🤩
 
 ## Les grandes lignes
 
@@ -14,9 +14,9 @@ Nous sommes encore en phase de réflexion, et de conception, du circuit et du to
 
 N'importe quelle association, boutique ou organisation pourra organiser un tournoi qualifiant à la Coupe de France.
 
-Les détails restent à régler mais nous pouvons annoncer dès maintenant que nous ne demanderons **aucune contrepartie financière** pour organiser ces tournois. Au contraire, nous avons envie d'accompagner les organisateurs de tournois pour qu'ils puissent proposer la meilleure expérience possible aux joueurs.
+Les détails restent à régler mais nous pouvons annoncer dès maintenant que nous ne demanderons **aucune contrepartie financière** pour organiser ces tournois. Avant tout, nous avons envie d'accompagner les organisateurs de tournois pour qu'ils puissent proposer la meilleure expérience possible aux joueurs.
 
-Nous faisons tout pour que les RCQs Modern de la saison prochaine puissent *aussi* être des qualifiers pour la CdF Modern 🤞
+Nous ferons en sorte que les RCQs Modern de la saison prochaine puissent *aussi* être des qualifiers pour la CdF Modern 🤞
 
 ### Un tournoi final sur trois jours
 
@@ -36,13 +36,13 @@ On a des idées pour des partenaires, des moyens inédits de se qualifier, des a
 
 Notre objectif est de permettre au plus grand nombre de jouer en Modern, et de participer aux tournois du circuit. C'est pour cette raison que les qualifiers **pourront** autoriser les proxies, à la discretion de l'organisateur du tournoi.
 
-Dans cette lignée, le tournoi final autorisera les proxies.
+En cohérence avec cette volonté, le tournoi final autorisera les proxies.
 
 Pour la logistique, nous utiliserons les [recommendations de l'association MTG Nantes](https://www.mtgnantes.fr/activit%C3%A9s/politique-proxy){:target="_blank"}.
 
 ## Prochaines étapes
 
-Nous travaillons d'arrache pieds pour faire avancer le projet, et concrétiser nos envies. Nous devrions annoncer le système de qualifications et le tournoi final dans les semaines qui viennent.
+Nous travaillons d'arrache-pied pour faire avancer le projet, et concrétiser nos envies. Nous devrions annoncer le système de qualifications et le tournoi final dans les semaines qui viennent.
 
 Toutes les annonces seront sur ce site, et sur le serveur Discord [Modern FR](https://discord.gg/KW4KPRZ3n7).
 
