@@ -1,5 +1,5 @@
 ---
-title: "La Coupe de France Modern c'est parti !"
+title: "La Coupe de France Modern c'est parti&nbsp;!"
 ---
 
 Nous sommes ravis de vous annoncer le lancement public du projet de Coupe de France Modern 🎉
