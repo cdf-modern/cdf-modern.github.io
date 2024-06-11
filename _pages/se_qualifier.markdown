@@ -33,4 +33,4 @@ Nous prévoyons d'organiser un ou plusieurs tournois qualificatifs le même week
 ## D'autres manières à venir 👀
 
 Nous voulons célébrer la réussite des joueureuses en Modern. Nous réfléchissons à une bonne manière de recompenser ces performances : sur le circuit officiel, sur Magic Online, etc.  
-Plus de détails à venir :)
+Plus de détails dans les semaines qui viennent :)
