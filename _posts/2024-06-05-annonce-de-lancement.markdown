@@ -2,7 +2,7 @@
 title: "La Coupe de France Modern se lance&nbsp;!"
 ---
 
-Vous adorez le Modern, mais trouver des événements à proximité est difficile ? Vous aimeriez participer à un circuit de qualité qui aboutirait à une tournoi majeur de taille conséquence, et ceci sans vider votre PEL (ou pire, dépenser l’équivalent d’une boîte de boosters collectors MH3) ?  
+Vous adorez le Modern, mais trouver des événements à proximité est difficile ? Vous aimeriez participer à un circuit de qualité qui aboutira à un tournoi majeur de taille conséquente, et ceci sans vider votre PEL (ou pire, dépenser l’équivalent d’une boîte de boosters collectors MH3) ?  
 N’en dites pas plus !
 
 **La Coupe de France Modern – CdF Modern pour les intimes – arrive cet été.**
