@@ -72,9 +72,14 @@ En particulier, vous pouvez tout à fait organiser plusieurs tournois qualificat
 
 Tout à fait ! Et cela ne vous coûte pas plus cher :)
 
+> Dois-je vous contacter *avant* mon tournoi pour qu'il soit un Qualifier ?
+
+Ce n'est pas obligatoire, mais c'est mieux ! Si vous nous contactez en amont, nous pourrons mettre votre tournoi en avant sur ce site et sur les serveurs Discord que nous connaissons. Nous pouvons aussi vous aider pour vous mettre en contact avec des vendeurs de cartes à l'unité, des arbitres, etc.
+
 > Quelles informations dois-je communiquer après le tournoi ?
 
-Pour que nous soyions tenus au courant des personnes qualifiées, nous vous demanderons de nous envoyer une capture d'écran des standings finaux et du top 8.
+Pour que nous soyions tenus au courant des personnes qualifiées, nous vous demanderons de nous envoyer une capture d'écran des standings finaux et du top 8.  
+Nous vous invitons également à nous mettre en contact avec le gagnant de votre tournoi : ce sera l'occasion pour nous de le mettre en avant sur le site, pour notamment faire parler de votre tournoi.
 
 > Comment faire pour que mon tournoi apparaisse sur ce site ?
 
