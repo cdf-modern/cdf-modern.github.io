@@ -28,11 +28,11 @@ Vous participez à un tournoi qualificatif avec 70 participant.e.s. Il y a donc 
 Vous finissez 11ème à l'issue des rondes. Par chance, deux personnes du top 8 ainsi que le 10ème sont déjà qualifié.e.s.  
 On fait alors descendre les qualifications jusqu'à trouver huit non qualifié.e.s : vous obtenez votre qualification 🥳
 
-## Des "last chance" la veille du tournoi final
+### Des "last chance" la veille du tournoi final
 
 Nous prévoyons d'organiser un ou plusieurs tournois qualificatifs le même week-end que le tournoi. Les détails seront communiqués lors de l'annonce du tournoi final.
 
-## D'autres méthodes de qualification à venir 👀
+### D'autres méthodes de qualification à venir 👀
 
 Nous voulons célébrer la réussite des joueureuses en Modern. Nous réfléchissons à une bonne manière de récompenser ces performances : sur le circuit officiel, sur Magic Online, etc.  
 Plus de détails dans les semaines qui viennent :)
