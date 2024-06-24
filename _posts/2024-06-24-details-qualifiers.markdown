@@ -84,3 +84,10 @@ Nous vous invitons également à nous mettre en contact avec le gagnant de votre
 > Comment faire pour que mon tournoi apparaisse sur ce site ?
 
 Si vous voulez que votre tournoi apparaisse sur ce site, si vous avez des questions, ou si vous avez besoin de conseils pour organiser votre évènement, contactez nous [par mail](mailto:lassembleedumodern@gmail.com).
+
+## Juste une dernière chose ...
+
+Pour finir, nous pouvons vous annoncer que le premier Qualifier pour la CdF Modern aura lieu le 14 juillet à Chateauroux !  
+Le Destination Qualifier organisé par MTGPrime et Cartapapa, qui qualifie pour le Regional Championship Lille, qualifiera aussi pour la CdF Modern 🥳
+
+Inscrivez-vous dès maintenant sur [le site de MTGPrime](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} !
