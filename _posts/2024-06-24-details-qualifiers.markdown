@@ -52,6 +52,8 @@ Organiser un Qualifier pour la CdF Modern vous aidera à attirer plus de joueurs
 
 D'abord, l'association qui pilote le circuit pour la CdF Modern **ne vous demandera pas d'argent pour le droit d'organiser un Qualifier**. Nous voulons redynamiser le Modern, nous ne voulons pas faire payer les joueurs pour le droit de participer au circuit.
 
+Nous vous invitons à utiliser notre logo dans vos communications, et sur vos affiches. Vous pouvez retrouvez tous nos logos [ici](/assets/){:target="_blank"}.
+
 Il y a deux "règles" à respecter pour l'organisation d'un Qualifier.
 
 #### Suivre les MTR
