@@ -60,11 +60,12 @@ Votre tournoi doit suivre les [règles officielles de tournois de Magic](https:/
 
 Une exception est permise : vous pouvez autoriser les proxies sur votre évènement si vous le souhaitez. Le cas échéant, nous vous conseillons de suivre la [politique de proxies de MTG Nantes](https://www.mtgnantes.fr/activit%C3%A9s/politique-proxy){:target="_blank"}.
 
-#### Pas plus d'un qualifier tous les deux mois
+#### Pas plus d'un qualifier tous les mois
 
-Nous avons envie que les tournois qualificatifs restent un moment marquant pour les joueurs. Pour cette raison, nous imposons cette petite limite : une même organisation ne peut pas organiser deux tournois qualificatifs à moins de deux mois d'intervalle.
+Nous souhaitons que les tournois qualificatifs restent un moment marquant pour les joueurs. Pour cette raison, nous imposons cette petite limite : une même organisation ne peut pas organiser deux tournois qualificatifs à moins d'un mois d'intervalle.
 
-Cela signifie cependant que vous pouvez tout à fait organiser plusieurs tournois qualificatifs pendant l'année, tant qu'il se passe suffisamment de temps entre les deux.
+Cela signifie cependant que vous pouvez tout à fait organiser plusieurs tournois qualificatifs pendant l'année, tant qu'il se passe suffisamment de temps entre les deux.  
+Notez aussi que nous ne sommes pas obtus. Si vous avez une "bonne" raison d'avoir deux évènements rapprochés, nous ne vous le refuserons pas :)
 
 ### FAQ
 
