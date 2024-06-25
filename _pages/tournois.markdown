@@ -14,5 +14,6 @@ Si vous voulez organiser un tournoi qualificatif a la CdF Modern, vous trouverez
 | 25/08/2024 | Nantes (44) | 32 | À venir 👀 |
 | 01/09/2024 | Nantes (44) | 32 | À venir 👀 |
 | 29/09/2024 | Nantes (44) | 32 | À venir 👀 |
+| 06/10/2024 | Eysines (33) | 64 | À venir 👀 |
 | 20/10/2024 | Nantes (44) | 32 | À venir 👀 |
 | 27/10/2024 | Nantes (44) | 32 | À venir 👀 |
