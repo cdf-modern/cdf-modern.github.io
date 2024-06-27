@@ -42,6 +42,18 @@ Notez aussi que nous ne sommes pas obtus. Si vous avez une "bonne" raison d'avoi
 
 Tout à fait ! Et cela ne vous coûte pas plus cher :)
 
+> Y a-t-il un nombre minimum de joueurs pour que mon événemenet puisse etre un Qualifier ?
+
+Les qualifications sont distribuées à partir de 9 joueurs présents.
+
+> Est-ce qu'un top 4 / top 8 doit être joué dans un Qualifier ?
+
+Le top n'est pas obligatoire. On utilisera alors les standings à l'issue des rondes pour déterminer qui obtient une qualification.
+
+> Vous indiquez que pour 9 à 16 joueurs, le tournoi doit comporter cinq rondes. C'est normal ?
+
+Oui :) Les [règles officiels de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"} indiquent cinq rondes pour un tournoi Modern de 9 à 16 joueurs.
+
 > Dois-je vous contacter *avant* mon tournoi pour qu'il soit un Qualifier ?
 
 Ce n'est pas obligatoire, mais c'est mieux ! Si vous nous contactez en amont, nous pourrons mettre votre tournoi en avant sur ce site et sur les serveurs Discord que nous connaissons. Nous pouvons aussi vous aider pour vous mettre en contact avec des vendeurs de cartes à l'unité, des arbitres, etc.
