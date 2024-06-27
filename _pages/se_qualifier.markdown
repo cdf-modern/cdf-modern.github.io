@@ -18,7 +18,9 @@ Le nombre de qualifications octroyées lors d'un tournoi dépend du nombre de ro
 | 65 - 128 | 7 | 8 |
 | 129+ | 8+ | 16 |
 
-**À noter que les places qualificatives descendent si une personne est déjà qualifiée.**
+Notez que le nombre de rondes affiché ici est issue des [règles officiels de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"}.
+
+**Les places qualificatives descendent si une personne est déjà qualifiée.**
 
 ## Exemple
 
