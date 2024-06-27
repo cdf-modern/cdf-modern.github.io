@@ -15,13 +15,13 @@ La Coupe de France Modern c'est un circuit de tournois pendant l'année, qui dis
 
 ## Comment organiser un tournoi qualificatif ?
 
-Les détails sont encore à régler en interne. Ce que nous avons déjà décidé c'est qu'organiser un qualifier ne coûtera rien aux organisateurs et aux joueurs !
+Les détails sont encore à régler en interne. Ce que nous avons déjà décidé c'est qu'organiser un Qualifier ne coûtera rien aux organisateurs et aux joueurs !
 
-Si vous êtes déjà intéressés par l'idée d'organiser un qualifier, vous pouvez nous envoyer [un mail](mailto:lassembleedumodern@gmail.com). Nous vous tiendrons au courant dès la publication de nouvelles informations.
+Si vous êtes déjà intéressés par l'idée d'organiser un Qualifier, vous pouvez nous envoyer [un mail](mailto:lassembleedumodern@gmail.com). Nous vous tiendrons au courant dès la publication de nouvelles informations.
 
 ## Comment se qualifier ?
 
-En jouant dans les événements qualificatifs, et en terminant parmi les premièr.e.s. Nous réfléchissons actuellement au systeme de qualification. Nous voulons recompenser les personnes qui ont du succès sur le circuit, et cherchons un système le plus simple possible.
+En jouant dans les événements qualificatifs, et en terminant parmi les premièr.e.s. Nous réfléchissons actuellement au systeme de qualification. Nous voulons récompenser les personnes qui ont du succès sur le circuit, et cherchons un système le plus simple possible.
 
 ## Où et quand aura lieu le tournoi final ?
 
