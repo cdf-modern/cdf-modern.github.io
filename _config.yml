@@ -118,6 +118,9 @@ author:
   # location         : "Somewhere"
   email            :
   links:
+    - label: "L'association"
+      icon: "fa fa-people-group"
+      url: "/assemblee-du-modern/"
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/KW4KPRZ3n7"
@@ -144,6 +147,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "L'association"
+      icon: "fa fa-people-group"
+      url: "/assemblee-du-modern/"
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/KW4KPRZ3n7"
