@@ -30,3 +30,11 @@ search: false
   border-radius: 0;
   max-width: 250px;
 }
+
+p.quote:before {
+  content: "«"
+}
+
+p.quote:after {
+  content: "»"
+}
