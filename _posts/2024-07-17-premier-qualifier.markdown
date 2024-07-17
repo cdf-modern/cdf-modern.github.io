@@ -29,7 +29,7 @@ Et sinon pour les perfs, bah j'ai pas fait de grosses perfs, quelques top 8 de r
 > Dimanche dernier tu as joué Bant Nadu, pourquoi ce choix ?
 
 Parce que c'est le meilleur deck du format 😁  
-J'ai fait ce tournoi après une longue pause de Magic et j'avais très peu de temps pour le préparer. Vu les résultats de Nadu au PT, je me suis dit qu'il y avait moyen de surfer sur la puissance du deck avant un potentiel ban. J'ai surtout passé du temps à goldfish le deck pour être sûre d'être carré sur les boucles et de bien pouvoir les expliquer aux oppos et voilà.
+J'ai fait ce tournoi après une longue pause de Magic et j'avais très peu de temps pour le préparer. Vu les résultats de Nadu au PT, je me suis dit qu'il y avait moyen de surfer sur la puissance du deck avant un potentiel ban. J'ai surtout passé du temps à goldfish le deck pour être sûre d'être carrée sur les boucles et de bien pouvoir les expliquer aux oppos et voilà.
 {: .quote}
 
 > Qu'est-ce que tu penses du format Modern ?
