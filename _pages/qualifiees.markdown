@@ -17,5 +17,6 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jean-David Pailleron | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Dimir Mill](https://www.mtgtop8.com/event?e=57423&d=628892&f=MO){:target="_blank"} |
 | Joseph Ruan | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Mardu Energy](https://www.mtgtop8.com/event?e=57423&d=628895&f=MO){:target="_blank"} |
 | Victor Hatte | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Bant Nadu](https://www.mtgtop8.com/event?e=57423&d=628890&f=MO){:target="_blank"} |
+{: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
