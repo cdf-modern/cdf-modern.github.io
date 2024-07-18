@@ -15,7 +15,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 32 | À venir 👀 |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-12-rcq-modern){:target="_blank"} |
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  64 | À venir 👀 |
-| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern) |
+| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
 
 ## Tournois passés
