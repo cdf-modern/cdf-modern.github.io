@@ -11,6 +11,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 03/08/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2468--rcq-season-2-modern-samedi-03-aout-10h30.html){:target="_blank"} |
+| 10/08/2024 | Clermont-Ferrand (63) | [Checkpoint Café](https://www.facebook.com/lecheckpointcafe){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/lecheckpointcafe){:target="_blank"} |
 | 04/08/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/s/ravelois-modern/521935857029033/){:target="_blank"} |
 | 24/08/2024 | Clermont-Ferrand (63) | [Checkpoint Café](https://www.facebook.com/lecheckpointcafe){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/lecheckpointcafe){:target="_blank"} |
 | 25/08/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/jc3JgXrNYpuY4qe97){:target="_blank"} |
