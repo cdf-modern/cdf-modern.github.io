@@ -18,6 +18,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Joseph Ruan | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Mardu Energy](https://www.mtgtop8.com/event?e=57423&d=628895&f=MO){:target="_blank"} |
 | Victor Hatte | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Bant Nadu](https://www.mtgtop8.com/event?e=57423&d=628890&f=MO){:target="_blank"} |
 | Samuel Belliard | 03/08/2024 | La Règle du Jeu (Tours) | Jeskai Energy |
+| Joan Massot | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | ? |
+| Hippolyte Seve | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
