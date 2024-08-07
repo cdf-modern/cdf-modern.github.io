@@ -18,8 +18,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Joseph Ruan | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Mardu Energy](https://www.mtgtop8.com/event?e=57423&d=628895&f=MO){:target="_blank"} |
 | Victor Hatte | 14/07/2024 | [Destination Qualifier Chateauroux](https://mtgprime.fr/championnat-national-duel-commander-2024/){:target="_blank"} | [Bant Nadu](https://www.mtgtop8.com/event?e=57423&d=628890&f=MO){:target="_blank"} |
 | Samuel Belliard | 03/08/2024 | La Règle du Jeu (Tours) | Jeskai Energy |
-| Joan Massot | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Jeskai Energy](https://www.mtgtop8.com/event?e=58177&f=MO){:targt="_blank"} |
-| Hippolyte Seve | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Bant Nadu](https://www.mtgtop8.com/event?e=58177&d=634995&f=MO){:targt="_blank"} |
+| [Joan Massot](/joan-massot-2025/){:target="_blank"} | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Jeskai Energy](https://www.mtgtop8.com/event?e=58177&f=MO){:target="_blank"} |
+| Hippolyte Seve | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Bant Nadu](https://www.mtgtop8.com/event?e=58177&d=634995&f=MO){:target="_blank"} |
 | Loic Barlet | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 | Quentin Verges | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
