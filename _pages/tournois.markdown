@@ -35,7 +35,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de joueurs | Top 8 |
 | - | - | - | :-: | - |
-| 14/07/2024 | Chateauroux (36) | [MTGPrime&nbsp;&&nbsp;Cartapapa](https://discord.gg/eExwuHvzRr){:target="_blank"} |  80 | [MTGTop8](https://www.mtgtop8.com/event?e=57423&f=MO){:target="_blank"} |
-| 03/08/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 27 | N/A |
+| 14/07/2024 | Chateauroux (36) | [MTGPrime&nbsp;&&nbsp;Cartapapa](https://discord.gg/eExwuHvzRr){:target="_blank"} |  80 | [MTGTop8](https://www.mtgtop8.com/event?e=57423){:target="_blank"} |
+| 03/08/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 27 | [MTGTop8](https://www.mtgtop8.com/event?e=58177){:target="_blank"} |
 | 03/08/2024 | Tours (37) | [La règle du jeu](https://www.facebook.com/Laregledujeu37/){:target="_blank"} | 13 | N/A |
 | 04/08/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 20 | N/A |
