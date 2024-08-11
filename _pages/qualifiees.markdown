@@ -22,8 +22,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Hippolyte Seve | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Bant Nadu](https://www.mtgtop8.com/event?e=58177&d=634995&f=MO){:target="_blank"} |
 | Loic Barlet | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 | Quentin Verges | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
-| Bernaud Sebastien | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
-| Blanc Jean Gabriel | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
+| Sebastien Bernaud | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
+| Jean Gabriel Blanc | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
 | Arthur Le Goanvic | 10/08/2024 | Diffintel (Bordeaux) | ? |
 | Valentin Manès | 10/08/2024 | Diffintel (Bordeaux) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
