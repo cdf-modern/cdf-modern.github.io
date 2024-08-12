@@ -24,7 +24,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Quentin Verges | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 | Sebastien Bernaud | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
 | Jean Gabriel Blanc | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
-| Arthur Le Goanvic | 10/08/2024 | Diffintel (Bordeaux) | ? |
+| [Arthur Le Goanvic](/arthur-le-goanvic-2025/){:target="_blank"} | 10/08/2024 | Diffintel (Bordeaux) | RG Breach |
 | Valentin Manès | 10/08/2024 | Diffintel (Bordeaux) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
