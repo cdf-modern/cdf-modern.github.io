@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Loïc Barlet
-permalink: /loic-Barlet-2025/
+permalink: /loic-barlet-2025/
 ---
 
 <p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/loic_barlet_photo.jpg" alt="Loïc Barlet" /></p>
