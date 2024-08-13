@@ -20,7 +20,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Samuel Belliard | 03/08/2024 | La Règle du Jeu (Tours) | Jeskai Energy |
 | [Joan Massot](/joan-massot-2025/){:target="_blank"} | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Jeskai Energy](https://www.mtgtop8.com/event?e=58177&f=MO){:target="_blank"} |
 | Hippolyte Seve | 03/08/2024 | Quotidien du Geek (Clermont-Ferrand) | [Bant Nadu](https://www.mtgtop8.com/event?e=58177&d=634995&f=MO){:target="_blank"} |
-| [Loic Barlet](/loic-barlet-2025/){:target="_blank"} | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
+| [Loic Barlet](/loic-barlet-2025/){:target="_blank"} | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | [BG Soultrader](https://www.moxfield.com/decks/P6HzhUC9W0Shq8QrNvJSfw){:target="_blank"} |
 | Quentin Verges | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 | Sebastien Bernaud | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
 | Jean Gabriel Blanc | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
