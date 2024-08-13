@@ -6,7 +6,7 @@ permalink: /loic-barlet-2025/
 
 <p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/loic_barlet_photo.jpg" alt="Loïc Barlet" /></p>
 
-Loïc s'est qualifié en finissant parmi les deux premiers à un tournoi de MagicBougnat à Clermont-Ferrand le 4 aout 2024. Il enchaîne sur sa lancée et remporte un RCQ le week-end suivant ! Il est donc qualifié pour le RC Prague, et la CdF Modern !  
+Loïc s'est qualifié en finissant parmi les deux premiers à un tournoi de MagicBougnat à Clermont-Ferrand le 4 aout 2024. Il enchaîne sur sa lancée et remporte un RCQ le week-end suivant. Il est donc qualifié pour le RC Prague, et la CdF Modern 🥳  
 Il a pris le temps de répondre à nos questions, merci à lui et encore bravo !
 
 > Quel est ton parcours à Magic ? Quelles sont tes meilleures performances en tournoi ?
