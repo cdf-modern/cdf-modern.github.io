@@ -17,7 +17,7 @@ Je suis pas un grand adepte des tournois donc j'en ai pas fait énormément. Ma 
 
 > Quel deck jouais-tu au tournoi ? Pourquoi ce choix ?
 
-Je me suis qualifié avec le jeu Soultrader combo (BG), c'est un jeu qui existe uniquement depuis MH3. J'ai choisi ce pack car il joue beaucoup de mes cartes préférées (Gravecrawler, Stitcher supplier, ...), il a un gameplay qui m'est assez familier (graveyard.deck) et je pense que les gens ne l'attendait pas particulièrement. La gravehate est relativement peu présente, et ce qui existe n'arrête pas complètement le pack. La présence de 4 Force of Despair maindeck permet de jouer contre Nadu même sur la première game, et l'association de récursivité avec un potentiel combo me semblait solide. Bien que le deck soit pas encore fixe sur les 75, le potentiel est bien présent.
+Je me suis qualifié avec le jeu Soultrader combo (BG), c'est un jeu qui existe uniquement depuis MH3. J'ai choisi ce pack car il joue beaucoup de mes cartes préférées (Gravecrawler, Stitcher supplier, ...), il a un gameplay qui m'est assez familier (graveyard.deck) et je pense que les gens ne l'attendait pas particulièrement. La gravehate est relativement peu présente, et ce qui existe n'arrête pas complètement le pack. La présence de 4 Flare of Malice maindeck permet de jouer contre Nadu même sur la première game, et l'association de récursivité avec un potentiel combo me semblait solide. Bien que le deck soit pas encore fixe sur les 75, le potentiel est bien présent.
 {: .quote}
 
 > Qu'est-ce que tu penses du format Modern ?
