@@ -24,8 +24,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Quentin Verges | 04/08/2024 | MagicBougnat (Clermont-Ferrand) | ? |
 | Sebastien Bernaud | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
 | Jean Gabriel Blanc | 10/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
-| [Arthur Le Goanvic](/arthur-le-goanvic-2025/){:target="_blank"} | 10/08/2024 | Diffintel (Bordeaux) | RG Breach |
-| Valentin Manès | 10/08/2024 | Diffintel (Bordeaux) | ? |
+| [Arthur Le Goanvic](/arthur-le-goanvic-2025/){:target="_blank"} | 10/08/2024 | Diffintel (Bordeaux) | [RG Breach](https://www.mtgtop8.com/event?e=58337&f=MO){:target="_blank"} |
+| Valentin Manès | 10/08/2024 | Diffintel (Bordeaux) | [Esper Goryo](https://www.mtgtop8.com/event?e=58337&d=636270&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
