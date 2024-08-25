@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Eliott Vivier
-permalink: /eliot-vivier-2025/
+permalink: /eliott-vivier-2025/
 ---
 
 <p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/eliott_vivier_photo.jpg" alt="Eliott Vivier" /></p>
