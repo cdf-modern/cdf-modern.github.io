@@ -28,6 +28,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Valentin Manès | 10/08/2024 | Diffintel (Bordeaux) | [Esper Goryo](https://www.mtgtop8.com/event?e=58337&d=636270&f=MO){:target="_blank"} |
 | [Eliott Vivier](/eliott-vivier-2025/){:target="_blank"} | 24/08/2024 | Checkpoint Café (Clermont-Ferrand) | Bant Living End |
 | Gaëtan Cece | 24/08/2024 | Checkpoint Café (Clermont-Ferrand) | ? |
+| Jean-Baptiste Farion | 25/08/2024 | Ludotrotter (Nantes) | Dimir Frogtide |
+| Thomas mechin | 25/08/2024 | Ludotrotter (Nantes) | Bant Nadu |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
