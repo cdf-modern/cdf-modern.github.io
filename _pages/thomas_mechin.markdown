@@ -4,6 +4,8 @@ title: Thomas mechin
 permalink: /thomas-mechin-2025/
 ---
 
+<p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/thomas_mechin_photo.jpg" alt="Thomas mechin" /></p>
+
 Thomas a remporté un RCQ à Nantes hier : il se qualifie donc pour la CdF Modern et le RC Prague, bravo à lui ! On lui souhaite plein de succès en Tchéquie 🤞  
 En attendant il a répondu à nos questions, merci à lui et encore bravo !
 
