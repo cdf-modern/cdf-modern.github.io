@@ -4,7 +4,7 @@ title: Thomas mechin
 permalink: /thomas-mechin-2025/
 ---
 
-Thomas a fini deuxième d'un RCQ à Nantes hier : il se qualifie donc pour la CdF Modern, bravo à lui ! Le connaissant un peu, je pense qu'il ne va pas lâcher l'affaire cette saison, et va continuer à écumer les RCQs jusqu'à ce qu'il se qualifie pour le RC Prague. C'est tout ce qu'on lui souhaite 🤞  
+Thomas a remporté un RCQ à Nantes hier : il se qualifie donc pour la CdF Modern et le RC Prague, bravo à lui ! On lui souhaite plein de succès en Tchéquie 🤞  
 En attendant il a répondu à nos questions, merci à lui et encore bravo !
 
 > Quel est ton parcours à Magic ? Quelles sont tes meilleures performances en tournoi ?
