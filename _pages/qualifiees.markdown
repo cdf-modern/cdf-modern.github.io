@@ -30,6 +30,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Gaëtan Cece | 24/08/2024 | Checkpoint Café (Clermont-Ferrand) | Bant Nadu |
 | Jean-Baptiste Farion | 25/08/2024 | Ludotrotter (Nantes) | Dimir Frogtide |
 | [Thomas mechin](/thomas-mechin-2025/){:target="_blank"} | 25/08/2024 | Ludotrotter (Nantes) | Bant Nadu |
+| Filipe Sousa | 25/08/2024 | Xenomorphe (Genève) | [Grixis Tempo](https://www.mtgtop8.com/event?e=58865&d=640724&f=MO){:target="_blank"} |
+| Pascal Grossmann | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640725&f=MO){:target="_blank"} |
+| Samuel Marti | 25/08/2024 | Xenomorphe (Genève) | [Boros Aggro](https://www.mtgtop8.com/event?e=58865&d=640726&f=MO){:target="_blank"} |
+| Demian Coca | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640727&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
