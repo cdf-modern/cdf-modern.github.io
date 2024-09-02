@@ -34,6 +34,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pascal Grossmann | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640725&f=MO){:target="_blank"} |
 | Samuel Marti | 25/08/2024 | Xenomorphe (Genève) | [Boros Aggro](https://www.mtgtop8.com/event?e=58865&d=640726&f=MO){:target="_blank"} |
 | Demian Coca | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640727&f=MO){:target="_blank"} |
+| Gabriel Sarfis | 01/09/2024 | MTGNantes | Energy |
+| Paul Duvignau | 01/09/2024 | MTGNantes | Frog |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
