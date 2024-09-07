@@ -36,6 +36,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Demian Coca | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640727&f=MO){:target="_blank"} |
 | Gabriel Sarfis | 01/09/2024 | MTGNantes | Energy |
 | Paul Duvignau | 01/09/2024 | MTGNantes | Frog |
+| Leo Chapelle | 07/09/2024 | ROLE Games (Marseille) | ? |
+| Arthur Merle | 07/09/2024 | MagicCorporation (Paris) | ? |
+| Michel Nobime | 07/09/2024 | MagicCorporation (Paris) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
