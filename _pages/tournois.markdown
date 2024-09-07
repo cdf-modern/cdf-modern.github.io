@@ -11,8 +11,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 07/09/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2469-rcq-season-2-modern-samedi-07-septembre-10h30.html){:target="_blank"} |
-| 07/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/s/modern-de-septembre/780438483977284/){:target="_blank"} |
-| 07/09/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [Site web](http://animation.magiccorporation.com/?op=calendrier&jour=7&mois=09&annee=2024){:target="_blank"} |
 | 08/09/2024 | Romorantin (41) | [L'antre des jeux](https://lantredesjeux.fr/){:target="_blank"} | 48 | [Site web](https://l-antre-des-jeux.s2.yapla.com/fr/event-62255){:target="_blank"} |
 | 14/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 32 | [Discord](https://discord.com/invite/bfdC45Nv5Y){:target="_blank"} |
 | 14/09/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Boutique MV](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
@@ -51,3 +49,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 25/08/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  33 | [MTGTop8](https://www.mtgtop8.com/event?e=58865){:target="_blank"} |
 | 25/08/2024 | Nantes (44) | Ludotrotter |  25 | N/A |
 | 01/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  31 | N/A |
+| 07/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 9 | N/A |
+| 07/09/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 28 | N/A |
