@@ -19,6 +19,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 22/09/2024 | Bordeaux (33) | [Artefacts](https://discord.gg/tbzHdf4Hvm){:target="_blank"} | 64 | [Mail](mailto:artefactsbordeaux@gmail.com) |
 | 22/09/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/qFAtFWoA9rPj3C8e8){:target="_blank"} |
 | 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/tournoi-rcq-modern){:target="_blank"} |
+| 22/09/2024 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/item/regional-championship-qualifier-modern-22-septembre/){:target="_blank"} |
 | 22/09/2024 | Strasbourg (67) | [Magic Knight FR](https://www.facebook.com/profile.php?id=61553560765100){:target="_blank"} | 48 | [Facebook](https://www.facebook.com/events/393426350454250/){:target="_blank"} |
 | 28/09/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern-2/){:target="_blank"} |
 | 28/09/2024 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 32 | [Site web](https://www.play-in.com/evenement/9254-regional_championship_qualifier){:target="_blank"} |
