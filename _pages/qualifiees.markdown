@@ -34,8 +34,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pascal Grossmann | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640725&f=MO){:target="_blank"} |
 | Samuel Marti | 25/08/2024 | Xenomorphe (Genève) | [Boros Aggro](https://www.mtgtop8.com/event?e=58865&d=640726&f=MO){:target="_blank"} |
 | Demian Coca | 25/08/2024 | Xenomorphe (Genève) | [Bant Nadu](https://www.mtgtop8.com/event?e=58865&d=640727&f=MO){:target="_blank"} |
-| Gabriel Sarfis | 01/09/2024 | MTGNantes | Energy |
-| Paul Duvignau | 01/09/2024 | MTGNantes | Frog |
+| Gabriel Sarfis | 01/09/2024 | MTGNantes | [Boros Energy](https://www.mtgtop8.com/event?e=59108&d=642714&f=MO){:target="_blank"} |
+| Paul Duvignau | 01/09/2024 | MTGNantes | [UB Tempo](https://www.mtgtop8.com/event?e=59108&d=642715&f=MO){:target="_blank"} |
 | Leo Chapelle | 07/09/2024 | ROLE Games (Marseille) | ? |
 | Arthur Merle | 07/09/2024 | MagicCorporation (Paris) | ? |
 | Michel Nobime | 07/09/2024 | MagicCorporation (Paris) | ? |
