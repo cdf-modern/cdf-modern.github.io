@@ -48,6 +48,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 24/08/2024 | Clermont-Ferrand (63) | [Checkpoint Café](https://www.facebook.com/lecheckpointcafe){:target="_blank"} | 21 | N/A |
 | 25/08/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  33 | [MTGTop8](https://www.mtgtop8.com/event?e=58865){:target="_blank"} |
 | 25/08/2024 | Nantes (44) | Ludotrotter |  25 | N/A |
-| 01/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  31 | N/A |
+| 01/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  31 | [MTGTop8](https://www.mtgtop8.com/event?e=59108){:target="_blank"} |
 | 07/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 9 | N/A |
 | 07/09/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 28 | N/A |
