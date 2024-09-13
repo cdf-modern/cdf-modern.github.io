@@ -28,6 +28,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/10/2024 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-4-duel-commander-rcq-modern-rcq-scelle-lorcana-pauper){:target="_blank"} |
 | 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
 | 12/10/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [Site web](http://animation.magiccorporation.com/?op=calendrier&jour=12&mois=10&annee=2024){:target="_blank"} |
+| 13/10/2024 | Angers (49) | [MTG Anjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-modern-13-octobre-2024-mtg-anjou){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 32 | [Mail](mailto:contact.dooztcg@gmail.com) |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
