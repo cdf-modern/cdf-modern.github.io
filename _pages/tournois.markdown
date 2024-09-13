@@ -11,6 +11,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 14/09/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Boutique MV](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
+| 15/09/2024 | Lille (59) | [Valty Street](https://www.facebook.com/ValtyStreet/){:target="_blank"} | ?? | [Facebook](https://www.facebook.com/ValtyStreet/){:target="_blank"} |
 | 22/09/2024 | Bordeaux (33) | [Artefacts](https://discord.gg/tbzHdf4Hvm){:target="_blank"} | 64 | [Mail](mailto:artefactsbordeaux@gmail.com) |
 | 22/09/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/qFAtFWoA9rPj3C8e8){:target="_blank"} |
 | 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/tournoi-rcq-modern){:target="_blank"} |
