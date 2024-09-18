@@ -41,6 +41,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Michel Nobime | 07/09/2024 | MagicCorporation (Paris) | ? |
 | Gurvan Royer | 07/09/2024 | Quotidien du Geek (Clermont-Ferrand) | ? |
 | Clément Beauquier | 08/09/2024 | L'antre des jeux (Romorantin) | ? |
+| Thomas Drucké | 15/09/2024 | Valty Street (Lille) | ? |
+| Nicolas Crepelle | 15/09/2024 | Valty Street (Lille) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
