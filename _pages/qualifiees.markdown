@@ -41,6 +41,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Michel Nobime | 07/09/2024 | MagicCorporation (Paris) | ? |
 | Gurvan Royer | 07/09/2024 | Quotidien du Geek (Clermont-Ferrand) | ? |
 | Clément Beauquier | 08/09/2024 | L'antre des jeux (Romorantin) | ? |
+| Tristan Gadea | 14/09/2024 | Cartapapa (Montpellier) | [Boros Energy](https://www.mtgtop8.com/event?e=59597&d=646808&f=MO){:target="_blank"} |
+| Dorian Legay | 14/09/2024 | Cartapapa (Montpellier) | [Living End](https://www.mtgtop8.com/event?e=59597&d=646810&f=MO){:target="_blank"} |
 | Thomas Drucké | 15/09/2024 | Valty Street (Lille) | ? |
 | Nicolas Crepelle | 15/09/2024 | Valty Street (Lille) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
