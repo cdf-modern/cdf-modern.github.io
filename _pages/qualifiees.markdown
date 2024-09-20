@@ -45,7 +45,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Dorian Legay | 14/09/2024 | Cartapapa (Montpellier) | [Living End](https://www.mtgtop8.com/event?e=59597&d=646810&f=MO){:target="_blank"} |
 | Thomas Drucké | 15/09/2024 | Valty Street (Lille) | ? |
 | Nicolas Crepelle | 15/09/2024 | Valty Street (Lille) | ? |
-| Valentin Amar | 19/09/2024 | MTG37 (Tours) | ? |
+| [Valentin Amar](/valentin-amar-2025/){:target="_blank"} | 19/09/2024 | MTG37 (Tours) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
