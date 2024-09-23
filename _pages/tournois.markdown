@@ -10,9 +10,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 22/09/2024 | Bordeaux (33) | [Artefacts](https://discord.gg/tbzHdf4Hvm){:target="_blank"} | 64 | [Mail](mailto:artefactsbordeaux@gmail.com) |
 | 22/09/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/qFAtFWoA9rPj3C8e8){:target="_blank"} |
-| 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/tournoi-rcq-modern){:target="_blank"} |
 | 22/09/2024 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/item/regional-championship-qualifier-modern-22-septembre/){:target="_blank"} |
 | 22/09/2024 | Strasbourg (67) | [Magic Knight FR](https://www.facebook.com/profile.php?id=61553560765100){:target="_blank"} | 48 | [Facebook](https://www.facebook.com/events/393426350454250/){:target="_blank"} |
 | 28/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 32 | [Discord](https://discord.com/invite/bfdC45Nv5Y){:target="_blank"} |
@@ -53,3 +51,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 08/09/2024 | Romorantin (41) | [L'antre des jeux](https://lantredesjeux.fr/){:target="_blank"} | 16 | N/A |
 | 14/09/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 19 | [MTGTop8](https://www.mtgtop8.com/event?e=59597){:target="_blank"} |
 | 15/09/2024 | Lille (59) | [Valty Street](https://www.facebook.com/ValtyStreet/){:target="_blank"} | 26 | N/A |
+| 22/09/2024 | Bordeaux (33) | [Artefacts](https://discord.gg/tbzHdf4Hvm){:target="_blank"} | 24 | N/A |
+| 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 19 | N/A |
