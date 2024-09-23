@@ -4,7 +4,8 @@ title: L'assemblée du Modern
 permalink: /assemblee-du-modern/
 ---
 
-L'assemblée du Modern est une association à but non lucratif, dont le but est de faire vivre notre format préféré de Magic partout autour de nous.
+L'assemblée du Modern est une association à but non lucratif, dont le but est de faire vivre notre format préféré de Magic partout autour de nous.  
+Retrouvez-nous sur [HelloAsso](https://www.helloasso.com/associations/l-assemblee-du-modern) !
 
 ## Le projet de Coupe de France Modern
 
