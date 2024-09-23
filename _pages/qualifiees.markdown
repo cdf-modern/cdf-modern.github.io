@@ -50,8 +50,12 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierre Tardy | 22/09/2024 | Damoclès (Poitiers) | [Mardu Energy](https://www.mtgtop8.com/event?e=59739&d=647943&f=MO){:target="_blank"} |
 | Clément Lumeau | 22/09/2024 | Artefacts (Bordeaux) | [Domain Zoo](https://www.mtgtop8.com/event?e=59745&d=647990&f=MO){:target="_blank"} |
 | Yoan Daridonros | 22/09/2024 | Artefacts (Bordeaux) | [Ruby Storm](https://www.mtgtop8.com/event?e=59745&d=647991&f=MO){:target="_blank"} |
-| Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"}
-| François Matheys | 22/09/2024 | Xenomorphe (Genève) | [Jeskai Control](https://www.mtgtop8.com/event?e=59752&d=648050&f=MO){:target="_blank"}
+| Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"} |
+| François Matheys | 22/09/2024 | Xenomorphe (Genève) | [Jeskai Control](https://www.mtgtop8.com/event?e=59752&d=648050&f=MO){:target="_blank"} |
+| Duncan Chabernaud | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
+| Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
+| Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
+| Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
