@@ -46,10 +46,12 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thomas Drucké | 15/09/2024 | Valty Street (Lille) | ? |
 | Nicolas Crepelle | 15/09/2024 | Valty Street (Lille) | ? |
 | [Valentin Amar](/valentin-amar-2025/){:target="_blank"} | 19/09/2024 | MTG37 (Tours) | Boros Energy |
-| Louis Berody | 22/09/2024 | Damoclès (Poitiers) | Boros Energy |
-| Pierre Tardy | 22/09/2024 | Damoclès (Poitiers) | Mardu Energy |
-| Clément Lumeau | 22/09/2024 | Artefacts (Bordeaux) | ? |
-| Yoan Daridonros | 22/09/2024 | Artefacts (Bordeaux) | ? |
+| Louis Berody | 22/09/2024 | Damoclès (Poitiers) | [Boros Energy](https://www.mtgtop8.com/event?e=59739&d=647944&f=MO){:target="_blank"} |
+| Pierre Tardy | 22/09/2024 | Damoclès (Poitiers) | [Mardu Energy](https://www.mtgtop8.com/event?e=59739&d=647943&f=MO){:target="_blank"} |
+| Clément Lumeau | 22/09/2024 | Artefacts (Bordeaux) | [Domain Zoo](https://www.mtgtop8.com/event?e=59745&d=647990&f=MO){:target="_blank"} |
+| Yoan Daridonros | 22/09/2024 | Artefacts (Bordeaux) | [Ruby Storm](https://www.mtgtop8.com/event?e=59745&d=647991&f=MO){:target="_blank"} |
+| Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"}
+| François Matheys | 22/09/2024 | Xenomorphe (Genève) | [Jeskai Control](https://www.mtgtop8.com/event?e=59752&d=648050&f=MO){:target="_blank"}
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
