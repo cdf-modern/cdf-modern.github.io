@@ -25,6 +25,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-modern-13-octobre-2024-mtg-anjou){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 32 | [Mail](mailto:contact.dooztcg@gmail.com) |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
+| 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 24 | [HelloAsso](https://www.helloasso.com/associations/mjc-jean-paul-robin/evenements/tournoi-magic-d-octobre){:target="_blank"} |
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
