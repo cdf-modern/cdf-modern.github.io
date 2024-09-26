@@ -52,10 +52,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Yoan Daridonros | 22/09/2024 | Artefacts (Bordeaux) | [Ruby Storm](https://www.mtgtop8.com/event?e=59745&d=647991&f=MO){:target="_blank"} |
 | Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"} |
 | François Matheys | 22/09/2024 | Xenomorphe (Genève) | [Jeskai Control](https://www.mtgtop8.com/event?e=59752&d=648050&f=MO){:target="_blank"} |
-| Duncan Chabernaud | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
-| Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
-| Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
-| Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | ? |
+| Duncan Chabernaud | 22/09/2024 | Magic Knight FR (Strasbourg) | [Omnath Control](https://www.mtgtop8.com/event?e=59804&d=648411){:target="_blank"} |
+| Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | [Jeskai Control](https://www.mtgtop8.com/event?e=59804&d=648412){:target="_blank"} |
+| Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | [Amulet Titan](https://www.mtgtop8.com/event?e=59804&d=648413){:target="_blank"} |
+| Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | [UB Frog](https://www.mtgtop8.com/event?e=59804&d=648414){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
