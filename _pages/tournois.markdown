@@ -17,6 +17,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  20 | [Facebook](https://www.facebook.com/share/ZbEQFQZTgiQcdJ8M/){:target="_blank"} |
 | 29/09/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/1030078222100405/){:target="_blank"} |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-12-rcq-modern){:target="_blank"} |
+| 29/09/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2470-rcq-season-2-modern-samedi-05-octobre-10h30.html){:target="_blank"} |
 | 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  32 | [Site web](https://octopusgame.fr/accueil/683-magic-rcq-dimanche-06-octobre-10h30.html){:target="_blank"} |
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  64 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-rcq-modern){:target="_blank"} |
@@ -27,6 +28,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-modern-13-octobre-2024-mtg-anjou){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 32 | [Mail](mailto:contact.dooztcg@gmail.com) |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
+| 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 24 | [HelloAsso](https://www.helloasso.com/associations/mjc-jean-paul-robin/evenements/tournoi-magic-d-octobre){:target="_blank"} |
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
 | 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
