@@ -14,10 +14,12 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 28/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 32 | [Discord](https://discord.com/invite/bfdC45Nv5Y){:target="_blank"} |
 | 28/09/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern-2/){:target="_blank"} |
 | 28/09/2024 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 32 | [Site web](https://www.play-in.com/evenement/9254-regional_championship_qualifier){:target="_blank"} |
+| 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  20 | [Facebook](https://www.facebook.com/share/ZbEQFQZTgiQcdJ8M/){:target="_blank"} |
 | 29/09/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/1030078222100405/){:target="_blank"} |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-12-rcq-modern){:target="_blank"} |
 | 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2470-rcq-season-2-modern-samedi-05-octobre-10h30.html){:target="_blank"} |
-| 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  64 | À venir 👀 |
+| 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  32 | [Site web](https://octopusgame.fr/accueil/683-magic-rcq-dimanche-06-octobre-10h30.html){:target="_blank"} |
+| 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  64 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-rcq-modern){:target="_blank"} |
 | 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/s/wpn-qualifier-modern/1030309641996261/){:target="_blank"} |
 | 06/10/2024 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-4-duel-commander-rcq-modern-rcq-scelle-lorcana-pauper){:target="_blank"} |
 | 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
