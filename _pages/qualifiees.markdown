@@ -45,6 +45,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Dorian Legay | 14/09/2024 | Cartapapa (Montpellier) | [Living End](https://www.mtgtop8.com/event?e=59597&d=646810&f=MO){:target="_blank"} |
 | Thomas Drucké | 15/09/2024 | Valty Street (Lille) | ? |
 | Nicolas Crepelle | 15/09/2024 | Valty Street (Lille) | ? |
+| Matthieu Goudard | 15/09/2024 | Valty Street (Lille) | ? |
 | [Valentin Amar](/valentin-amar-2025/){:target="_blank"} | 19/09/2024 | MTG37 (Tours) | Boros Energy |
 | Louis Berody | 22/09/2024 | Damoclès (Poitiers) | [Boros Energy](https://www.mtgtop8.com/event?e=59739&d=647944&f=MO){:target="_blank"} |
 | [Pierre Tardy](/pierre-tardy-2025/){:target="_blank"} | 22/09/2024 | Damoclès (Poitiers) | [Mardu Energy](https://www.mtgtop8.com/event?e=59739&d=647943&f=MO){:target="_blank"} |
