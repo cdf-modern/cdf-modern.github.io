@@ -11,7 +11,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 22/09/2024 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/item/regional-championship-qualifier-modern-22-septembre/){:target="_blank"} |
-| 28/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 32 | [Discord](https://discord.com/invite/bfdC45Nv5Y){:target="_blank"} |
 | 28/09/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern-2/){:target="_blank"} |
 | 28/09/2024 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 32 | [Site web](https://www.play-in.com/evenement/9254-regional_championship_qualifier){:target="_blank"} |
 | 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  20 | [Facebook](https://www.facebook.com/share/ZbEQFQZTgiQcdJ8M/){:target="_blank"} |
@@ -60,3 +59,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 22/09/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  22 | [MTGTop8](https://www.mtgtop8.com/event?e=59752){:target="_blank"} |
 | 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 19 | [MTGTop8](https://www.mtgtop8.com/event?e=59739){:target="_blank"} |
 | 22/09/2024 | Strasbourg (67) | [Magic Knight FR](https://www.facebook.com/profile.php?id=61553560765100){:target="_blank"} | 36 | N/A |
+| 28/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 17 | N/A |
