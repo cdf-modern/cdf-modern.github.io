@@ -59,6 +59,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | [UB Frog](https://www.mtgtop8.com/event?e=59804&d=648414){:target="_blank"} |
 | Evan Csont | 28/09/2024 | Diffintel (Bordeaux) | ? |
 | Nicolas Monsinjon | 28/09/2024 | Diffintel (Bordeaux) | ? |
+| Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
