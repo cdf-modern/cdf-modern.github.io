@@ -49,6 +49,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | [Valentin Amar](/valentin-amar-2025/){:target="_blank"} | 19/09/2024 | MTG37 (Tours) | Boros Energy |
 | Louis Berody | 22/09/2024 | Damoclès (Poitiers) | [Boros Energy](https://www.mtgtop8.com/event?e=59739&d=647944&f=MO){:target="_blank"} |
 | [Pierre Tardy](/pierre-tardy-2025/){:target="_blank"} | 22/09/2024 | Damoclès (Poitiers) | [Mardu Energy](https://www.mtgtop8.com/event?e=59739&d=647943&f=MO){:target="_blank"} |
+| Nicolas Borgel | 22/09/2024 | Artefacts (Bordeaux) | [Dimir Frogtide](https://www.mtgtop8.com/event?e=59745&d=647989&f=MO){:target="_blank"} |
 | Clément Lumeau | 22/09/2024 | Artefacts (Bordeaux) | [Domain Zoo](https://www.mtgtop8.com/event?e=59745&d=647990&f=MO){:target="_blank"} |
 | Yoan Daridonros | 22/09/2024 | Artefacts (Bordeaux) | [Ruby Storm](https://www.mtgtop8.com/event?e=59745&d=647991&f=MO){:target="_blank"} |
 | Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"} |
@@ -57,9 +58,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | [Jeskai Control](https://www.mtgtop8.com/event?e=59804&d=648412){:target="_blank"} |
 | Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | [Amulet Titan](https://www.mtgtop8.com/event?e=59804&d=648413){:target="_blank"} |
 | Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | [UB Frog](https://www.mtgtop8.com/event?e=59804&d=648414){:target="_blank"} |
+| [Julien Rouar](/julien-rouar-2025){:target="_blank"} | 28/09/2024 | Diffintel (Bordeaux) | ? |
 | Evan Csont | 28/09/2024 | Diffintel (Bordeaux) | ? |
 | Nicolas Monsinjon | 28/09/2024 | Diffintel (Bordeaux) | ? |
-| Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | ? |
+| Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | [Domain Zoo](https://www.mtgtop8.com/event?e=59956&d=649568&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
