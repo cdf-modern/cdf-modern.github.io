@@ -57,6 +57,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 22/09/2024 | Bordeaux (33) | [Artefacts](https://discord.gg/tbzHdf4Hvm){:target="_blank"} | 24 | [MTGTop8](https://www.mtgtop8.com/event?e=59745){:target="_blank"} |
 | 22/09/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  22 | [MTGTop8](https://www.mtgtop8.com/event?e=59752){:target="_blank"} |
 | 22/09/2024 | Poitiers (86) | [Damoclès](https://discord.gg/samEF8G9yR){:target="_blank"} | 19 | [MTGTop8](https://www.mtgtop8.com/event?e=59739){:target="_blank"} |
-| 22/09/2024 | Strasbourg (67) | [Magic Knight FR](https://www.facebook.com/profile.php?id=61553560765100){:target="_blank"} | 36 | N/A |
+| 22/09/2024 | Strasbourg (67) | [Magic Knight FR](https://www.facebook.com/profile.php?id=61553560765100){:target="_blank"} | 36 | [MTGTop8](https://www.mtgtop8.com/event?e=59804&f=MO){:target="_blank"} |
 | 28/09/2024 | Bordeaux (33) | [Diffintel](https://www.facebook.com/Difintelbordeaux/){:target="_blank"} | 17 | N/A |
-| 29/09/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  15 | N/A |
+| 29/09/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  15 | [MTGTop8](https://www.mtgtop8.com/event?e=59956&f=MO){:target="_blank"} |
