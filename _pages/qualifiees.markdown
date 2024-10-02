@@ -61,6 +61,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | [Julien Rouar](/julien-rouar-2025){:target="_blank"} | 28/09/2024 | Diffintel (Bordeaux) | ? |
 | Evan Csont | 28/09/2024 | Diffintel (Bordeaux) | ? |
 | Nicolas Monsinjon | 28/09/2024 | Diffintel (Bordeaux) | ? |
+| Matthieu Pailloux | 28/09/2024 | Play-in BNF (Paris) | ? |
+| Cameron Cisse | 28/09/2024 | Play-in BNF (Paris) | ? |
 | Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | [Domain Zoo](https://www.mtgtop8.com/event?e=59956&d=649568&f=MO){:target="_blank"} |
 | Axel Chambon | 29/09/2024 | Asian Gate (Blois) | ? |
 | Romain Labenne | 29/09/2024 | Asian Gate (Blois) | ? |
