@@ -66,8 +66,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | [Domain Zoo](https://www.mtgtop8.com/event?e=59956&d=649568&f=MO){:target="_blank"} |
 | Axel Chambon | 29/09/2024 | Asian Gate (Blois) | ? |
 | Romain Labenne | 29/09/2024 | Asian Gate (Blois) | ? |
-| Pierre Gillon | 29/09/2024 | Carta'jeu (Lyon) | ? |
-| Alexis Raulin--Foissac | 29/09/2024 | Carta'jeu (Lyon) | ? |
+| Pierre Gillon | 29/09/2024 | Carta'jeu (Lyon) | [Boros Energy](https://www.mtgtop8.com/event?e=60040&d=650398&f=MO){:target="_blank"} |
+| Alexis Raulin--Foissac | 29/09/2024 | Carta'jeu (Lyon) | [Esper Reanimator](https://www.mtgtop8.com/event?e=60040&d=650399&f=MO){:target="_blank"} |
+| Lucas Delaveau | 29/09/2024 | MTGNantes (Nantes) | Dimir Frogtide |
+| Antoine Furet | 29/09/2024 | MTGNantes (Nantes) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
