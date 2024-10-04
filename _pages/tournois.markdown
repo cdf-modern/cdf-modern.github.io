@@ -30,6 +30,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 48 | [Site web](https://jeux-barjo.fr/magic-the-gathering/1358-reservation-regional-championship-qualifier-modern-.html){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
+| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site Web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
 
 ## Tournois passés
 
