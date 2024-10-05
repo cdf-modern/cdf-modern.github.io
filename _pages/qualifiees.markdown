@@ -58,9 +58,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | [Jeskai Control](https://www.mtgtop8.com/event?e=59804&d=648412){:target="_blank"} |
 | Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | [Amulet Titan](https://www.mtgtop8.com/event?e=59804&d=648413){:target="_blank"} |
 | Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | [UB Frog](https://www.mtgtop8.com/event?e=59804&d=648414){:target="_blank"} |
-| [Julien Rouar](/julien-rouar-2025){:target="_blank"} | 28/09/2024 | Diffintel (Bordeaux) | ? |
-| Evan Csont | 28/09/2024 | Diffintel (Bordeaux) | ? |
-| Nicolas Monsinjon | 28/09/2024 | Diffintel (Bordeaux) | ? |
+| [Julien Rouar](/julien-rouar-2025){:target="_blank"} | 28/09/2024 | Diffintel (Bordeaux) | [Eldrazi Ramp](https://www.mtgtop8.com/event?e=60101&d=650807&f=MO){:target="_blank"} |
+| Evan Csont | 28/09/2024 | Diffintel (Bordeaux) | [Esper Reanimator](https://www.mtgtop8.com/event?e=60101&d=650810&f=MO){:target="_blank"} |
+| Nicolas Monsinjon | 28/09/2024 | Diffintel (Bordeaux) | [Domain Zoo](https://www.mtgtop8.com/event?e=60101&d=650811&f=MO){:target="_blank"} |
 | Matthieu Pailloux | 28/09/2024 | Play-in BNF (Paris) | ? |
 | Yannick Chatelle | 28/09/2024 | L'épée à 2 nains (Genève) | ? |
 | Cameron Cisse | 28/09/2024 | Play-in BNF (Paris) | ? |
