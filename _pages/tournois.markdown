@@ -22,7 +22,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 24 | [HelloAsso](https://www.helloasso.com/associations/mjc-jean-paul-robin/evenements/tournoi-magic-d-octobre){:target="_blank"} |
-| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
+| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
+| 20/10/2024 | Rennes (35) | [Magic Rennes](https://www.facebook.com/events/1063032042088903/){:target="_blank"} | 48 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/rcq-modern-20-octobre-2024){:target="_blank"} |
 | 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 48 | [Site web](https://jeux-barjo.fr/magic-the-gathering/1358-reservation-regional-championship-qualifier-modern-.html){:target="_blank"} |
