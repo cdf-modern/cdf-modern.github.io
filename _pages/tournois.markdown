@@ -12,9 +12,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 22/09/2024 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/item/regional-championship-qualifier-modern-22-septembre/){:target="_blank"} |
 | 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2470-rcq-season-2-modern-samedi-05-octobre-10h30.html){:target="_blank"} |
-| 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  32 | [Site web](https://octopusgame.fr/accueil/683-magic-rcq-dimanche-06-octobre-10h30.html){:target="_blank"} |
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  64 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-rcq-modern){:target="_blank"} |
-| 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/s/wpn-qualifier-modern/1030309641996261/){:target="_blank"} |
 | 06/10/2024 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-4-duel-commander-rcq-modern-rcq-scelle-lorcana-pauper){:target="_blank"} |
 | 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
 | 12/10/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [Site web](http://animation.magiccorporation.com/?op=calendrier&jour=12&mois=10&annee=2024){:target="_blank"} |
@@ -62,3 +60,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  18 | N/A |
 | 29/09/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 23 | [MTGTop8](https://www.mtgtop8.com/event?e=60040&f=MO){:target="_blank"} |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  30 | N/A |
+| 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  22 | N/A |
+| 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 13 | N/A |
