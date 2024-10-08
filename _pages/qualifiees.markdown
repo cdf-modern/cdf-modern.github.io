@@ -74,6 +74,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Hichem Slimani | 06/10/2024 | Role Games (Marseille) | ? |
 | Antoine Ribeiro | 06/10/2024 | Octopus Game (Bourges) | ? |
 | Victor Hatte | 06/10/2024 | Octopus Game (Bourges) | ? |
+| Anthony Rocamora | 06/10/2024 | Les Mages d'Urza (Eysines) | [Boros Energy](https://www.mtgtop8.com/event?e=60208&d=651772&f=MO){:target="_blank"} |
+| Jean Bergis | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Rhinos](https://www.mtgtop8.com/event?e=60208&d=651766&f=MO){:target="_blank"} |
+| Maxime Gateaud | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Zoo](https://www.mtgtop8.com/event?e=60208&d=651768&f=MO){:target="_blank"} |
+| Paul Debray | 06/10/2024 | Les Mages d'Urza (Eysines) | [UR Wizards](https://www.mtgtop8.com/event?e=60208&d=651771&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
