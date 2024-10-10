@@ -55,6 +55,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Luca Fessia | 22/09/2024 | Xenomorphe (Genève) | [Esper Reanimator](https://www.mtgtop8.com/event?e=59752&d=648049&f=MO){:target="_blank"} |
 | François Matheys | 22/09/2024 | Xenomorphe (Genève) | [Jeskai Control](https://www.mtgtop8.com/event?e=59752&d=648050&f=MO){:target="_blank"} |
 | Duncan Chabernaud | 22/09/2024 | Magic Knight FR (Strasbourg) | [Omnath Control](https://www.mtgtop8.com/event?e=59804&d=648411){:target="_blank"} |
+| Akin Gulfidan | 22/09/2024 | La Taverne du Gobelin Farci (Saint-Étienne) | ? |
+| Julien Borkowski | 22/09/2024 | La Taverne du Gobelin Farci (Saint-Étienne) | ? |
 | Leon Müller | 22/09/2024 | Magic Knight FR (Strasbourg) | [Jeskai Control](https://www.mtgtop8.com/event?e=59804&d=648412){:target="_blank"} |
 | Cyril Frey | 22/09/2024 | Magic Knight FR (Strasbourg) | [Amulet Titan](https://www.mtgtop8.com/event?e=59804&d=648413){:target="_blank"} |
 | Tobias Leber | 22/09/2024 | Magic Knight FR (Strasbourg) | [UB Frog](https://www.mtgtop8.com/event?e=59804&d=648414){:target="_blank"} |
