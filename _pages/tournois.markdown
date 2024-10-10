@@ -66,4 +66,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 05/10/2024 | Pont-A-Mousson (54) | [Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 24 | N/A |
 | 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  22 | [MTGTop8](https://www.mtgtop8.com/event?e=60321){:target="_blank"} |
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  41 | [MTGTop8](https://www.mtgtop8.com/event?e=60208){:target="_blank"} |
-| 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 13 | N/A |
+| 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 13 | [MTGTop8](https://www.mtgtop8.com/event?e=60328){:target="_blank"} |
