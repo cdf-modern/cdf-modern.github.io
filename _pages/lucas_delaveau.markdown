@@ -4,7 +4,7 @@ title: Lucas Delaveau
 permalink: /lucas-delaveau-2025/
 ---
 
-<p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/lucas_delaveau_photo.JPG" alt="Lucas Delaveau" /></p>
+<p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/lucas_delaveau_photo.jpg" alt="Lucas Delaveau" /></p>
 
 Lucas s'est qualifié fin septembre pour le RC Prague en gagnant un RCQ à Nantes. Il s'est aussi qualifié pour la CdF Modern par la même occasion. Bravo à lui !  
 Il a conscieusement répondu à nos questions, merci à lui !
