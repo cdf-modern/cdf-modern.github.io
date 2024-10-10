@@ -16,6 +16,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 12/10/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [Site web](http://animation.magiccorporation.com/?op=calendrier&jour=12&mois=10&annee=2024){:target="_blank"} |
 | 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-modern-13-octobre-2024-mtg-anjou){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 32 | [Mail](mailto:contact.dooztcg@gmail.com) |
+| 19/10/2024 | Rennes (35) | [Temple des Joueurs](https://www.facebook.com/LeTempledesJoueursRennes/){:target="_blank"} | 24 | [Site web](https://tournois-ouest.fr/main/index/2024/10){:target="_blank"} |
 | 20/10/2024 | Brest (29) | [Sortileges](https://www.facebook.com/sortilegesbrest){:target="_blank"} | 36 | [Facebook](https://www.facebook.com/events/1318839712612872/){:target="_blank"} |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
@@ -23,11 +24,11 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
 | 20/10/2024 | Rennes (35) | [Magic Rennes](https://www.facebook.com/events/1063032042088903/){:target="_blank"} | 48 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/rcq-modern-20-octobre-2024){:target="_blank"} |
 | 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
-| 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 32 | [Site Web](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-regional-championship-qualifier-saison-2-format-modern-22091){:target="_blank"} |
+| 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 32 | [Site web](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-regional-championship-qualifier-saison-2-format-modern-22091){:target="_blank"} |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 48 | [Site web](https://jeux-barjo.fr/magic-the-gathering/1358-reservation-regional-championship-qualifier-modern-.html){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
-| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site Web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
+| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
 
 ## Tournois passés
