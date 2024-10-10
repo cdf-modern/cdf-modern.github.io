@@ -75,9 +75,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Antoine Furet | 29/09/2024 | MTGNantes (Nantes) | ? |
 | Adrien Bolzer | 05/10/2024 | Caverne du Gobelin (Pont-A-Mousson) | ? |
 | Louis Dubois | 05/10/2024 | Caverne du Gobelin (Pont-A-Mousson) | ? |
-| Hichem Slimani | 06/10/2024 | Role Games (Marseille) | ? |
-| Antoine Ribeiro | 06/10/2024 | Octopus Game (Bourges) | ? |
-| Victor Hatte | 06/10/2024 | Octopus Game (Bourges) | ? |
+| Hichem Slimani | 06/10/2024 | Role Games (Marseille) | [UB Frog](https://www.mtgtop8.com/event?e=60328&d=653015&f=MO){:target="_blank"} |
+| Antoine Ribeiro | 06/10/2024 | Octopus Game (Bourges) | [5c Zoo](https://www.mtgtop8.com/event?e=60321&d=652963&f=MO){:target="_blank"} |
+| Victor Hatte | 06/10/2024 | Octopus Game (Bourges) | [UB Frog](https://www.mtgtop8.com/event?e=60321&d=652962&f=MO){:target="_blank"} |
 | Anthony Rocamora | 06/10/2024 | Les Mages d'Urza (Eysines) | [Boros Energy](https://www.mtgtop8.com/event?e=60208&d=651772&f=MO){:target="_blank"} |
 | Jean Bergis | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Rhinos](https://www.mtgtop8.com/event?e=60208&d=651766&f=MO){:target="_blank"} |
 | Maxime Gateaud | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Zoo](https://www.mtgtop8.com/event?e=60208&d=651768&f=MO){:target="_blank"} |
