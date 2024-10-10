@@ -69,7 +69,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Romain Labenne | 29/09/2024 | Asian Gate (Blois) | ? |
 | Pierre Gillon | 29/09/2024 | Carta'jeu (Lyon) | [Boros Energy](https://www.mtgtop8.com/event?e=60040&d=650398&f=MO){:target="_blank"} |
 | Alexis Raulin--Foissac | 29/09/2024 | Carta'jeu (Lyon) | [Esper Reanimator](https://www.mtgtop8.com/event?e=60040&d=650399&f=MO){:target="_blank"} |
-| Lucas Delaveau | 29/09/2024 | MTGNantes (Nantes) | Dimir Frogtide |
+| [Lucas Delaveau](/lucas-delaveau-2025){:target="_blank"} | 29/09/2024 | MTGNantes (Nantes) | Dimir Frogtide |
 | Antoine Furet | 29/09/2024 | MTGNantes (Nantes) | ? |
 | Hichem Slimani | 06/10/2024 | Role Games (Marseille) | ? |
 | Antoine Ribeiro | 06/10/2024 | Octopus Game (Bourges) | ? |
