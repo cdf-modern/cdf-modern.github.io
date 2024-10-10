@@ -17,13 +17,13 @@ Mon premier objectif était d’augmenter mes accessions en top 8 en jouant des 
 
 Détails du parcours 2022 :
 - **Top 1 Rackdos Midrange à Nantes** : première rencontre avec les Nantais
-- **Top 4  Rakdos Midrange à Châteauroux** : lien youtube d’un passage en ronde filmée : https://www.youtube.com/watch?v=oO3HBxTueVI&list=PL_MTgAlEK_O6vd-wvF3z7QfaqEutUWThb, puis rencontre avec Thomas M. en demi-finale
+- **Top 4  Rakdos Midrange à Châteauroux** : [lien youtube d’un passage en ronde filmée](https://www.youtube.com/watch?v=oO3HBxTueVI&list=PL_MTgAlEK_O6vd-wvF3z7QfaqEutUWThb), puis rencontre avec Thomas M. en demi-finale
 - **Top 1 UR-Murktide à Nantes** : premier test du paquet
 - **Top 4 UR-Murktide à Vannes** : rencontre avec un membre du « Hall of Fame » en demi-finale
 - **Top 8 UR Murktide à Poitiers** : préparation au tournoi du Grand Biche de Paris
 - **Top 32 UR Murktide à Paris** : tournoi du Grand Biche, premier tournoi à plus de 180 joueurs
 - **Top 4 Rakdos Scam à RCQ Brest** : première tentative de RCQ, avec la particularité de jouer 4 skelementales main deck sans unearth évidemment 😊
-- **Top 18 Rakdos Scam à LMS GP Paris** : premier grand prix, 500 joueurs, avec 4 skelementales main deck, validation du j1 en 7-2 puis je joue mon win and in de top 8 sous caméra le j2, probablement ma meilleure perf. (Lien vers la partie du win and in en top 8 du GP Paris 2022 à 5 :09 :07 de la vidéo : https://www.youtube.com/watch?v=Hks-_aJlLVw&list=PL_MTgAlEK_O6vd-wvF3z7QfaqEutUWThb&index=2)
+- **Top 18 Rakdos Scam à LMS GP Paris** : premier grand prix, 500 joueurs, avec 4 skelementales main deck, validation du j1 en 7-2 puis je joue mon win and in de top 8 sous caméra le j2, probablement ma meilleure perf. ([Lien vers la partie du win and in en top 8 du GP Paris 2022](https://www.youtube.com/watch?v=Hks-_aJlLVw&list=PL_MTgAlEK_O6vd-wvF3z7QfaqEutUWThb&index=2))
 
 Objectif atteint avec l’obtention de la qualification à Sofia par le GP Paris. Problème, le format du tournoi de Sofia était le Pionner, format qui m’était jusqu’alors inconnu un mois avant le premier round. Avec un peu moins de 20 parties d’entraînement effectuées et plus de 80% des matchups non testés, sans surprise, j’me suis fait éclaté à Sofia avec Rakdos Midrange (0-4). J’en tire néanmoins une bonne expérience.
 
