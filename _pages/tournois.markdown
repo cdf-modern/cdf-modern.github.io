@@ -60,7 +60,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 28/09/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 11 | N/A |
 | 28/09/2024 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 30 | N/A |
 | 29/09/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  15 | [MTGTop8](https://www.mtgtop8.com/event?e=59956&f=MO){:target="_blank"} |
-| 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  18 | N/A |
+| 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  18 | [MTGTop8](https://www.mtgtop8.com/event?e=60285){:target="_blank"} |
 | 29/09/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 23 | [MTGTop8](https://www.mtgtop8.com/event?e=60040&f=MO){:target="_blank"} |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  30 | N/A |
 | 05/10/2024 | Pont-A-Mousson (54) | [Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 24 | N/A |
