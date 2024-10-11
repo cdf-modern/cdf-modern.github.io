@@ -67,8 +67,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Yannick Chatelle | 28/09/2024 | L'épée à 2 nains (Genève) | ? |
 | Cameron Cisse | 28/09/2024 | Play-in BNF (Paris) | ? |
 | Laurent Delade | 29/09/2024 | MagicFrag (Aubagne) | [Domain Zoo](https://www.mtgtop8.com/event?e=59956&d=649568&f=MO){:target="_blank"} |
-| Axel Chambon | 29/09/2024 | Asian Gate (Blois) | ? |
-| Romain Labenne | 29/09/2024 | Asian Gate (Blois) | ? |
+| Axel Chambon | 29/09/2024 | Asian Gate (Blois) | [Boros Energy](https://www.mtgtop8.com/event?e=60285&d=652732&f=MO){:target="_blank"} |
+| Romain Labenne | 29/09/2024 | Asian Gate (Blois) | [4c Elementals](https://www.mtgtop8.com/event?e=60285&d=652733&f=MO){:target="_blank"} |
 | Pierre Gillon | 29/09/2024 | Carta'jeu (Lyon) | [Boros Energy](https://www.mtgtop8.com/event?e=60040&d=650398&f=MO){:target="_blank"} |
 | Alexis Raulin--Foissac | 29/09/2024 | Carta'jeu (Lyon) | [Esper Reanimator](https://www.mtgtop8.com/event?e=60040&d=650399&f=MO){:target="_blank"} |
 | [Lucas Delaveau](/lucas-delaveau-2025){:target="_blank"} | 29/09/2024 | MTGNantes (Nantes) | Dimir Frogtide |
