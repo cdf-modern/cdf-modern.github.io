@@ -82,6 +82,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jean Bergis | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Rhinos](https://www.mtgtop8.com/event?e=60208&d=651766&f=MO){:target="_blank"} |
 | Maxime Gateaud | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Zoo](https://www.mtgtop8.com/event?e=60208&d=651768&f=MO){:target="_blank"} |
 | Paul Debray | 06/10/2024 | Les Mages d'Urza (Eysines) | [UR Wizards](https://www.mtgtop8.com/event?e=60208&d=651771&f=MO){:target="_blank"} |
+| Alexis Gosset | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Alexandre Doremus | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Emmanuel Bernuau | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Alexis Saute | 06/10/2024 | ZAP (Palaiseau) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
