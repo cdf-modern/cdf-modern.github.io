@@ -86,6 +86,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Doremus | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Emmanuel Bernuau | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Alexis Saute | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
+| Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
