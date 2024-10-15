@@ -86,6 +86,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Doremus | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Emmanuel Bernuau | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Alexis Saute | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Arcage | 13/10/2024 | MTG Anjou (Angers) | [Merfolk](https://www.mtgtop8.com/event?e=60517&d=654745&f=MO){:target="_blank"} |
+| Erwan Maisonneuve | 13/10/2024 | MTG Anjou (Angers) | [UR Wizards](https://www.mtgtop8.com/event?e=60517&d=654746&f=MO){:target="_blank"} |
 | Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
 | Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
