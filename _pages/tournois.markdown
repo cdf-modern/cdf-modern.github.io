@@ -67,5 +67,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  41 | [MTGTop8](https://www.mtgtop8.com/event?e=60208){:target="_blank"} |
 | 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 13 | [MTGTop8](https://www.mtgtop8.com/event?e=60328){:target="_blank"} |
 | 06/10/2024 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | ?? | N/A |
-| 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 22 | [MTGTop8]{:target="_blank"} |
+| 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 22 | [MTGTop8](https://www.mtgtop8.com/event?e=60517&f=MO){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 20 | N/A |
