@@ -73,6 +73,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexis Raulin--Foissac | 29/09/2024 | Carta'jeu (Lyon) | [Esper Reanimator](https://www.mtgtop8.com/event?e=60040&d=650399&f=MO){:target="_blank"} |
 | [Lucas Delaveau](/lucas-delaveau-2025){:target="_blank"} | 29/09/2024 | MTGNantes (Nantes) | Dimir Frogtide |
 | Antoine Furet | 29/09/2024 | MTGNantes (Nantes) | ? |
+| Guillaume Gaime | 05/10/2024 | Quotidien du Geek (Clermont-Ferrand | ? |
 | Adrien Bolzer | 05/10/2024 | Caverne du Gobelin (Pont-A-Mousson) | ? |
 | Louis Dubois | 05/10/2024 | Caverne du Gobelin (Pont-A-Mousson) | ? |
 | Hichem Slimani | 06/10/2024 | Role Games (Marseille) | [UB Frog](https://www.mtgtop8.com/event?e=60328&d=653015&f=MO){:target="_blank"} |
