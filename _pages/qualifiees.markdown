@@ -86,10 +86,12 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Doremus | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Emmanuel Bernuau | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Alexis Saute | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Maël Nicolas | 12/10/2024 | Magic Corp (Paris) | [Mono Black Control](https://www.mtgtop8.com/event?e=60571&d=655267&f=MO){:target="_blank"} |
+| Mae Bretin | 12/10/2024 | Magic Corp (Paris) | [Twiddle Storm](https://www.mtgtop8.com/event?e=60571&d=655268&f=MO){:target="_blank"} |
 | Arcage | 13/10/2024 | MTG Anjou (Angers) | [Merfolk](https://www.mtgtop8.com/event?e=60517&d=654745&f=MO){:target="_blank"} |
 | Erwan Maisonneuve | 13/10/2024 | MTG Anjou (Angers) | [UR Wizards](https://www.mtgtop8.com/event?e=60517&d=654746&f=MO){:target="_blank"} |
-| Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
-| Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
+| Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | [Merfolk](https://www.mtgtop8.com/event?e=60543&d=654939&f=MO){:target="_blank"} |
+| Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | [BG Soultrader](https://www.mtgtop8.com/event?e=60543&d=654941&f=MO){:target="_blank"} |
 | Olivier Shu | 17/10/2024 | MTG37 (Tours) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
