@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
 | 19/10/2024 | Rennes (35) | [Temple des Joueurs](https://www.facebook.com/LeTempledesJoueursRennes/){:target="_blank"} | 24 | [Site web](https://tournois-ouest.fr/main/index/2024/10){:target="_blank"} |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
@@ -64,6 +63,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  41 | [MTGTop8](https://www.mtgtop8.com/event?e=60208){:target="_blank"} |
 | 06/10/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 13 | [MTGTop8](https://www.mtgtop8.com/event?e=60328){:target="_blank"} |
 | 06/10/2024 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | ?? | N/A |
+| 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 11 | N/A |
 | 12/10/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [MTGTop8](https://www.mtgtop8.com/event?e=60571&f=MO){:target="_blank"} |
 | 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 22 | [MTGTop8](https://www.mtgtop8.com/event?e=60517&f=MO){:target="_blank"} |
 | 13/10/2024 | Strasboug (67) | [Dooz TCG](https://www.facebook.com/DoozTCG/){:target="_blank"} | 20 | [MTGTop8](https://www.mtgtop8.com/event?e=60543&f=MO){:target="_blank"} |
