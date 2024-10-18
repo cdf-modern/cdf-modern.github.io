@@ -87,6 +87,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Doremus | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Emmanuel Bernuau | 06/10/2024 | ZAP (Palaiseau) | ? |
 | Alexis Saute | 06/10/2024 | ZAP (Palaiseau) | ? |
+| Juancho Morales | 12/10/2024 | L'épée à 2 Nains (Genève) | ? |
 | Maël Nicolas | 12/10/2024 | Magic Corp (Paris) | [Mono Black Control](https://www.mtgtop8.com/event?e=60571&d=655267&f=MO){:target="_blank"} |
 | Mae Bretin | 12/10/2024 | Magic Corp (Paris) | [Twiddle Storm](https://www.mtgtop8.com/event?e=60571&d=655268&f=MO){:target="_blank"} |
 | Arcage | 13/10/2024 | MTG Anjou (Angers) | [Merfolk](https://www.mtgtop8.com/event?e=60517&d=654745&f=MO){:target="_blank"} |
