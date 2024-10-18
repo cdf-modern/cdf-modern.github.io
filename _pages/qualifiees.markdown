@@ -90,6 +90,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Erwan Maisonneuve | 13/10/2024 | MTG Anjou (Angers) | [UR Wizards](https://www.mtgtop8.com/event?e=60517&d=654746&f=MO){:target="_blank"} |
 | Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
 | Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | ? |
+| Olivier Shu | 17/10/2024 | MTG37 (Tours) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
