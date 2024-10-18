@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2470-rcq-season-2-modern-samedi-05-octobre-10h30.html){:target="_blank"} |
 | 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
 | 19/10/2024 | Rennes (35) | [Temple des Joueurs](https://www.facebook.com/LeTempledesJoueursRennes/){:target="_blank"} | 24 | [Site web](https://tournois-ouest.fr/main/index/2024/10){:target="_blank"} |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
@@ -59,6 +58,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/09/2024 | Blois (41) | [Asian Gate](https://www.facebook.com/ASIANGATE41/){:target="_blank"} |  18 | [MTGTop8](https://www.mtgtop8.com/event?e=60285){:target="_blank"} |
 | 29/09/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 23 | [MTGTop8](https://www.mtgtop8.com/event?e=60040&f=MO){:target="_blank"} |
 | 29/09/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} |  30 | N/A |
+| 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 12 | N/A |
 | 05/10/2024 | Pont-A-Mousson (54) | [Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 24 | N/A |
 | 06/10/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  22 | [MTGTop8](https://www.mtgtop8.com/event?e=60321){:target="_blank"} |
 | 06/10/2024 | Eysines (33) | [Les Mages d'Urza](https://discord.gg/GHjVY44f98){:target="_blank"} |  41 | [MTGTop8](https://www.mtgtop8.com/event?e=60208){:target="_blank"} |
