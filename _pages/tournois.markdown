@@ -13,9 +13,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 05/10/2024 | Clermont-Ferrand (63) | [Quotidien du Geek](https://lequotidiendugeek.fr/){:target="_blank"} | 28 | [Site web](https://lequotidiendugeek.fr/accueil/2470-rcq-season-2-modern-samedi-05-octobre-10h30.html){:target="_blank"} |
 | 12/10/2024 | Genève (CH) | [L'épée à 2 Nains](https://2nains.ch){:target="_blank"} | 32 | [Site web](https://2nains.ch/fr/event/rcq-modern){:target="_blank"} |
 | 12/10/2024 | Paris (75) | [MagicCorporation](http://www.magiccorporation.com){:target="_blank"} | 32 | [Site web](http://animation.magiccorporation.com/?op=calendrier&jour=12&mois=10&annee=2024){:target="_blank"} |
-| 13/10/2024 | Angers (49) | [MTG Anjou](https://discord.gg/27dY6XrpwJ){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-modern-13-octobre-2024-mtg-anjou){:target="_blank"} |
 | 19/10/2024 | Rennes (35) | [Temple des Joueurs](https://www.facebook.com/LeTempledesJoueursRennes/){:target="_blank"} | 24 | [Site web](https://tournois-ouest.fr/main/index/2024/10){:target="_blank"} |
-| 20/10/2024 | Brest (29) | [Sortileges](https://www.facebook.com/sortilegesbrest){:target="_blank"} | 36 | [Facebook](https://www.facebook.com/events/1318839712612872/){:target="_blank"} |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  32 | [Formulaire](https://forms.gle/4itjmKsnjKTXaxUC8){:target="_blank"} |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 24 | [HelloAsso](https://www.helloasso.com/associations/mjc-jean-paul-robin/evenements/tournoi-magic-d-octobre){:target="_blank"} |
