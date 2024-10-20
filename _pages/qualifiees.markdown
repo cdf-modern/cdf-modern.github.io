@@ -78,7 +78,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Louis Dubois | 05/10/2024 | Caverne du Gobelin (Pont-A-Mousson) | ? |
 | Hichem Slimani | 06/10/2024 | Role Games (Marseille) | [UB Frog](https://www.mtgtop8.com/event?e=60328&d=653015&f=MO){:target="_blank"} |
 | Antoine Ribeiro | 06/10/2024 | Octopus Game (Bourges) | [5c Zoo](https://www.mtgtop8.com/event?e=60321&d=652963&f=MO){:target="_blank"} |
-| Victor Hatte | 06/10/2024 | Octopus Game (Bourges) | [UB Frog](https://www.mtgtop8.com/event?e=60321&d=652962&f=MO){:target="_blank"} |
+| Alexandre Peng | 06/10/2024 | Octopus Game (Bourges) | [UB Frog](https://www.mtgtop8.com/event?e=60321&d=652969&f=MO){:target="_blank"} |
 | Anthony Rocamora | 06/10/2024 | Les Mages d'Urza (Eysines) | [Boros Energy](https://www.mtgtop8.com/event?e=60208&d=651772&f=MO){:target="_blank"} |
 | Jean Bergis | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Rhinos](https://www.mtgtop8.com/event?e=60208&d=651766&f=MO){:target="_blank"} |
 | Maxime Gateaud | 06/10/2024 | Les Mages d'Urza (Eysines) | [Domain Zoo](https://www.mtgtop8.com/event?e=60208&d=651768&f=MO){:target="_blank"} |
@@ -95,6 +95,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | [Merfolk](https://www.mtgtop8.com/event?e=60543&d=654939&f=MO){:target="_blank"} |
 | Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | [BG Soultrader](https://www.mtgtop8.com/event?e=60543&d=654941&f=MO){:target="_blank"} |
 | Olivier Shu | 17/10/2024 | MTG37 (Tours) | Boros Energy |
+| Guillaume Batard | 20/10/2024 | NainTré Magic (Naintré) | Dimir Frog |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
