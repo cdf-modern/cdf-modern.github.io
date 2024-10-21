@@ -21,6 +21,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
 | 16/11/2024 | Ohlungen (67) | [Legendary Tournament Commander](https://www.facebook.com/legendarytournamentcommander/){:target="_blank"} | 64 | A venir 👀 |
+| 14/12/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://facebook.com/events/s/modern-de-decembre/453481351084799/){:target="_blank"} |
 
 ## Tournois passés
 
