@@ -97,6 +97,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Olivier Shu | 17/10/2024 | MTG37 (Tours) | Boros Energy |
 | Romain Lechartier | 19/10/2024 | Temple des Joueurs (Rennes) | ? |
 | Hugo Grandiere | 19/10/2024 | Temple des Joueurs (Rennes) | ? |
+| Sébastien Laplane | 20/10/2024 | Xenomorphe (Genève) | ? |
+| Benoît Jaques | 20/10/2024 | Xenomorphe (Genève) | ? |
 | Guillaume Batard | 20/10/2024 | NainTré Magic (Naintré) | Dimir Frog |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
