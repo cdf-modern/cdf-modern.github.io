@@ -11,7 +11,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
-| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-13-rcq-modern){:target="_blank"} |
 | 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 32 | [Site web](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-regional-championship-qualifier-saison-2-format-modern-22091){:target="_blank"} |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
@@ -67,3 +66,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 19/10/2024 | Rennes (35) | [Temple des Joueurs](https://www.facebook.com/LeTempledesJoueursRennes/){:target="_blank"} | 21 | N/A |
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  19 | N/A |
 | 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 10 | N/A |
+| 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 30 | [MTGTop8](https://mtgtop8.com/event?e=60771&f=MO){:target="_blank"} |
