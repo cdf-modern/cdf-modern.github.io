@@ -11,6 +11,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
+| 26/10/2024 | Bordeaux (33) | [Dice and Drink](https://www.diceanddrink.fr/){:target="_blank"} | 32 | [Discord](https://discord.gg/KJFQwmHkXy?event=1278323322760855695){:target="_blank"} |
 | 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 32 | [Site web](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-regional-championship-qualifier-saison-2-format-modern-22091){:target="_blank"} |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  32 | [Facebook](https://www.facebook.com/events/544812587975646/){:target="_blank"} |
