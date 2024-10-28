@@ -102,6 +102,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Guillaume Batard | 20/10/2024 | NainTré Magic (Naintré) | Dimir Frog |
 | Mathieu Deicke | 20/10/2024 | MTGNantes (Nantes) | [Boros Energy](https://mtgtop8.com/event?e=60771&d=656789&f=MO){:target="_blank"} |
 | Erwin Gunther | 20/10/2024 | MTGNantes (Nantes) | [Jeskai Energy](https://mtgtop8.com/event?e=60771&d=656790&f=MO){:target="_blank"} |
+| Martin Lamberty | 26/10/2024 | La Caverne du Gobelin (Nancy) | ? |
+| Ludovic Massing | 26/10/2024 | La Caverne du Gobelin (Nancy) | ? |
 | Matthieu Tassa | 27/10/2024 | Magic Frag (Aubagne) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
