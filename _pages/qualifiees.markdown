@@ -105,7 +105,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Martin Lamberty | 26/10/2024 | La Caverne du Gobelin (Nancy) | ? |
 | Ludovic Massing | 26/10/2024 | La Caverne du Gobelin (Nancy) | ? |
 | Matthieu Tassa | 27/10/2024 | Magic Frag (Aubagne) | Boros Energy |
-| Amaury Thomas | 27/10/2024 | Jeux Barjo (Libourne) | ? |
+| Amaury Thomas | 27/10/2024 | Jeux Barjo (Libourne) | [Goryo's Revenge](https://www.mtgtop8.com/event?e=61047&d=659140&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
