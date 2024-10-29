@@ -67,4 +67,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 30 | [MTGTop8](https://mtgtop8.com/event?e=60771&f=MO){:target="_blank"} |
 | 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 23 | N/A |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  13 | N/A |
-| 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 15 | N/A |
+| 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=61047&f=MO){:target="_blank"} |
