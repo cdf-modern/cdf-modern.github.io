@@ -12,7 +12,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 26/10/2024 | Bordeaux (33) | [Dice and Drink](https://www.diceanddrink.fr/){:target="_blank"} | 32 | [Discord](https://discord.gg/KJFQwmHkXy?event=1278323322760855695){:target="_blank"} |
-| 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [MagicVille](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
 | 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
@@ -65,6 +64,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 20/10/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} |  19 | N/A |
 | 20/10/2024 | Naintré (86) | [NainTré Magic](https://www.facebook.com/NainTreMagic){:target="_blank"} | 10 | N/A |
 | 20/10/2024 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 30 | [MTGTop8](https://mtgtop8.com/event?e=60771&f=MO){:target="_blank"} |
+| 26/10/2024 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 22 | [MTGTop8](https://www.mtgtop8.com/event?e=61061&f=MO){:target="_blank"} |
 | 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 23 | N/A |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  13 | N/A |
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=61047&f=MO){:target="_blank"} |
