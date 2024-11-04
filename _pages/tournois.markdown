@@ -12,9 +12,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 26/10/2024 | Bordeaux (33) | [Dice and Drink](https://www.diceanddrink.fr/){:target="_blank"} | 32 | [Discord](https://discord.gg/KJFQwmHkXy?event=1278323322760855695){:target="_blank"} |
-| 27/10/2024 | Nantes (44) | Ludotrotter |  32 | À venir 👀 |
-| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 200+ | [Site web](https://www.relictcgtour.com/produit/regional-championship-qualifier-modern/){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
+| 16/11/2024 | Nancy (54) | [Joutes du Temeraire](https://www.joutesdutemeraire.fr/){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/events/s/qualifier-cdf/1188814572226164/){:target="_blank"} |
 | 16/11/2024 | Ohlungen (67) | [Legendary Tournament Commander](https://www.facebook.com/legendarytournamentcommander/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/legendary-tournament-commander/evenements/week-end-multi-tcg){:target="_blank"} |
 | 14/12/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://facebook.com/events/s/modern-de-decembre/453481351084799/){:target="_blank"} |
 
@@ -68,3 +67,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 26/10/2024 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 23 | N/A |
 | 27/10/2024 | Aubagne (13) | [Magic Frag](https://www.facebook.com/magicfrag){:target="_blank"} |  13 | N/A |
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=61047&f=MO){:target="_blank"} |
+| 27/10/2024 | Nantes (44) | Ludotrotter | 12 | [MTGTop8](https://www.mtgtop8.com/event?e=61121&f=MO){:target="_blank"} |
+| 03/11/2024 | Angers (49) | Ludotrotter | 10 | N/A |
+| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 128 | N/A |
