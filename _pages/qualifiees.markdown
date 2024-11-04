@@ -108,6 +108,16 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Grégoire Mars | 26/10/2024 | Cartapapa (Montpellier) | [Boros Energy](https://www.mtgtop8.com/event?e=61061&d=659260&f=MO){:target="_blank"} |
 | Matthieu Tassa | 27/10/2024 | Magic Frag (Aubagne) | Boros Energy |
 | Amaury Thomas | 27/10/2024 | Jeux Barjo (Libourne) | [Goryo's Revenge](https://www.mtgtop8.com/event?e=61047&d=659140&f=MO){:target="_blank"} |
+| Johann Kergal | 27/10/2024 | Ludotrotter (Nantes) | [Boros Energy](https://www.mtgtop8.com/event?e=61121&d=659713&f=MO){:target="_blank"} |
+| Euryale Delhaye--Boloh | 03/11/2024 | Ludotrotter (Angers) | ? |
+| Remi Martinez | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Etienne Tehrani | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Willy De Almeida Le Coq | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Nicolas Honnorat | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Merlin Moret | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Kevin Barlet | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Pierre-Louis Bouvet | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Elizabeth Decraie | 03/11/2024 | RelicFest (Toulouse) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
