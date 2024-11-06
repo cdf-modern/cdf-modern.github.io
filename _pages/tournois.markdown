@@ -11,7 +11,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
-| 26/10/2024 | Bordeaux (33) | [Dice and Drink](https://www.diceanddrink.fr/){:target="_blank"} | 32 | [Discord](https://discord.gg/KJFQwmHkXy?event=1278323322760855695){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
 | 16/11/2024 | Nancy (54) | [Joutes du Temeraire](https://www.joutesdutemeraire.fr/){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/events/s/qualifier-cdf/1188814572226164/){:target="_blank"} |
 | 16/11/2024 | Ohlungen (67) | [Legendary Tournament Commander](https://www.facebook.com/legendarytournamentcommander/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/legendary-tournament-commander/evenements/week-end-multi-tcg){:target="_blank"} |
