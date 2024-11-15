@@ -71,4 +71,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 27/10/2024 | Libourne (33) | [Jeux Barjo](https://discord.gg/sW9HAk7h){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=61047&f=MO){:target="_blank"} |
 | 27/10/2024 | Nantes (44) | Ludotrotter | 12 | [MTGTop8](https://www.mtgtop8.com/event?e=61121&f=MO){:target="_blank"} |
 | 03/11/2024 | Angers (49) | Ludotrotter | 10 | N/A |
-| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 128 | N/A |
+| 03/11/2024 | Toulouse (31) | [Relic](https://www.relictcgtour.com/){:target="_blank"} | 128 | [MTGTop8](https://www.mtgtop8.com/event?e=61351&f=MO){:target="_blank"} |
+| 13/11/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 12 | N/A |
