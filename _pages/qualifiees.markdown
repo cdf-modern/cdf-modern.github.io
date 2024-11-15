@@ -118,6 +118,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Kevin Barlet | 03/11/2024 | RelicFest (Toulouse) | [Yawgmoth](https://www.mtgtop8.com/event?e=61351&d=661622&f=MO){:target="_blank"} |
 | Pierre-Louis Bouvet | 03/11/2024 | RelicFest (Toulouse) | ? |
 | Elizabeth Decraie | 03/11/2024 | RelicFest (Toulouse) | ? |
+| Bastien Lanneluc | 13/11/2024 | MTGPau (Pau) | Boros Energy |
 | Guillaume Beauclair | 14/11/2024 | MTG37 (Tours) | Ruby Storm |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
