@@ -16,7 +16,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 17/11/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} | 64 | [Site web](https://infomaniak.events/fr-ch/loisirs/geneva-modern-18/9jkW9k1yyuI8c5jhdut4911Gamak){:target="_blank"} |
 | 24/11/2024 | Lille (59) | [Valty Street](https://www.facebook.com/ValtyStreet/){:target="_blank"} | 24 | [Facebook](https://fb.me/e/697vZmlIs){:target="_blank"} |
 | 01/12/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/events/s/ravelois-modern/484471894605555/){:target="_blank"} |
-| 05/12/2024 | Tours (37) | [NTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
+| 05/12/2024 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 14/12/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://facebook.com/events/s/modern-de-decembre/453481351084799/){:target="_blank"} |
 
 ## Tournois passés
