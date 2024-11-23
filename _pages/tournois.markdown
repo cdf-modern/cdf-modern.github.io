@@ -12,7 +12,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
 | 16/11/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/share/uV8wQDtkRvuyU5gp/){:target="_blank"} |
-| 16/11/2024 | Ohlungen (67) | [Legendary Tournament Commander](https://www.facebook.com/legendarytournamentcommander/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/legendary-tournament-commander/evenements/week-end-multi-tcg){:target="_blank"} |
 | 17/11/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} | 64 | [Site web](https://infomaniak.events/fr-ch/loisirs/geneva-modern-18/9jkW9k1yyuI8c5jhdut4911Gamak){:target="_blank"} |
 | 24/11/2024 | Lille (59) | [Valty Street](https://www.facebook.com/ValtyStreet/){:target="_blank"} | 24 | [Facebook](https://fb.me/e/697vZmlIs){:target="_blank"} |
 | 01/12/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/events/s/ravelois-modern/484471894605555/){:target="_blank"} |
