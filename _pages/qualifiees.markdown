@@ -122,6 +122,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Guillaume Beauclair | 14/11/2024 | MTG37 (Tours) | Ruby Storm |
 | Ronald Gertrude | 16/11/2024 | Joutes du Temeraire (Nancy) | [Jeskai Energy](https://www.mtgtop8.com/event?e=61726&d=665090&f=MO){:target="_blank"} |
 | Maxime Fitrzyk | 16/11/2024 | Joutes du Temeraire (Nancy) | [Hardened Scales](https://www.mtgtop8.com/event?e=61726&d=665091&f=MO){:target="_blank"} |
+| Guillaume Sauvain | 17/11/2024 | Xenomorphe (Genève) | ? |
+| Christophe Hostettler | 17/11/2024 | Xenomorphe (Genève) | ? |
+| Nicolas Baldy | 17/11/2024 | Xenomorphe (Genève) | ? |
+| Thomas Vaucher | 17/11/2024 | Xenomorphe (Genève) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
