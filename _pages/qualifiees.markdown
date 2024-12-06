@@ -126,6 +126,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Christophe Hostettler | 17/11/2024 | Xenomorphe (Genève) | ? |
 | Nicolas Baldy | 17/11/2024 | Xenomorphe (Genève) | ? |
 | Thomas Vaucher | 17/11/2024 | Xenomorphe (Genève) | ? |
+| Iwan Fournier | 05/12/2024 | MTG37 (Tours) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
