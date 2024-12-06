@@ -10,9 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 20/10/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  64 | [Site web](https://cartajeu.com/events){:target="_blank"} |
-| 24/11/2024 | Lille (59) | [Valty Street](https://www.facebook.com/ValtyStreet/){:target="_blank"} | 24 | [Facebook](https://fb.me/e/697vZmlIs){:target="_blank"} |
-| 01/12/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 32 | [Facebook](https://www.facebook.com/events/s/ravelois-modern/484471894605555/){:target="_blank"} |
 | 08/12/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  32 | [Site web](https://octopusgame.fr/accueil/707-magic-avant-premiere-foundations-samedi-09-novembre-17h30.html){:target="_blank"} |
 | 14/12/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://facebook.com/events/s/modern-de-decembre/453481351084799/){:target="_blank"} |
 | 18/12/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 24 | [Discord](https://discord.gg/7rvzvvmj){:target="_blank"} |
@@ -78,4 +75,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 13/11/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 12 | N/A |
 | 16/11/2024 | Nancy (54) | [Joutes du Temeraire](https://www.joutesdutemeraire.fr/){:target="_blank"} | 17 | [MTGTop8](https://www.mtgtop8.com/event?e=61726&f=MO){:target="_blank"} |
 | 17/11/2024 | Genève (CH) | [Xenomorphe](https://xenomorphe.ch/){:target="_blank"} | 36 | N/A |
+| 01/12/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  19 | N/A |
+| 01/12/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 18 | [MTGTop8](https://www.mtgtop8.com/event?e=62249&f=MO){:target="_blank"} |
 | 05/12/2024 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 10 | N/A |
