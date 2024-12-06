@@ -94,7 +94,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Yoann Comas | 13/10/2024 | MTG Anjou (Angers) | [Domain Zoo](https://www.mtgtop8.com/event?e=60517&d=654747&f=MO){:target="_blank"} |
 | Malte Schmid | 13/10/2024 | Dooz TCG (Strasbourg) | [Merfolk](https://www.mtgtop8.com/event?e=60543&d=654939&f=MO){:target="_blank"} |
 | Christian Mastel | 13/10/2024 | Dooz TCG (Strasbourg) | [BG Soultrader](https://www.mtgtop8.com/event?e=60543&d=654941&f=MO){:target="_blank"} |
-| Olivier Shu | 17/10/2024 | MTG37 (Tours) | Boros Energy |
+| Olivier Shu | 17/10/2024 | MTG37 (Tours) | Mardu Energy |
 | Romain Lechartier | 19/10/2024 | Temple des Joueurs (Rennes) | ? |
 | Hugo Grandiere | 19/10/2024 | Temple des Joueurs (Rennes) | ? |
 | Sébastien Laplane | 20/10/2024 | Xenomorphe (Genève) | ? |
