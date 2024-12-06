@@ -126,6 +126,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Christophe Hostettler | 17/11/2024 | Xenomorphe (Genève) | ? |
 | Nicolas Baldy | 17/11/2024 | Xenomorphe (Genève) | ? |
 | Thomas Vaucher | 17/11/2024 | Xenomorphe (Genève) | ? |
+| Benjamin Vacher | 01/12/2024 | Carta'jeu (Lyon) | ? |
+| Colas Fievet | 01/12/2024 | Carta'jeu (Lyon) | ? |
+| Loïc Le Guennec | 01/12/2024 | MagicBougnat (Ravel) | [Amulet Titan](https://www.mtgtop8.com/event?e=62249&d=669542&f=MO){:target="_blank"} |
+| Nicolas Drillard | 01/12/2024 | MagicBougnat (Ravel) | [Mardy Energy](https://www.mtgtop8.com/event?e=62249&d=669543&f=MO){:target="_blank"} |
 | Iwan Fournier | 05/12/2024 | MTG37 (Tours) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
