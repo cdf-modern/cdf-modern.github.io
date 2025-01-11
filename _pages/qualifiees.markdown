@@ -131,6 +131,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Loïc Le Guennec | 01/12/2024 | MagicBougnat (Ravel) | [Amulet Titan](https://www.mtgtop8.com/event?e=62249&d=669542&f=MO){:target="_blank"} |
 | Nicolas Drillard | 01/12/2024 | MagicBougnat (Ravel) | [Mardy Energy](https://www.mtgtop8.com/event?e=62249&d=669543&f=MO){:target="_blank"} |
 | Iwan Fournier | 05/12/2024 | MTG37 (Tours) | Boros Energy |
+| Alex Labarre | 06/12/2024 | Arcadia (Nancy) | [Infect](https://www.mtgtop8.com/event?e=62804&d=674165&f=MO){:target="_blank"} |
 | Aurelien Lagouarde | 18/12/2024 | MTGPau (Pau) | ? |
 | Pierre Bourumeau | 18/12/2024 | MTGPau (Pau) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
