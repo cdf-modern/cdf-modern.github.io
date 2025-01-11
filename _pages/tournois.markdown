@@ -10,8 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 08/12/2024 | Bourges (18) | [Octopus Game](https://octopusgame.fr/){:target="_blank"} |  32 | [Site web](https://octopusgame.fr/accueil/707-magic-avant-premiere-foundations-samedi-09-novembre-17h30.html){:target="_blank"} |
-| 14/12/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://facebook.com/events/s/modern-de-decembre/453481351084799/){:target="_blank"} |
 | 16/01/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 01/02/2025 | Naintré (86) | [LTD](https://discord.gg/speS4khZwH){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/le-trophee-de-diane-2025){:target="_blank"} |
 | 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
@@ -78,4 +76,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 01/12/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} |  19 | N/A |
 | 01/12/2024 | Ravel (63) | [MagicBougnat](https://www.facebook.com/MagicBougnat/){:target="_blank"} | 18 | [MTGTop8](https://www.mtgtop8.com/event?e=62249&f=MO){:target="_blank"} |
 | 05/12/2024 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 10 | N/A |
+| 06/12/2024 | Nancy (54) | [MTG37](https://arcadia-jeux.com/){:target="_blank"} | 12 | [MTGTop8](https://www.mtgtop8.com/event?e=62804){:target="_blank"} |
 | 18/12/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 18 | N/A |
