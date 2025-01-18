@@ -14,6 +14,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 01/02/2025 | Naintré (86) | [LTD](https://discord.gg/speS4khZwH){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/le-trophee-de-diane-2025){:target="_blank"} |
 | 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 06/03/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
+| 29/03/2025 | Pessac (33) | Bar Jeux La triche | 32 | A venir |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 15/05/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 
