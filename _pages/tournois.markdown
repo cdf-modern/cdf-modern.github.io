@@ -79,3 +79,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 05/12/2024 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 10 | N/A |
 | 06/12/2024 | Nancy (54) | [MTG37](https://arcadia-jeux.com/){:target="_blank"} | 12 | [MTGTop8](https://www.mtgtop8.com/event?e=62804){:target="_blank"} |
 | 18/12/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 18 | N/A |
+| 19/01/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=63844){:target="_blank"} |
