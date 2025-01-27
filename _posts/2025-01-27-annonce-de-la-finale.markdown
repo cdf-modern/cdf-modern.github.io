@@ -1,6 +1,8 @@
 ---
-title: "Finale de la CdF Modern : on a les dates !"
+title: "Et voilà, on a les dates !"
 ---
+
+Enfin les infos pratiques pour l'événement que vous attendiez tous.tes !
 
 ## Une date et un lieu
 
