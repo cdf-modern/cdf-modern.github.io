@@ -13,7 +13,7 @@ Il nous reste encore quelques mois pour préparer pleinement l'événement, mais
 
 Notre objectif pour le jour J est d’atteindre les 200 personnes qui jouent en Modern dans la salle. Aujourd’hui plus de cent d’entre vous se sont déjà qualifié.e.s. On espère que ce nombre va augmenter, et on proposera aussi des tournois pour les personnes qui ne réussiraient pas à se qualifier. Ramenez vos ami.e.s pour jouer en Modern !
 
-Nous profitons de cette annonce pour remercier très chaudement MTG37, l’association Magic à Tours, sans qui nous ne pourrions pas organiser ce bel événement. En particulier, nous remercions les personnes suivantes, qui ont été cruciales pour obtenir la salle :
+Nous profitons de cette annonce pour remercier très chaudement [MTG37](https://discord.gg/tq2RzCJBbZ), l’association Magic à Tours, sans qui nous ne pourrions pas organiser ce bel événement. En particulier, nous remercions les personnes suivantes, qui ont été cruciales pour obtenir la salle :
 - Jean-David Pailleron, trésorier de MTG37, et qualifié à la CdF Modern dès la première heure :>
 - Sylvain Girard, de la maison de quartier Paul Bert, qui s’est battu pour nous
 - La mairie de Tours, qui nous donne accès à la salle
