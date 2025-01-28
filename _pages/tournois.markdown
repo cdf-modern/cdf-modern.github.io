@@ -13,6 +13,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 16/01/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 01/02/2025 | Naintré (86) | [LTD](https://discord.gg/speS4khZwH){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/association-damocles/evenements/le-trophee-de-diane-2025){:target="_blank"} |
 | 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
+| 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
+| 02/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
 | 06/03/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-open-cdf-modern){:target="_blank"} |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
