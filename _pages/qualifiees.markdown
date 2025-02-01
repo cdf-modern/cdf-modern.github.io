@@ -136,7 +136,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierre Bourumeau | 18/12/2024 | MTGPau (Pau) | ? |
 | Jérémy Reigneux | 19/01/2025 | Carta'jeu (Lyon) | [Amulet Titan](https://www.mtgtop8.com/event?e=63844&d=682472&f=MO){:target="_blank"} |
 | Thimothée Lebrun | 01/02/2025 | Damoclès (Naintré) | ? |
-| Fauquenoi Noé | 01/02/2025 | Damoclès (Naintré) | ? |
+| Noé Fauquenoi | 01/02/2025 | Damoclès (Naintré) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
