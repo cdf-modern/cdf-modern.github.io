@@ -79,6 +79,7 @@ Records en Modern :
 - J2 du PT LOTR a Barcelone en 2023 (Scam)
 - J2 au LMS Barcelone en 2023 (Rhinos)
 - 39eme au RC Ghent en 2024 (Rhinos)
+- 59eme au RC Prague en 2025 (UB Occulus)
 
 
 ### Pierre Mourlanne, président
