@@ -10,8 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 16/01/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
-| 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
 | 02/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
 | 06/03/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
@@ -83,3 +81,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 19/01/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=63844){:target="_blank"} |
 | 01/02/2025 | Naintré (86) | [LTD](https://discord.gg/speS4khZwH){:target="_blank"} | 21 | N/A |
 | 02/02/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=643934){:target="_blank"} |
+| 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 9 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
