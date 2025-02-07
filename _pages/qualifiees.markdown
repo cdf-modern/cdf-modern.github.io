@@ -138,6 +138,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thimothée Lebrun | 01/02/2025 | Damoclès (Naintré) | ? |
 | Noé Fauquenoi | 01/02/2025 | Damoclès (Naintré) | ? |
 | Kevin Sauvageon | 02/02/2025 | Carta'Jeu (Lyon) | [Splinter Twin](https://www.mtgtop8.com/event?e=64393&d=686579&f=MO){:target="_blank"} |
+| Guillaume Buvry | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
