@@ -135,10 +135,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Aurelien Lagouarde | 18/12/2024 | MTGPau (Pau) | ? |
 | Pierre Bourumeau | 18/12/2024 | MTGPau (Pau) | ? |
 | Jérémy Reigneux | 19/01/2025 | Carta'jeu (Lyon) | [Amulet Titan](https://www.mtgtop8.com/event?e=63844&d=682472&f=MO){:target="_blank"} |
-| [Timothée Lebrun](/timothee-lebrun-2025/) | 01/02/2025 | Damoclès (Naintré) | [Dimir Frog](https://www.mtgtop8.com/event?e=64455&d=687091&f=MO){:target="_blank"} |
+| [Timothée Lebrun](/timothee-lebrun-2025/){:target="_blank"} | 01/02/2025 | Damoclès (Naintré) | [Dimir Frog](https://www.mtgtop8.com/event?e=64455&d=687091&f=MO){:target="_blank"} |
 | Noé Fauquenoi | 01/02/2025 | Damoclès (Naintré) | [Charbelcher](https://www.mtgtop8.com/event?e=64455&d=687089&f=MO){:target="_blank"} |
 | Kevin Sauvageon | 02/02/2025 | Carta'Jeu (Lyon) | [Splinter Twin](https://www.mtgtop8.com/event?e=64393&d=686579&f=MO){:target="_blank"} |
-| Guillaume Buvry | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
+| [Guillaume Buvry](/guillaume-buvry-2025/){:target="_blank"} | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
