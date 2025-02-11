@@ -10,6 +10,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
+| 21/02/2025 | Pau (64) | [MTGPAU](https://www.facebook.com/mtgpau/){:target="_blank"} | 20 | [Facebook](https://www.facebook.com/mtgpau/posts/pfbid0kcVL7hF9MPW832Wvfoqtimw5AXPE45gYmrBSmsTBPtdyKnpDAtaWd5xvhRa5JfGFl){:target="_blank"} |
 | 01/03/2025 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/2010980209369081/?active_tab=discussion){:target="_blank"} |
 | 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
 | 02/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
