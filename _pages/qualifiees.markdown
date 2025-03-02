@@ -149,6 +149,14 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Antoine Szabo | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Marcelin Mein | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Alexandre Medico | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Pascal M | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Dylan Boulinguiez | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
