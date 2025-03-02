@@ -13,8 +13,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 21/02/2025 | Pau (64) | [MTGPAU](https://www.facebook.com/mtgpau/){:target="_blank"} | 20 | [Facebook](https://www.facebook.com/mtgpau/posts/pfbid0kcVL7hF9MPW832Wvfoqtimw5AXPE45gYmrBSmsTBPtdyKnpDAtaWd5xvhRa5JfGFl){:target="_blank"} |
 | 01/03/2025 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 24 | [Facebook](https://www.facebook.com/events/2010980209369081/?active_tab=discussion){:target="_blank"} |
 | 01/03/2025 | Bouafles (27) | [L'assemblée du Bois des Elfes](https://www.helloasso.com/associations/l-assemblee-du-bois-des-elfes){:target="_blank"} | 128 | [HelloAsso](https://www.helloasso.com/associations/l-assemblee-du-bois-des-elfes/evenements/open-modern-cdf){:target="_blank"} |
-| 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
-| 02/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 128 | [Site web](https://www.lapetitemalle.fr/84-tournoi-modern){:target="_blank"} |
 | 02/03/2025 | Nimes (30) | [Esport Nimes Arena](esportnimesarena.fr){:target="_blank"} | 16 | [Email](mailto:esportnimesarena@gmail.com) |
 | 06/03/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-open-cdf-modern){:target="_blank"} |
@@ -87,3 +85,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 02/02/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=643934){:target="_blank"} |
 | 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 9 | N/A |
 | 23/02/2025 | Rennes (35) | [imadjinns magic rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 15 | N/A |
+| 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 77 | TBD |
+| 02/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | TBD |
