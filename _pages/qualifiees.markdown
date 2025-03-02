@@ -152,7 +152,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Medico | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Pascal M | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Pascal Mucci | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Dylan Boulinguiez | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | ? |
