@@ -140,6 +140,15 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Kevin Sauvageon | 02/02/2025 | Carta'Jeu (Lyon) | [Splinter Twin](https://www.mtgtop8.com/event?e=64393&d=686579&f=MO){:target="_blank"} |
 | [Guillaume Buvry](/guillaume-buvry-2025/){:target="_blank"} | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
 | Gabriel Farriol | 23/02/2025 | imadjinns magic rennes (Rennes) | ? |
+| Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Samy Adjaout | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Arnaud Baglin | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Nicolas Argot | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Antoine Szabo | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Marcelin Mein | 01/03/2025 | ProfessorFest (Reims) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
