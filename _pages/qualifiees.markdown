@@ -143,7 +143,6 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Samy Adjaout | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Arnaud Baglin | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Nicolas Argot | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | ? |
@@ -153,10 +152,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Pascal Mucci | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Dylan Boulinguiez | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
