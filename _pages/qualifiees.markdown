@@ -140,24 +140,24 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Kevin Sauvageon | 02/02/2025 | Carta'Jeu (Lyon) | [Splinter Twin](https://www.mtgtop8.com/event?e=64393&d=686579&f=MO){:target="_blank"} |
 | [Guillaume Buvry](/guillaume-buvry-2025/){:target="_blank"} | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
 | Gabriel Farriol | 23/02/2025 | imadjinns magic rennes (Rennes) | ? |
-| Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | [Amulet Titan](https://www.mtgtop8.com/event?e=65501&d=695378&f=MO){:target="_blank"} |
+| Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | [Domain Zoo](https://www.mtgtop8.com/event?e=65501&d=695379&f=MO){:target="_blank"} |
 | Samy Adjaout | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Arnaud Baglin | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Nicolas Argot | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Antoine Szabo | 01/03/2025 | ProfessorFest (Reims) | ? |
-| Marcelin Mein | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Arnaud Baglin | 01/03/2025 | ProfessorFest (Reims) | [Death and Taxes](https://www.mtgtop8.com/event?e=65501&d=695373&f=MO){:target="_blank"} |
+| Nicolas Argot | 01/03/2025 | ProfessorFest (Reims) | [Grixis Reanimator](https://www.mtgtop8.com/event?e=65501&d=695377&f=MO){:target="_blank"} |
+| Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | [Death and Taxes](https://www.mtgtop8.com/event?e=65501&d=695374&f=MO){:target="_blank"} |
+| Antoine Szabo | 01/03/2025 | ProfessorFest (Reims) | [Temur Breach](https://www.mtgtop8.com/event?e=65501&d=695375&f=MO){:target="_blank"} |
+| Marcelin Mein | 01/03/2025 | ProfessorFest (Reims) | [Amulet Titan](https://www.mtgtop8.com/event?e=65501&d=695381&f=MO){:target="_blank"} |
 | Aloysius Barbier-Guillou | 01/03/2025 | Esport Nimes Arena (Nimes) | ? |
 | Nicolas Vérité | 01/03/2025 | L'assemblée du Bois des Elfes (Bouafles) | [Esper Frog](https://www.mtgtop8.com/event?e=65710&d=696875&f=MO){:target="_blank"} |
-| Alexandre Medico | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Pascal Mucci | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Dylan Boulinguiez | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | ? |
-| Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Alexandre Medico | 02/03/2025 | ProfessorFest (Reims) | [Esper Oculus](https://www.mtgtop8.com/event?e=65732&d=697043&f=MO){:target="_blank"} |
+| Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | [Temur Breach](https://www.mtgtop8.com/event?e=65732&d=697044&f=MO){:target="_blank"} |
+| Lune Vila | 02/03/2025 | ProfessorFest (Reims) | [Lune Vila](https://www.mtgtop8.com/event?e=65732&d=697049&f=MO){:target="_blank"} |
+| Pascal Mucci | 02/03/2025 | ProfessorFest (Reims) | [Jund Creativity](https://www.mtgtop8.com/event?e=65732&d=697046&f=MO){:target="_blank"} |
+| Dylan Boulinguiez | 02/03/2025 | ProfessorFest (Reims) | [Domain Zoo](https://www.mtgtop8.com/event?e=65732&d=697051&f=MO){:target="_blank"} |
+| Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | [Merfolk](https://www.mtgtop8.com/event?e=65732&d=697053&f=MO){:target="_blank"} |
+| Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | [Broodscale Bloodchief](https://www.mtgtop8.com/event?e=65732&d=697054&f=MO){:target="_blank"} |
+| Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | [Boros Energy](https://www.mtgtop8.com/event?e=65732&d=697055&f=MO){:target="_blank"} |
 | Idris Gil | 02/03/2025 | Carta'Jeu (Lyon) | [Domain Zoo](https://www.mtgtop8.com/event?e=65519&d=695506&f=MO){:target="_blank"} |
 | Quentin Goyet | 02/03/2025 | Carta'Jeu (Lyon) | [Eldrazi Ramp](https://www.mtgtop8.com/event?e=65519&d=695508&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
