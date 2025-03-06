@@ -148,6 +148,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierrot du Saillant | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Antoine Szabo | 01/03/2025 | ProfessorFest (Reims) | ? |
 | Marcelin Mein | 01/03/2025 | ProfessorFest (Reims) | ? |
+| Aloysius Barbier-Guillou | 01/03/2025 | Esport Nimes Arena (Nimes) | ? |
+| Nicolas Vérité | 01/03/2025 | L'assemblée du Bois des Elfes (Bouafles) | [Esper Frog](https://www.mtgtop8.com/event?e=65710&d=696875&f=MO){:target="_blank"} |
 | Alexandre Medico | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Melvin Velluet | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Lune Vila | 02/03/2025 | ProfessorFest (Reims) | ? |
@@ -156,6 +158,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Ben Paradox | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | ? |
 | Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | ? |
+| Idris Gil | 02/03/2025 | Carta'Jeu (Lyon) | [Domain Zoo](https://www.mtgtop8.com/event?e=65519&d=695506&f=MO){:target="_blank"} |
+| Quentin Goyet | 02/03/2025 | Carta'Jeu (Lyon) | [Eldrazi Ramp](https://www.mtgtop8.com/event?e=65519&d=695508&f=MO){:target="_blank"} |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
