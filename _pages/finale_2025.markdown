@@ -12,9 +12,9 @@ La Finale de la Coupe de France Modern 2025 c'est trois jours de tournois, en Mo
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
-Pour toutes les informations liées à l'événement et pour poser vos questions, rejoignez le [serveur discord Modern FR](https://discord.gg/KW4KPRZ3n7).
+## Foire Aux Questions
 
-## FAQ
+Pour toutes les informations liées à l'événement et pour poser vos questions, rejoignez le [serveur discord Modern FR](https://discord.gg/KW4KPRZ3n7).
 
 > Dois-je être qualifié pour venir à l'événement ?
 
