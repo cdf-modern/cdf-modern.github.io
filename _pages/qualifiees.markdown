@@ -159,7 +159,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Crepelle | 02/03/2025 | ProfessorFest (Reims) | [Broodscale Bloodchief](https://www.mtgtop8.com/event?e=65732&d=697054&f=MO){:target="_blank"} |
 | Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | [Boros Energy](https://www.mtgtop8.com/event?e=65732&d=697055&f=MO){:target="_blank"} |
 | Idris Gil | 02/03/2025 | Carta'Jeu (Lyon) | [Domain Zoo](https://www.mtgtop8.com/event?e=65519&d=695506&f=MO){:target="_blank"} |
-| Quentin Goyet | 02/03/2025 | Carta'Jeu (Lyon) | [Eldrazi Ramp](https://www.mtgtop8.com/event?e=65519&d=695508&f=MO){:target="_blank"} |
+| Mickael Bernard | 08/03/2025 | La Diagonale du Fou (Dijon) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
