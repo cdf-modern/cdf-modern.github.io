@@ -8,7 +8,7 @@ permalink: /finale-2025/
 
 La Finale de la Coupe de France Modern 2025 c'est trois jours de tournois, en Modern *et en Duel Commander*, avec des événements ouverts à tous.tes, qualifié.e.s ou non. Venez profiter de la magnifique salle Paul Tixier, en plein centre ville de Tours, et célébrer l'Assemblée !
 
-<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/vignette_finale_2025.PNG" alt="Finale CdF 2025" /></a></p>
+<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/vignette_finale_2025.jpg" alt="Finale CdF 2025" /></a></p>
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
 
