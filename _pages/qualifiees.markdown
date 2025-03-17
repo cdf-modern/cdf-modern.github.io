@@ -139,6 +139,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Noé Fauquenoi | 01/02/2025 | Damoclès (Naintré) | [Charbelcher](https://www.mtgtop8.com/event?e=64455&d=687089&f=MO){:target="_blank"} |
 | Kevin Sauvageon | 02/02/2025 | Carta'Jeu (Lyon) | [Splinter Twin](https://www.mtgtop8.com/event?e=64393&d=686579&f=MO){:target="_blank"} |
 | [Guillaume Buvry](/guillaume-buvry-2025/){:target="_blank"} | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
+| Fabien Dok | 21/02/2025 | Arcadia (Nancy) | ? |
 | Gabriel Farriol | 23/02/2025 | imadjinns magic rennes (Rennes) | ? |
 | Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | [Amulet Titan](https://www.mtgtop8.com/event?e=65501&d=695378&f=MO){:target="_blank"} |
 | Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | [Domain Zoo](https://www.mtgtop8.com/event?e=65501&d=695379&f=MO){:target="_blank"} |
@@ -160,6 +161,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Antoine Dambron | 02/03/2025 | ProfessorFest (Reims) | [Boros Energy](https://www.mtgtop8.com/event?e=65732&d=697055&f=MO){:target="_blank"} |
 | Idris Gil | 02/03/2025 | Carta'Jeu (Lyon) | [Domain Zoo](https://www.mtgtop8.com/event?e=65519&d=695506&f=MO){:target="_blank"} |
 | Mickael Bernard | 08/03/2025 | La Diagonale du Fou (Dijon) | ? |
+| Dorian Lavabre | 14/03/2025 | Arcadia (Nancy) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
