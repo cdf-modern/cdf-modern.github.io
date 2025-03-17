@@ -15,8 +15,13 @@ La Coupe de France Modern c'est un circuit de tournois pendant l'année, qui dis
 
 ## Une super finale qui claque 🤩
 
-La finale 2025 aura lieu à **Tours les 30-31 mai et 1 juin** prochains, dans la magnifique [salle Paul Tixier](https://maps.app.goo.gl/4qND1XRojzkgWngs5){:target="_blank"}. Trois jours de Magic, en Modern, et surtout un super moment tous ensemble.  
-Les inscriptions ouvriront bientôt, venez nombreux pour que l'on passe un week-end inoubliable 🎉
+Les inscriptions sont ouvertes !
+
+<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/vignette_finale_2025.jpg" alt="Finale CdF 2025" /></a></p>
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
+
+Plus de détails à retrouver sur [notre page dédiée à l'événement](/finale-2025/).
 
 ## Comment organiser un tournoi qualificatif ?
 
