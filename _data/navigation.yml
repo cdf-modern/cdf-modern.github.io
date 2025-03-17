@@ -1,4 +1,7 @@
 main:
+  - title: "Finale"
+    url: /finale-2025/
+
   - title: "Tournois"
     url: /tournois/
 
