@@ -16,7 +16,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
 | 11/05/2025 | Angers (39) | [MTGAnjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 16 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/open-cdf-dc-mtg-anjou){:target="_blank"} |
 | 15/05/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
-| 18/05/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
+| 18/05/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} |
+| 30/05/2025 | Tours (37) | [L'Assemblée du Modern](https://cdf-modern.fr/){:target="_blank"} | Plein ! | [HelloAsso](https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025){:target="_blank"} |
 
 ## Tournois passés
 
