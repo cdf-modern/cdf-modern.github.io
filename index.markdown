@@ -15,8 +15,6 @@ La Coupe de France Modern c'est un circuit de tournois pendant l'année, qui dis
 
 ## Une super finale qui claque 🤩
 
-Les inscriptions sont ouvertes !
-
 <p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/vignette_finale_2025.jpg" alt="Finale CdF 2025" /></a></p>
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
@@ -39,5 +37,3 @@ Pour toute question, n'hésitez pas à nous contacter [par mail](mailto:lassembl
 
 En jouant dans les événements qualificatifs, et en terminant parmi les premièr.e.s. Tous les détails sont [sur cette page](/se-qualifier/).  
 Retrouvez sur ce site [la liste des Qualifiers CdF Modern](/tournois/) !
-
-Nous réfléchissons à des moyens alternatifs pour vous qualifier. Les détails seront publiés ici dans les semaines à venir.
