@@ -92,3 +92,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 02/03/2024 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 17 | [MTGTop8](https://www.mtgtop8.com/event?e=65519&f=MO){:target="_blank"} |
 | 08/03/2024 | Dijon (21) | [La Diagonale du Fou](https://www.facebook.com/LaDiagonaleDuFouDijon/?locale=fr_FR){:target="_blank"} | 12 | N/A |
 | 14/03/2025 | Nancy (54) | Arcadia | 16 | N/A |
+| 16/03/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 10 | N/A |
+
