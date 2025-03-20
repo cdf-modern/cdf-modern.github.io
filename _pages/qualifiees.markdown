@@ -162,6 +162,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Idris Gil | 02/03/2025 | Carta'Jeu (Lyon) | [Domain Zoo](https://www.mtgtop8.com/event?e=65519&d=695506&f=MO){:target="_blank"} |
 | Mickael Bernard | 08/03/2025 | La Diagonale du Fou (Dijon) | ? |
 | Dorian Lavabre | 14/03/2025 | Arcadia (Nancy) | ? |
+| Jonathan Marvie | 16/03/2025 | Carta'Jeu (Lyon) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
