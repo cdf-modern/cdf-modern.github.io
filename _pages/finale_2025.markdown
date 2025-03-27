@@ -16,9 +16,14 @@ La Finale de la Coupe de France Modern 2025 c'est trois jours de tournois, en Mo
 
 Pour toutes les informations liées à l'événement et pour poser vos questions, rejoignez le [serveur discord Modern FR](https://discord.gg/KW4KPRZ3n7).
 
-> Dois-je être qualifié pour venir à l'événement ?
+> Dois-je être qualifié.e pour venir à l'événement ?
 
 Non ! Les trois jours des tournois en Modern et en Duel Commander sont ouverts à tous.tes, notamment aux personnes non qualifiées. Seul le Main Event est réservé aux personnes qualifiées.
+
+> Je suis qualifié.e pour le Main Event, dois-je m'inscrire via HelloAsso ?
+
+Oui. La qualification est nécessaire, mais pas suffisante, il faut aussi s'inscrire via HelloAsso. La participation à l'événement est payante car l'organisation de la finale est portée par notre association, et nous n'avons pas récolté d'argent auprès des joueurs pendant le circuit.  
+Cet argent sera entièrement reversé pendant le week-end, pour compenser les arbitres, payer la salle, et surtout pour distribuer **un max de lots** !
 
 > Comment est-ce que je peux me qualifier pour le Main Event ?
 
