@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-open-cdf-modern){:target="_blank"} |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 32 | [Site Web](http://animation.magiccorporation.com/?op=calendrier&jour=26&mois=04&annee=2025){:target="_blank"} |
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
@@ -94,4 +93,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 08/03/2024 | Dijon (21) | [La Diagonale du Fou](https://www.facebook.com/LaDiagonaleDuFouDijon/?locale=fr_FR){:target="_blank"} | 12 | N/A |
 | 14/03/2025 | Nancy (54) | Arcadia | 16 | N/A |
 | 16/03/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 10 | N/A |
-
+| 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
