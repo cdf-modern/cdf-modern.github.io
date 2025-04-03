@@ -11,6 +11,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
+| 19/04/2025 | La Rochelle (17) | [La Guilde](https://discord.gg/7DfhWvhde6){:target="_blank"} | 24 | [Email](mailto:contact@laguilde-lr.fr) |
 | 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 32 | [Site Web](http://animation.magiccorporation.com/?op=calendrier&jour=26&mois=04&annee=2025){:target="_blank"} |
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
 | 10/05/2025 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/mtg-pau/evenements/modern-qualifier-cdf){:target="_blank"} |
