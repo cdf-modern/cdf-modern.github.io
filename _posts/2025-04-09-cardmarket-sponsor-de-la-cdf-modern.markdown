@@ -2,6 +2,8 @@
 title: "Cardmarket sponsor de la CdF Modern"
 ---
 
+<p class="text-align-center"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Cardmarket-Sponsored-By-Logo-white.png" alt="Sponsored by Cardmarket" /></p>
+
 Nous sommes ravis de vous annoncer que [Cardmarket](https://www.cardmarket.com/), le célèbre site d'achat et de vente de cartes, sera sponsor de la CdF Modern 🎉
 
 ## Ca veut dire quoi en pratique ?
