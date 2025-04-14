@@ -166,6 +166,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jérémie Piris | 26/03/2025 | Checkpoint Café (Clermont-Ferrand) | [Boros Energy](https://www.mtgtop8.com/event?e=66662&f=MO){:target="_blank"} |
 | Thomas Manso | 29/03/2025 | Les Mages d'Urza (Gradignan) | ? |
 | Thibaut Burgalières | 29/03/2025 | Les Mages d'Urza (Gradignan) | ? |
+| Thomas Perrotey | 29/03/2025 | La Caverne du Gobelin (Nancy) | Eldrazi |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
