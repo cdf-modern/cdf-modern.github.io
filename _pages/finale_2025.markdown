@@ -44,7 +44,13 @@ Oui, selon la [politique proxy de MTG Nantes](https://www.mtgnantes.fr/activit%C
 
 > Qu'est-ce qu'il y aura à gagner ?
 
-La grille de lots sera annoncée à l'approche de l'événement. L'événement est associatif, notre objectif est de vous proposer la meilleure expérience possible 🤩
+La grille de lots sera annoncée à l'approche de l'événement. L'événement est associatif, notre objectif est de vous proposer la meilleure expérience possible 🤩  
+La pyramide exacte sera calculée le jour J en fonction du nombre de participant.e.s, pour être certains de distribuer tout ce que l'on peut.
+
+Suite à un sondage effectué auprès de joueurs.euses, nous avons décidé de distribuer en priorité les lots de la manière suivante :
+- "Grosses" cartes de la Reserved List, en particulier des bilands
+- Des staples de Modern, principalement de MH3 : Fetchs (Polluted Delta, Flooded Strand, etc.), Ocelot Pride, Harbinger of the Seas, Psychic Frog, Ugin's Labyrinth, Ajani, etc.
+- Bons d'achat chez Eclypse, valables sur place, et aussi utilisables sur leur compte MKM
 
 > Est-ce qu'il y aura une restauration sur place ?
 
