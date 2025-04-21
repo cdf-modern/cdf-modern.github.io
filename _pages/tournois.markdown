@@ -12,7 +12,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 18/04/2025 | Nancy (54) | [Arcadia](https://arcadia-jeux.com/){:target="_blank"} | 16 | [Facebook](https://www.facebook.com/groups/magicthegatheringnancy/posts/2877427302438384/){:target="_blank"} |
-| 19/04/2025 | La Rochelle (17) | [La Guilde](https://discord.gg/7DfhWvhde6){:target="_blank"} | 24 | [Email](mailto:contact@laguilde-lr.fr) |
 | 19/04/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [Site Web](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-23345){:target="_blank"} |
 | 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 32 | [Site Web](http://animation.magiccorporation.com/?op=calendrier&jour=26&mois=04&annee=2025){:target="_blank"} |
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
@@ -100,3 +99,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
 | 29/03/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 13 | N/A |
+| 19/04/2025 | La Rochelle (17) | [La Guilde](https://discord.gg/7DfhWvhde6){:target="_blank"} | 13 | N/A |
