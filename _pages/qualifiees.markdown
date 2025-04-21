@@ -168,6 +168,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thibaut Burgalières | 29/03/2025 | Les Mages d'Urza (Gradignan) | ? |
 | Thomas Perrotey | 29/03/2025 | La Caverne du Gobelin (Nancy) | Eldrazi |
 | Enzo Demaretz | 17/04/2025 | YellowHat Challenge (Twitch) | Infect |
+| Cyrille Braconnier | 19/04/2025 | La Guile du Jeu (La Rochelle) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
