@@ -134,6 +134,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alex Labarre | 06/12/2024 | Arcadia (Nancy) | [Infect](https://www.mtgtop8.com/event?e=62804&d=674165&f=MO){:target="_blank"} |
 | Aurelien Lagouarde | 18/12/2024 | MTGPau (Pau) | ? |
 | Pierre Bourumeau | 18/12/2024 | MTGPau (Pau) | ? |
+| Rémi Traversi | 20/12/2024 | MTG Genève (Genève) | ? |
 | Jérémy Reigneux | 19/01/2025 | Carta'jeu (Lyon) | [Amulet Titan](https://www.mtgtop8.com/event?e=63844&d=682472&f=MO){:target="_blank"} |
 | [Timothée Lebrun](/timothee-lebrun-2025/){:target="_blank"} | 01/02/2025 | Damoclès (Naintré) | [Dimir Frog](https://www.mtgtop8.com/event?e=64455&d=687091&f=MO){:target="_blank"} |
 | Noé Fauquenoi | 01/02/2025 | Damoclès (Naintré) | [Charbelcher](https://www.mtgtop8.com/event?e=64455&d=687089&f=MO){:target="_blank"} |
@@ -141,6 +142,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | [Guillaume Buvry](/guillaume-buvry-2025/){:target="_blank"} | 06/02/2025 | MTG37 (Tours) | Mono Black Coffers |
 | Fabien Dok | 21/02/2025 | Arcadia (Nancy) | ? |
 | Gabriel Farriol | 23/02/2025 | imadjinns magic rennes (Rennes) | ? |
+| Alexey Paulot | 28/02/2025 | MTG Genève (Genève) | ? |
 | Lucas Chèvre | 01/03/2025 | ProfessorFest (Reims) | [Amulet Titan](https://www.mtgtop8.com/event?e=65501&d=695378&f=MO){:target="_blank"} |
 | Rodrigue Hybler | 01/03/2025 | ProfessorFest (Reims) | [Domain Zoo](https://www.mtgtop8.com/event?e=65501&d=695379&f=MO){:target="_blank"} |
 | Samy Adjaout | 01/03/2025 | ProfessorFest (Reims) | ? |
@@ -168,6 +170,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thibaut Burgalières | 29/03/2025 | Les Mages d'Urza (Gradignan) | ? |
 | Thomas Perrotey | 29/03/2025 | La Caverne du Gobelin (Nancy) | Eldrazi |
 | Enzo Demaretz | 17/04/2025 | YellowHat Challenge (Twitch) | Infect |
+| Ludovic Spinelli | 18/04/2025 | MTG Genève (Genève) | ? |
 | Cyrille Braconnier | 19/04/2025 | La Guile du Jeu (La Rochelle) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
