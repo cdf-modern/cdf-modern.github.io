@@ -171,7 +171,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thomas Perrotey | 29/03/2025 | La Caverne du Gobelin (Nancy) | Eldrazi |
 | Enzo Demaretz | 17/04/2025 | YellowHat Challenge (Twitch) | Infect |
 | Ludovic Spinelli | 18/04/2025 | MTG Genève (Genève) | ? |
-| Cyrille Braconnier | 19/04/2025 | La Guile du Jeu (La Rochelle) | ? |
+| Cyrille Braconnier | 19/04/2025 | La Guilde du Jeu (Dijon) | ? |
+| Gabin Demonet | 25/04/2025 | La Caverne du Gobelin (Metz) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
