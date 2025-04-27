@@ -83,12 +83,14 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 05/12/2024 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 10 | N/A |
 | 06/12/2024 | Nancy (54) | [Arcadia](https://arcadia-jeux.com/){:target="_blank"} | 12 | [MTGTop8](https://www.mtgtop8.com/event?e=62804){:target="_blank"} |
 | 18/12/2024 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 18 | N/A |
+| 20/12/2024 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 12 | N/A |
 | 19/01/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=63844){:target="_blank"} |
 | 01/02/2025 | Naintré (86) | [LTD](https://discord.gg/speS4khZwH){:target="_blank"} | 21 | N/A |
 | 02/02/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 15 | [MTGTop8](https://www.mtgtop8.com/event?e=643934){:target="_blank"} |
 | 06/02/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 9 | N/A |
 | 21/02/2025 | Nancy (54) | Arcadia | 14 | N/A |
 | 23/02/2025 | Rennes (35) | [imadjinns magic rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 15 | N/A |
+| 28/02/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 11 | N/A |
 | 01/03/2025 | Reims (51) | [ProfessorFest](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 77 | [MTGTop8](https://www.mtgtop8.com/event?e=65501&f=MO){:target="_blank"} |
 | 01/03/2025 | Bouafles (27) | [L'assemblée du Bois des Elfes](https://www.helloasso.com/associations/l-assemblee-du-bois-des-elfes){:target="_blank"} | 13 | [MTGTop8](https://www.mtgtop8.com/event?e=65710&f=MO){:target="_blank"} |
 | 02/03/2025 | Nimes (30) | [Esport Nimes Arena](esportnimesarena.fr){:target="_blank"} | 11 | N/A |
@@ -100,4 +102,5 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
 | 29/03/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 13 | N/A |
+| 18/04/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 14 | N/A |
 | 19/04/2025 | La Rochelle (17) | [La Guilde](https://discord.gg/7DfhWvhde6){:target="_blank"} | 13 | N/A |
