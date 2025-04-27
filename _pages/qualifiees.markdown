@@ -171,6 +171,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Thomas Perrotey | 29/03/2025 | La Caverne du Gobelin (Nancy) | Eldrazi |
 | Enzo Demaretz | 17/04/2025 | YellowHat Challenge (Twitch) | Infect |
 | Ludovic Spinelli | 18/04/2025 | MTG Genève (Genève) | ? |
+| Arthur Mertz | 18/04/2025 | Arcadia (Nancy) | Amulet Titan |
+| Pierre Aubart | 18/04/2025 | Arcadia (Nancy) | Domain Zoo |
+| Arnaud Koch | 19/04/2025 | La Caverne du Gobelin (Nancy) | Domain Zoo |
 | Cyrille Braconnier | 19/04/2025 | La Guilde du Jeu (Dijon) | ? |
 | Gabin Demonet | 25/04/2025 | La Caverne du Gobelin (Metz) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
