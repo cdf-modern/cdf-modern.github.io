@@ -103,4 +103,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/03/2025 | Gradignan (33) | [Les Mages d'Urza](https://discord.gg/PTeFDRPfKk){:target="_blank"} | 31 | N/A |
 | 29/03/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 13 | N/A |
 | 18/04/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 14 | N/A |
-| 19/04/2025 | La Rochelle (17) | [La Guilde](https://discord.gg/7DfhWvhde6){:target="_blank"} | 13 | N/A |
+| 19/04/2025 | Dijon (21) | La Guilde du Jeu | 13 | N/A |
