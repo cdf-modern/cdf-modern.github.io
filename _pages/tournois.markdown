@@ -11,12 +11,12 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
-| 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 32 | [Site Web](http://animation.magiccorporation.com/?op=calendrier&jour=26&mois=04&annee=2025){:target="_blank"} |
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} | 
 | 10/05/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 10/05/2025 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/mtg-pau/evenements/modern-qualifier-cdf){:target="_blank"} |
 | 11/05/2025 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-nantes/evenements/think-twice-18-modern-rcq){:target="_blank"} |
 | 15/05/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
+| 16/05/2025 | Nancy (54) | [Arcadia](https://arcadia-jeux.com/){:target="_blank"} | 16 | [Facebook](https://www.facebook.com/groups/magicthegatheringnancy/permalink/2903397003174747/){:target="_blank"} |
 | 18/05/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 64 | [Site web](https://event.augobelinfarci.com/boutique/articles/?price_min=0&price_max=500&type%5B%5D=167&time_min=0&time_max=180&age=0&filter_by=&action=s){:target="_blank"} |
 | 26/05/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [Site web](https://www.lesanimationsdugobelin.com/membre/animations/view/nancy-magic-magic-modern-23624){:target="_blank"} |
 | 30/05/2025 | Tours (37) | [L'Assemblée du Modern](https://cdf-modern.fr/){:target="_blank"} | 100+ | [HelloAsso](https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025){:target="_blank"} |
@@ -106,3 +106,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 19/04/2025 | Dijon (21) | La Guilde du Jeu | 13 | N/A |
 | 19/04/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | N/A |
 | 25/04/2025 | Metz (57) | La Caverne du Gobelin | 15 | N/A |
+| 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 31 | N/A |
