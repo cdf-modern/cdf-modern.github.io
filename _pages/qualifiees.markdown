@@ -178,6 +178,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Gabin Demonet | 25/04/2025 | La Caverne du Gobelin (Metz) | ? |
 | Mickael Teyant | 26/04/2025 | MagicCorporation (Paris) | ? |
 | Antoine Orozco | 26/04/2025 | MagicCorporation (Paris) | ? |
+| Hadrien Bourgoin | 27/04/2025 | La Taverne du Gobelin Farci (Saint-Étienne) (42) | ? |
+| Bastien Guillaume | 10/05/2025 | Carta'Jeu (Lyon) | ? |
+| David Lopez | 11/05/2025 | ROLE Games | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
