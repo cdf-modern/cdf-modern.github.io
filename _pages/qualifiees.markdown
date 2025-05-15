@@ -180,6 +180,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Antoine Orozco | 26/04/2025 | MagicCorporation (Paris) | ? |
 | Hadrien Bourgoin | 27/04/2025 | La Taverne du Gobelin Farci (Saint-Étienne) (42) | ? |
 | Bastien Guillaume | 10/05/2025 | Carta'Jeu (Lyon) | ? |
+| Michel Savary | 10/05/2025 | La Règle du Jeu (Tours) | ? |
 | David Lopez | 11/05/2025 | ROLE Games | ? |
 | Théau Mery | 11/05/2025 | MTG Nantes | ? |
 | Maël Gourvès | 11/05/2025 | MTG Nantes | ? |
