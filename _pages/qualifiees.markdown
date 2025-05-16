@@ -185,6 +185,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Théau Mery | 11/05/2025 | MTG Nantes | ? |
 | Maël Gourvès | 11/05/2025 | MTG Nantes | ? |
 | Coco Ferrand | 15/05/2025 | MTG37 (Tours) | Eldrazi Aggro |
+| Kevin Esposito | 16/05/2025 | Checkpoint Café (Clermont-Ferrand) | Boros Energy |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
