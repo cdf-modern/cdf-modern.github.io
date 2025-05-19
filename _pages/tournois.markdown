@@ -103,6 +103,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 18/04/2025 | Nancy (54) | [Arcadia](https://arcadia-jeux.com/){:target="_blank"} | 19 | N/A |
 | 19/04/2025 | Dijon (21) | La Guilde du Jeu | 13 | N/A |
 | 19/04/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | N/A |
+| 20/04/2025 | Lyon (69) | [Carta'jeu](https://cartajeu.com/){:target="_blank"} | 9 | N/A |
 | 25/04/2025 | Metz (57) | La Caverne du Gobelin | 15 | N/A |
 | 26/04/2025 | Paris (75) | [Magic Corporation](http://www.magiccorporation.com/){:target="_blank"} | 31 | N/A |
 | 27/04/2025 | Saint-Étienne (42) | [La Taverne du Gobelin Farci](https://event.augobelinfarci.com/){:target="_blank"} | 10 | N/A |
