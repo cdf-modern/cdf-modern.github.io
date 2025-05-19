@@ -175,6 +175,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierre Aubart | 18/04/2025 | Arcadia (Nancy) | Domain Zoo |
 | Arnaud Koch | 19/04/2025 | La Caverne du Gobelin (Nancy) | Domain Zoo |
 | Cyrille Braconnier | 19/04/2025 | La Guilde du Jeu (Dijon) | ? |
+| Thomas Lahaye | 20/04/2025 | Carta'Jeu (Lyon) | ? |
 | Gabin Demonet | 25/04/2025 | La Caverne du Gobelin (Metz) | ? |
 | Mickael Teyant | 26/04/2025 | MagicCorporation (Paris) | ? |
 | Antoine Orozco | 26/04/2025 | MagicCorporation (Paris) | ? |
