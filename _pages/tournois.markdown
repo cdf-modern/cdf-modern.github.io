@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 03/04/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
 | 10/05/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://www.magic-ville.com/fr/mvshop/boutique?prod_code=107){:target="_blank"} |
 | 10/05/2025 | Pau (64) | [MTGPau](https://discord.gg/7rvzvvmj){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/mtg-pau/evenements/modern-qualifier-cdf){:target="_blank"} |
 | 15/05/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 16 | [Discord](https://discord.gg/tq2RzCJBbZ){:target="_blank"} |
@@ -112,3 +111,4 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 11/05/2025 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} | 12 | N/A |
 | 11/05/2025 | Nantes (44) | [MTG Nantes](https://discord.gg/UrcA6QRy2d){:target="_blank"} | 22 | N/A |
 | 15/05/2025 | Tours (37) | [MTG37](https://discord.gg/tq2RzCJBbZ){:target="_blank"} | 10 | N/A |
+| 18/05/2025 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 64 | N/A |
