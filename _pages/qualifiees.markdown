@@ -193,6 +193,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Léo Guimard | 18/05/2025 | Play-in BNF (Paris) | ? |
 | Adrien Penard | 18/05/2025 | Play-in BNF (Paris) | ? |
 | Captain D | 18/05/2025 | Play-in BNF (Paris) | ? |
+| Gregory Petiot | 24/05/2025 | La Taverne du Gobelin Farci (Saint-Étienne) (42) | ? |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
