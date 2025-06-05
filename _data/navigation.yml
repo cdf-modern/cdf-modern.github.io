@@ -1,12 +1,12 @@
 main:
-  - title: "Finale"
-    url: /finale-2025/
-
   - title: "Tournois"
     url: /tournois/
 
   - title: "Qualifié.e.s"
     url: /qualifiees/
+
+  - title: "Hall of Fame"
+    url: /hall-of-fame/
 
   - title: "Ressources"
     url: /assets/
