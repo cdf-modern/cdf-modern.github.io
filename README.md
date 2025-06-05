@@ -10,6 +10,8 @@ This is the repository for the Coupe de France Modern website. It is available a
 - Install Jekyll: `gem install jekyll bundler`
 - Install dependencies: `bundle install`
 
+(You may need to follow the instructions in https://stackoverflow.com/a/37956249/1669977 and add things to your .bashrc)
+
 ### Local development
 
 To run a local server:
