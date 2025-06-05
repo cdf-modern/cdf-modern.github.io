@@ -15,11 +15,9 @@ La Coupe de France Modern c'est un circuit de tournois pendant l'année, qui dis
 
 ## Une super finale qui claque 🤩
 
-<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/vignette_finale_2025.jpg" alt="Finale CdF 2025" /></a></p>
+En 2025 nous avons réuni 105 personnes à Tours, pour la première finale. C'était un [super week-end](/premier-champion-de-france/) 🫶
 
-<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/finale-coupe-de-france-modern-2025/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
-
-Plus de détails à retrouver sur [notre page dédiée à l'événement](/finale-2025/).
+En 2026 nous avons l'intention de remettre le couvert, en gardant une ligne directrice claire : une initative associative, par les joueurs et pour les joueurs !
 
 ## Comment organiser un tournoi qualificatif ?
 
