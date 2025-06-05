@@ -4,6 +4,8 @@ title: Comment se qualifier ?
 permalink: /se-qualifier/
 ---
 
+NB : Ces informations sont temporaires, en attendant la prochaine Assemblée Générale de l'association, qui décidera de l'organisation pour la saison 2026.
+
 ## Des tournois qualificatifs pendant l'année
 
 La manière la plus simple de se qualifier pour la finale est de participer à un [tournoi qualificatif](/tournois/), et de finir parmi les première.s.
