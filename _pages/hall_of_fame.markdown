@@ -4,7 +4,7 @@ title: Hall of Fame
 permalink: /hall-of-fame/
 ---
 
-Retrouvez ici tous les gagnant.e.s de la CdF Modern au fil des années ⭐
+Retrouvez ici tou.te.s les gagnant.e.s de la CdF Modern au fil des années ⭐
 
 # 2025 : Gabriel Farriol
 
