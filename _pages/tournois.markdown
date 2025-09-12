@@ -10,6 +10,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
+| More | info | coming | soon | ! |
 
 ## Tournois passés
 
@@ -25,7 +26,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 05/09/2025 | Dijon (21) | La Guilde du Jeu | | |
 | 06/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} |  |  |
 | 06/09/2025 | Reims (51) | [ProfessorClash](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | [MTGTop8](https://www.mtgtop8.com/event?e=73360&f=MO){:target="_blank"} |
-| 02/03/2025 | Reims (51) | [ProfessorClash Rebound(https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
+| 07/09/2025 | Reims (51) | [ProfessorClash Rebound](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
 
 
 
