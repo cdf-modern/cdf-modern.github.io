@@ -49,11 +49,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Bastien Blandin | 22/08/2025 | Qualifier CDF - Arcadia | [Zoo](https://www.mtgtop8.com/event?e=72759&d=751956&f=MO)  |
 | Mickael Bernard | 05/09/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Jade Oui | 06/09/2025 | Qualifier CDF - RoleGames |  |
-
-
-
-
-
+| Stéphane Vincent | 06/09/2025 | Qualifier CDF - La Règle du Jeu | ? |
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
