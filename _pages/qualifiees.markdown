@@ -35,8 +35,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexis Montoux | 06/07/2025 | Destination Qualifier Châteauroux | [BW Blink](https://www.mtgtop8.com/event?e=71390&d=741048&f=MO) |
 | Alexandre Dorémus | 06/07/2025 | Destination Qualifier Châteauroux | [Boros Energy](https://www.mtgtop8.com/event?e=71390&d=741052&f=MO) |
 | Charles Rivet | 06/07/2025 | Destination Qualifier Châteauroux | [Prowess](https://www.mtgtop8.com/event?e=71390&d=741050&f=MO) |
-| Julien Murgey | 28/06/2025 | RCQ Modern ZAP | [Boros Energy]
-| Cyprien Monnier | 28/06/2025 | RCQ Modern ZAP | [Mardu Energy]
+| Julien Murgey | 28/06/2025 | RCQ Modern ZAP | Boros Energy
+| Cyprien Monnier | 28/06/2025 | RCQ Modern ZAP | Mardu Energy
 | Gurvan Royer | 19/07/2025 | RCQ Modern Checkpoint Café | |
 | Raphael Mas | 19/07/2025 | RCQ Modern Difintel | |
 | Joseph Ruan | 20/07/2025 | RCQ Playin | BW Blink |
