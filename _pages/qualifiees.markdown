@@ -25,7 +25,36 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Leo Guimard | 01/06/2025 | Finale 2025 : Rebound | [Dimir Frog](https://www.mtgtop8.com/event?e=69528&d=726718&f=MO) |
 | Olivia Cotillard | 01/06/2025 | Finale 2025 : Rebound | [Boggles](https://www.mtgtop8.com/event?e=69528&d=726719&f=MO) |
 | Thomas Manso | 01/06/2025 | Finale 2025 : Rebound | [Yawgmoth](https://www.mtgtop8.com/event?e=69528&d=726720&f=MO) |
+| Thomas Drucké | 01/06/2025 | Finale 2025 : Main Event | [Jeskai Cutter](https://www.mtgtop8.com/event?e=69497&d=726451&f=MO) |
+| Nicolas Borgel | 09/06/2025 | RCQ Modern Jeux Barjo | [UB FrogFlare](https://www.mtgtop8.com/event?e=70449&d=733789&f=MO) |
+| Jean-Armand Colin | 09/06/2025 | RCQ Modern Jeux Barjo | [Zoo](https://www.mtgtop8.com/event?e=70449&d=733790&f=MO) |
+| Clément Lumeau | 24/06/2025 | RCQ Modern Artefacts | [Living End](https://www.mtgtop8.com/event?e=70479&d=734005&f=MO) |
+| Evan Colly | 24/06/2025 | RCQ Modern Artefacts | [Prowess](https://www.mtgtop8.com/event?e=70479&d=734006&f=MO) |
+| Hippolyte Seve | 28/06/2025 | RCQ Modern Checkpoint Café | |
+| Nicolas Verite | 06/07/2025 | Destination Qualifier Châteauroux | [Boros Energy](https://www.mtgtop8.com/event?e=71390&d=741046&f=MO) |
+| Alexis Montoux | 06/07/2025 | Destination Qualifier Châteauroux | [BW Blink](https://www.mtgtop8.com/event?e=71390&d=741048&f=MO) |
+| Alexandre Dorémus | 06/07/2025 | Destination Qualifier Châteauroux | [Boros Energy](https://www.mtgtop8.com/event?e=71390&d=741052&f=MO) |
+| Charles Rivet | 06/07/2025 | Destination Qualifier Châteauroux | [Prowess](https://www.mtgtop8.com/event?e=71390&d=741050&f=MO) |
+| Julien Murgey | 28/06/2025 | RCQ Modern ZAP | [Boros Energy]
+| Cyprien Monnier | 28/06/2025 | RCQ Modern ZAP | [Mardu Energy]
+| Gurvan Royer | 19/07/2025 | RCQ Modern Checkpoint Café | |
+| Raphael Mas | 19/07/2025 | RCQ Modern Difintel | |
 | Joseph Ruan | 20/07/2025 | RCQ Playin | BW Blink |
+| Arthur Merle | 20/07/2025 | RCQ Playin | Broodscale |
+| Alexandre Paskov | 20/07/2025 | RCQ Playin | U Belcher |
+| Mickael Teyant | 20/07/2025 | RCQ Playin | BG Rock |
+| Aloysius Barbier Guillou | 24/08/2025 | Qualifier CDF - C4ST - Tableraz |  |
+| Lilian Lescure | 29/08/2025 | Qualifier CDF - Apothicarte |  |
+| Yann Miglierina | 22/08/2025 | Qualifier CDF - Arcadia | [Boros Energy](https://www.mtgtop8.com/event?e=72759&d=751955&f=MO)  |
+| Bastien Blandin | 22/08/2025 | Qualifier CDF - Arcadia | [Zoo](https://www.mtgtop8.com/event?e=72759&d=751956&f=MO)  |
+| Mickael Bernard | 05/09/2025 | Qualifier CDF - La Guilde du Jeu |  |
+| Jade Oui | 06/09/2025 | Qualifier CDF - RoleGames |  |
+
+
+
+
+
+
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
