@@ -50,6 +50,12 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Mickael Bernard | 05/09/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Jade Oui | 06/09/2025 | Qualifier CDF - RoleGames |  |
 | Stéphane Vincent | 06/09/2025 | Qualifier CDF - La Règle du Jeu | ? |
+| Timothée Blondiaux | 06/09/2025 | Professor Clash | [Goryo](https://www.mtgtop8.com/event?e=73360&d=756523&f=MO)  |
+| Antoine Dambron | 06/09/2025 | Professor Clash | [Esper Blink](https://www.mtgtop8.com/event?e=73360&d=756525&f=MO)  |
+| Marcellin Mein | 07/09/2025 | Professor Clash - Rebound | [Amulet Titan](https://www.mtgtop8.com/event?e=73403&d=756911&f=MO)  |
+| Arnaud Baglin | 07/09/2025 | Professor Clash - Rebound | [Esper Blink](https://www.mtgtop8.com/event?e=73403&d=756912&f=MO)  |
+
+
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
