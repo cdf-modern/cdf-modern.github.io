@@ -25,7 +25,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Leo Guimard | 01/06/2025 | Finale 2025 : Rebound | [Dimir Frog](https://www.mtgtop8.com/event?e=69528&d=726718&f=MO) |
 | Olivia Cotillard | 01/06/2025 | Finale 2025 : Rebound | [Boggles](https://www.mtgtop8.com/event?e=69528&d=726719&f=MO) |
 | Thomas Manso | 01/06/2025 | Finale 2025 : Rebound | [Yawgmoth](https://www.mtgtop8.com/event?e=69528&d=726720&f=MO) |
-
+| Joseph Ruan | 20/07/2025 | RCQ Playin | BW Blink |
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
