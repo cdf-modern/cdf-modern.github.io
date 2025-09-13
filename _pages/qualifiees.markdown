@@ -54,7 +54,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Antoine Dambron | 06/09/2025 | Professor Clash | [Esper Blink](https://www.mtgtop8.com/event?e=73360&d=756525&f=MO)  |
 | Marcelin Mein | 07/09/2025 | Professor Clash - Rebound | [Amulet Titan](https://www.mtgtop8.com/event?e=73403&d=756911&f=MO)  |
 | Arnaud Baglin | 07/09/2025 | Professor Clash - Rebound | [Esper Blink](https://www.mtgtop8.com/event?e=73403&d=756912&f=MO)  |
-
+| Arthur Damy | 13/09/2025 | Qualifier CDF - Jardin des Rolistes |  |
 
 
 {: .tablesorter data-sortlist="[[1,0]]"}
