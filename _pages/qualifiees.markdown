@@ -37,7 +37,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Charles Rivet | 06/07/2025 | Destination Qualifier Châteauroux | [Prowess](https://www.mtgtop8.com/event?e=71390&d=741050&f=MO) |
 | Julien Murgey | 28/06/2025 | RCQ Modern ZAP | Boros Energy
 | Cyprien Monnier | 28/06/2025 | RCQ Modern ZAP | Mardu Energy
-| Gurvan Royer | 19/07/2025 | RCQ Modern Checkpoint Café | |
+| Gurvan Royer | 19/07/2025 | RCQ Modern Checkpoint Café | [Eldrazi Tron](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1056999) |
 | Raphael Mas | 19/07/2025 | RCQ Modern Difintel | |
 | Joseph Ruan | 20/07/2025 | RCQ Playin | BW Blink |
 | Arthur Merle | 20/07/2025 | RCQ Playin | Broodscale |
