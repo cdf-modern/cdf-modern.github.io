@@ -9,7 +9,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 
 | Nom | Date | Tournoi | Deck |
 | - | - | - | - |
-| Romain Jauberty | 31/05/2025 | Finale 2025 : Qualifier | ? |
+| Romain Jauberty | 31/05/2025 | Finale 2025 : Qualifier |  |
 | Gabriel Farriol | 01/06/2025 | Finale 2025 : Main Event | [Zoo](https://www.mtgtop8.com/event?e=69497&d=726444&f=MO) |
 | Julien Rouar | 01/06/2025 | Finale 2025 : Main Event | [BW Blink](https://www.mtgtop8.com/event?e=69497&d=726445&f=MO) |
 | Nicolas Prail | 01/06/2025 | Finale 2025 : Main Event | [Boros Energy](https://www.mtgtop8.com/event?e=69497&d=726447&f=MO) |
@@ -49,7 +49,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Bastien Blandin | 22/08/2025 | Qualifier CDF - Arcadia | [Zoo](https://www.mtgtop8.com/event?e=72759&d=751956&f=MO)  |
 | Mickael Bernard | 05/09/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Jade Oui | 06/09/2025 | Qualifier CDF - RoleGames |  |
-| Stéphane Vincent | 06/09/2025 | Qualifier CDF - La Règle du Jeu | ? |
+| Stéphane Vincent | 06/09/2025 | Qualifier CDF - La Règle du Jeu |  |
 | Timothée Blondiaux | 06/09/2025 | Professor Clash | [Goryo](https://www.mtgtop8.com/event?e=73360&d=756523&f=MO)  |
 | Antoine Dambron | 06/09/2025 | Professor Clash | [Esper Blink](https://www.mtgtop8.com/event?e=73360&d=756525&f=MO)  |
 | Marcellin Mein | 07/09/2025 | Professor Clash - Rebound | [Amulet Titan](https://www.mtgtop8.com/event?e=73403&d=756911&f=MO)  |
