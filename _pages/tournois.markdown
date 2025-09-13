@@ -25,8 +25,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 20/07/2025 | Paris (75) | [Play-in BNF](https://www.play-in.com/){:target="_blank"} | 53 |  |
 | 05/09/2025 | Dijon (21) | La Guilde du Jeu | | |
 | 06/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} |  |  |
-| 06/09/2025 | Reims (51) | [ProfessorClash](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | [MTGTop8](https://www.mtgtop8.com/event?e=73360&f=MO){:target="_blank"} |
-| 07/09/2025 | Reims (51) | [ProfessorClash Rebound](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 73 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
+| 06/09/2025 | Reims (51) | [ProfessorClash](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 32 | [MTGTop8](https://www.mtgtop8.com/event?e=73360&f=MO){:target="_blank"} |
+| 07/09/2025 | Reims (51) | [ProfessorClash Rebound](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 29 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
 
 
 
