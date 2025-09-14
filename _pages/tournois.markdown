@@ -11,6 +11,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 05/10/2025 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-5-duel-commander-rcq-modern-edh-2) |
+| 08/02/2026 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} |  |  |
+
 
 
 ## Tournois passés
