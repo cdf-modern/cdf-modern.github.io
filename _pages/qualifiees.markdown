@@ -30,7 +30,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jean-Armand Colin | 09/06/2025 | RCQ Modern Jeux Barjo | [Zoo](https://www.mtgtop8.com/event?e=70449&d=733790&f=MO) |
 | Clément Lumeau | 24/06/2025 | RCQ Modern Artefacts | [Living End](https://www.mtgtop8.com/event?e=70479&d=734005&f=MO) |
 | Evan Colly | 24/06/2025 | RCQ Modern Artefacts | [Prowess](https://www.mtgtop8.com/event?e=70479&d=734006&f=MO) |
-| Hippolyte Seve | 28/06/2025 | RCQ Modern Checkpoint Café | |
+| Hippolyte Seve | 28/06/2025 | RCQ Modern Checkpoint Café | [Boros Energy](https://moxfield.com/decks/tyOJ_rAcGESdM2wTyLDnQA) |
 | Nicolas Verite | 06/07/2025 | Destination Qualifier Châteauroux | [Boros Energy](https://www.mtgtop8.com/event?e=71390&d=741046&f=MO) |
 | Alexis Montoux | 06/07/2025 | Destination Qualifier Châteauroux | [BW Blink](https://www.mtgtop8.com/event?e=71390&d=741048&f=MO) |
 | Alexandre Dorémus | 06/07/2025 | Destination Qualifier Châteauroux | [Boros Energy](https://www.mtgtop8.com/event?e=71390&d=741052&f=MO) |
