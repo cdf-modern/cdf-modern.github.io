@@ -9,6 +9,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 
 | Nom | Date | Tournoi | Deck |
 | - | - | - | - |
+| Pierre Tardy | 11/05/2025 | RCQ Modern Nantes |  |
+| Théau Méry | 11/05/2025 | RCQ Modern Nantes |  |
 | Romain Jauberty | 31/05/2025 | Finale 2025 : Qualifier |  |
 | Gabriel Farriol | 01/06/2025 | Finale 2025 : Main Event | [Zoo](https://www.mtgtop8.com/event?e=69497&d=726444&f=MO) |
 | Julien Rouar | 01/06/2025 | Finale 2025 : Main Event | [BW Blink](https://www.mtgtop8.com/event?e=69497&d=726445&f=MO) |
