@@ -31,6 +31,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/09/2024 | Marseille (13) | [ROLE Games](https://www.facebook.com/rolegamesmarseille){:target="_blank"} |  |  |
 | 06/09/2025 | Reims (51) | [ProfessorClash](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 32 | [MTGTop8](https://www.mtgtop8.com/event?e=73360&f=MO){:target="_blank"} |
 | 07/09/2025 | Reims (51) | [ProfessorClash Rebound](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 29 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
+| 26/09/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 12 | N/A |
 
 
 
