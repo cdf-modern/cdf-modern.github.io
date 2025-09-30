@@ -11,8 +11,16 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 05/10/2025 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-5-duel-commander-rcq-modern-edh-2) |
+| 10/10/2025 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-montpellier/evenements/tournoi-mensuel-modern-tbz-octobre-2025) |
+| 14/11/2025 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
+| 12/12/2025 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
+| 30/01/2026 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
 | 08/02/2026 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} |  |  |
+| 13/02/2026 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
+| 13/03/2026 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
+| 10/04/2026 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
+| 08/05/2026 | Besançon (25) | [TCG Besanon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | | |
 
 
 
