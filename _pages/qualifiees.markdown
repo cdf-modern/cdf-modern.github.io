@@ -39,6 +39,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Charles Rivet | 06/07/2025 | Destination Qualifier Châteauroux | [Prowess](https://www.mtgtop8.com/event?e=71390&d=741050&f=MO) |
 | Julien Murgey | 28/06/2025 | RCQ Modern ZAP | Boros Energy
 | Cyprien Monnier | 28/06/2025 | RCQ Modern ZAP | Mardu Energy
+| Quentin Helfman | 29/06/2025 | Qualifier CDF - AG | Amulet Titan |
 | Gurvan Royer | 19/07/2025 | RCQ Modern Checkpoint Café | [Eldrazi Tron](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1056999) |
 | Raphael Mas | 19/07/2025 | RCQ Modern Difintel | |
 | Joseph Ruan | 20/07/2025 | RCQ Playin | BW Blink |
@@ -58,6 +59,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Arnaud Baglin | 07/09/2025 | Professor Clash - Rebound | [Esper Blink](https://www.mtgtop8.com/event?e=73403&d=756912&f=MO)  |
 | Alex Labarre | 12/09/2025 | Modern Mensuel - La Caverne du Gobelin |  |
 | Arthur Damy | 13/09/2025 | Qualifier CDF - Jardin des Rolistes |  |
+| Julien Boulet | 14/09/2025 | Qualifier CDF - AG | Dimir Frog |
+| Théophile Delavy | 26/09/2025 | Qualifier CDF - MTG Genève |  |
 
 
 {: .tablesorter data-sortlist="[[1,0]]"}
