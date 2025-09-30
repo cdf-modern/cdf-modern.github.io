@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 27/09/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://cartapapa.fr/jeux-video-jeux-de-cartes/tournois/){:target="_blank"} |
 | 05/10/2025 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 64 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-5-duel-commander-rcq-modern-edh-2) |
 | 08/02/2026 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} |  |  |
 
@@ -32,6 +31,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/09/2025 | Reims (51) | [ProfessorClash](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 32 | [MTGTop8](https://www.mtgtop8.com/event?e=73360&f=MO){:target="_blank"} |
 | 07/09/2025 | Reims (51) | [ProfessorClash Rebound](https://discord.gg/dpnBBQJSHA){:target="_blank"} | 29 | [MTGTop8](https://www.mtgtop8.com/event?e=73403&f=MO){:target="_blank"} |
 | 26/09/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 12 | N/A |
+| 27/09/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://cartapapa.fr/jeux-video-jeux-de-cartes/tournois/){:target="_blank"} |
 
 
 
