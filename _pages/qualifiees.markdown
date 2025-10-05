@@ -61,7 +61,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Arthur Damy | 13/09/2025 | Qualifier CDF - Jardin des Rolistes |  |
 | Julien Boulet | 14/09/2025 | Qualifier CDF - AG | Dimir Frog |
 | Théophile Delavy | 26/09/2025 | Qualifier CDF - MTG Genève |  |
-| Alexandre Damiens | 05/10/2025 | Qualifier CDF - ZAP | Eldrazi Breach |
+| Alexandre Damiens | 05/10/2025 | Qualifier CDF - ZAP | [Eldrazi Breach](https://moxfield.com/decks/KVkH0akAVEmdjhPuhKKgEA) |
 | Gabin Demonet | 05/10/2025 | Qualifier CDF - ZAP | UR Prowess |
 
 
