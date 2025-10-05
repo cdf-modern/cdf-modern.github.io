@@ -19,6 +19,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Mae Bretin | 01/06/2025 | Finale 2025 : Main Event | [Amulet Titan](https://www.mtgtop8.com/event?e=69497&d=726449&f=MO) |
 | Noé Fauquenoi | 01/06/2025 | Finale 2025 : Main Event | [Gruul Storm](https://www.mtgtop8.com/event?e=69497&d=726450&f=MO) |
 | Erwan Maisonneuve | 01/06/2025 | Finale 2025 : Main Event | [Jeskai Otters](https://www.mtgtop8.com/event?e=69497&d=726448&f=MO) |
+| Thomas Drucké | 01/06/2025 | Finale 2025 : Main Event | [Jeskai Cutter](https://www.mtgtop8.com/event?e=69497&d=726451&f=MO) |
 | Arthur Le Goanvic | 01/06/2025 | Finale 2025 : Rebound | [Gruul Eldrazi](https://www.mtgtop8.com/event?e=69528&f=MO) |
 | Clément Beauquier | 01/06/2025 | Finale 2025 : Rebound | [Mono Black Necro](https://www.mtgtop8.com/event?e=69528&d=726714&f=MO) |
 | Melvin Velluet | 01/06/2025 | Finale 2025 : Rebound | [Dimir Frog](https://www.mtgtop8.com/event?e=69528&d=726715&f=MO) |
@@ -27,7 +28,6 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Leo Guimard | 01/06/2025 | Finale 2025 : Rebound | [Dimir Frog](https://www.mtgtop8.com/event?e=69528&d=726718&f=MO) |
 | Olivia Cotillard | 01/06/2025 | Finale 2025 : Rebound | [Boggles](https://www.mtgtop8.com/event?e=69528&d=726719&f=MO) |
 | Thomas Manso | 01/06/2025 | Finale 2025 : Rebound | [Yawgmoth](https://www.mtgtop8.com/event?e=69528&d=726720&f=MO) |
-| Thomas Drucké | 01/06/2025 | Finale 2025 : Main Event | [Jeskai Cutter](https://www.mtgtop8.com/event?e=69497&d=726451&f=MO) |
 | Nicolas Borgel | 09/06/2025 | RCQ Modern Jeux Barjo | [UB FrogFlare](https://www.mtgtop8.com/event?e=70449&d=733789&f=MO) |
 | Jean-Armand Colin | 09/06/2025 | RCQ Modern Jeux Barjo | [Zoo](https://www.mtgtop8.com/event?e=70449&d=733790&f=MO) |
 | Clément Lumeau | 24/06/2025 | RCQ Modern Artefacts | [Living End](https://www.mtgtop8.com/event?e=70479&d=734005&f=MO) |
