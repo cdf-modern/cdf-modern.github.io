@@ -63,7 +63,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Théophile Delavy | 26/09/2025 | Qualifier CDF - MTG Genève |  |
 | Alexandre Damiens | 05/10/2025 | Qualifier CDF - ZAP | [Eldrazi Breach](https://moxfield.com/decks/KVkH0akAVEmdjhPuhKKgEA) |
 | Gabin Demonet | 05/10/2025 | Qualifier CDF - ZAP | [UR Prowess](https://moxfield.com/decks/kL6gGcsoAUqD4U9-1-dw9Q) |
-
+| Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 
 
 {: .tablesorter data-sortlist="[[1,0]]"}
