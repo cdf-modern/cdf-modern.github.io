@@ -14,7 +14,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 10/10/2025 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-24876) |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-montpellier/evenements/tournoi-mensuel-modern-tbz-octobre-2025) |
-| 17/10/2025 | Nancy (54) | [Arcadia]([https://arcadia-jeux.com/](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen)){:target="_blank"} |  |  |
+| 17/10/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen){:target="_blank"} |  |  |
+| 16/05/2025 | Nancy (54) | [Arcadia](https://arcadia-jeux.com/){:target="_blank"} | 16 |  |
 | 14/11/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 12/12/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
