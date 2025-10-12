@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 10/10/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 10/10/2025 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-24876) |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-montpellier/evenements/tournoi-mensuel-modern-tbz-octobre-2025) |
@@ -46,7 +45,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 26/09/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} | 12 | N/A |
 | 27/09/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://cartapapa.fr/jeux-video-jeux-de-cartes/tournois/){:target="_blank"} |
 | 05/10/2025 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 20 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-5-duel-commander-rcq-modern-edh-2) |
-
+| 10/10/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 15 | |
 
 
 
