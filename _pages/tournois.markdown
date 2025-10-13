@@ -13,7 +13,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 10/10/2025 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-24876) |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-montpellier/evenements/tournoi-mensuel-modern-tbz-octobre-2025) |
-| 12/10/2025 | Pérgieux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} | | [Apothicarte](https://apothicarte.com/collections/evenements/products/modern-qualifier-dimanche-12-octobre) |
 | 17/10/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen){:target="_blank"} |  |  |
 | 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 | 14/11/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -47,6 +46,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 27/09/2025 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa){:target="_blank"} | 32 | [Site Web](https://cartapapa.fr/jeux-video-jeux-de-cartes/tournois/){:target="_blank"} |
 | 05/10/2025 | Palaiseau (91) | [ZAP](https://www.facebook.com/arpenteursdepalaiseau/){:target="_blank"} | 20 | [HelloAsso](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-realmbreaker-5-duel-commander-rcq-modern-edh-2) |
 | 10/10/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 15 | |
+| 12/10/2025 | Pérgieux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} | 15 | [Apothicarte](https://apothicarte.com/collections/evenements/products/modern-qualifier-dimanche-12-octobre) |
 
 
 
