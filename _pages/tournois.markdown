@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-
 | 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-24876) |
 | 17/10/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen){:target="_blank"} |  |  |
 | 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
