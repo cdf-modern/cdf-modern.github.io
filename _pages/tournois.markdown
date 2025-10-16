@@ -15,6 +15,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 | 24/10/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} |  |  |
 | 14/11/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
+| 29/11/2025 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 40 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=11&annee=2025)|
 | 12/12/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 24/01/2025 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 32 | [Play-In](https://www.play-in.com/fr/evenements/1/paris-bnf) |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
