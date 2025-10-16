@@ -65,7 +65,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Gabin Demonet | 05/10/2025 | Qualifier CDF - ZAP | [UR Prowess](https://moxfield.com/decks/kL6gGcsoAUqD4U9-1-dw9Q) |
 | Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Anthony Saugeon | 10/10/2025 | TCG Besançon - Octobre | Grixis Reanimator  |
+| Martin Lamberty | 11/10/2025 | Qualifier CDF - La Caverne du Gobelin | UR Affinity |
 | Kevin Julien | 12/10/2025 | Qualifier CDF - Apothicarte |  |
+
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
