@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.com/){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-24876) |
 | 17/10/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen){:target="_blank"} |  |  |
 | 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 | 24/10/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} |  |  |
@@ -48,6 +47,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 10/10/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 15 | |
 | 10/10/2025 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | reporté novembre|
 | 12/10/2025 | Pérgieux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} | 15 | [Apothicarte](https://apothicarte.com/collections/evenements/products/modern-qualifier-dimanche-12-octobre) |
+| 11/10/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.fr/accueil){:target="_blank"} | 13 | |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | annulé |
 
 
