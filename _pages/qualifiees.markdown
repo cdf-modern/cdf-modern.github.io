@@ -65,7 +65,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Gabin Demonet | 05/10/2025 | Qualifier CDF - ZAP | [UR Prowess](https://moxfield.com/decks/kL6gGcsoAUqD4U9-1-dw9Q) |
 | Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Anthony Saugeon | 10/10/2025 | TCG Besançon - Octobre | [Grixis Reanimator](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1093336)  |
-| Arthur Meetz | 10/10/2025 | Modern Mensuel - La Caverne du Gobelin |  |
+| Arthur Mertz | 10/10/2025 | Modern Mensuel - La Caverne du Gobelin |  |
 | Martin Lamberty | 11/10/2025 | Qualifier CDF - La Caverne du Gobelin | UR Affinity |
 | Kevin Julien | 12/10/2025 | Qualifier CDF - Apothicarte |  |
 | Dorian Lavabre | 17/10/2025 | Qualifier CDF - Arcadia | Jeskai Blink  |
