@@ -70,6 +70,11 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Martin Lamberty | 11/10/2025 | Qualifier CDF - La Caverne du Gobelin | UR Affinity |
 | Kevin Julien | 12/10/2025 | Qualifier CDF - Apothicarte |  |
 | Dorian Lavabre | 17/10/2025 | Qualifier CDF - Arcadia | Jeskai Blink  |
+| Nicolas Monsinjon | 18/10/2025 | Urza Series - Open CDF Modern |  |
+| Rado Rakotoarimanana | 18/10/2025 | Urza Series - Open CDF Modern |  |
+| Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern |  |
+| Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern |  |
+
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
