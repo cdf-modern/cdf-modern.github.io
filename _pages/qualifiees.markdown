@@ -66,6 +66,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Anthony Saugeon | 10/10/2025 | TCG Besançon - Octobre | [Grixis Reanimator](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1093336)  |
 | Arthur Mertz | 10/10/2025 | Modern Mensuel - La Caverne du Gobelin |  |
+| Coralie Ferrand | 11/10/2025 | Qualifier CDF - La Regle du Jeu | |
 | Martin Lamberty | 11/10/2025 | Qualifier CDF - La Caverne du Gobelin | UR Affinity |
 | Kevin Julien | 12/10/2025 | Qualifier CDF - Apothicarte |  |
 | Dorian Lavabre | 17/10/2025 | Qualifier CDF - Arcadia | Jeskai Blink  |
