@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 | 24/10/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} |  |  |
 | 02/11/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1714){:target="_blank"} | 14 | |
 | 14/11/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -51,6 +50,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 12/10/2025 | Pérgieux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} | 15 | [Apothicarte](https://apothicarte.com/collections/evenements/products/modern-qualifier-dimanche-12-octobre) |
 | 12/10/2025 | Montpellier (34) | [Magic à Brac / Tableraze](https://www.facebook.com/MagicABrac/){:target="_blank"} | | annulé |
 | 17/10/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/141653686015773/?multi_permalinks=3067870633394049&hoisted_section_header_type=recently_seen){:target="_blank"} | 11 |  |
+| 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 
 
 
