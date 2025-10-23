@@ -12,6 +12,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | - | - | - | :-: | - |
 | 18/10/2025 | Bordeaux (33) | [Les Mages d'Urza](https://www.facebook.com/lesmagesdurza/?locale=fr_FR){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series) |
 | 24/10/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} |  |  |
+| 02/11/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1714){:target="_blank"} | 14 | |
 | 14/11/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 23/11/2025 | Nimes (30) | [Esport Nimes Arena](https://media.discordapp.net/attachments/702891430942736384/1430281196792709191/WhatsApp_Image_2025-10-21_a_21.45.00_b6951122.jpg?ex=68f934aa&is=68f7e32a&hm=5251af136351e362de5615090e2ef8d33fdae252c095b94ec9dae5a3f9cb14f0&=&format=webp&width=712&height=1008){:target="_blank"} | 24 | [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSf3ZacpuSYwNMAMX8X7iGR-cQ7UErgkt3LXf-k6No4hxTADzw/viewform)|
 | 29/11/2025 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 40 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=11&annee=2025)|
