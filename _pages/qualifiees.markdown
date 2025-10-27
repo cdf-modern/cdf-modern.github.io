@@ -74,7 +74,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Rado Rakotoarimanana | 18/10/2025 | Urza Series - Open CDF Modern |  |
 | Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern |  |
 | Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern |  |
-
+| Carlo Ottaviani | 24/10/2025 | Qualifier CDF - MTG Genève | [RG Broodscale](https://moxfield.com/decks/QWG9oOjw9U6uleW4O-URrA) |
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
