@@ -70,10 +70,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Martin Lamberty | 11/10/2025 | Qualifier CDF - La Caverne du Gobelin | UR Affinity |
 | Kevin Julien | 12/10/2025 | Qualifier CDF - Apothicarte |  |
 | Dorian Lavabre | 17/10/2025 | Qualifier CDF - Arcadia | Jeskai Blink  |
-| Nicolas Monsinjon | 18/10/2025 | Urza Series - Open CDF Modern |  |
-| Rado Rakotoarimanana | 18/10/2025 | Urza Series - Open CDF Modern |  |
-| Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern |  |
-| Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern |  |
+| Nicolas Monsinjon | 18/10/2025 | Urza Series - Open CDF Modern | [UR Affinity](https://mtgtop8.com/event?e=75254&d=771080&f=MO) |
+| Rado Rakotoarimanana | 18/10/2025 | Urza Series - Open CDF Modern | [BG Soultrader](https://mtgtop8.com/event?e=75254&d=771082&f=MO) |
+| Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern | [UR Prowess](https://mtgtop8.com/event?e=75254&d=771083&f=MO) |
+| Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern | [BW Blink](https://mtgtop8.com/event?e=75254&d=771085&f=MO) |
 | Carlo Ottaviani | 24/10/2025 | Qualifier CDF - MTG Genève | [RG Broodscale](https://moxfield.com/decks/QWG9oOjw9U6uleW4O-URrA) |
 
 {: .tablesorter data-sortlist="[[1,0]]"}
