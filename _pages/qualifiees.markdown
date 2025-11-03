@@ -61,9 +61,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Arthur Damy | 13/09/2025 | Qualifier CDF - Jardin des Rolistes |  |
 | Julien Boulet | 14/09/2025 | Qualifier CDF - AG | Dimir Frog |
 | Théophile Delavy | 26/09/2025 | Qualifier CDF - MTG Genève |  |
+| Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Alexandre Damiens | 05/10/2025 | Qualifier CDF - ZAP | [Eldrazi Breach](https://moxfield.com/decks/KVkH0akAVEmdjhPuhKKgEA) |
 | Gabin Demonet | 05/10/2025 | Qualifier CDF - ZAP | [UR Prowess](https://moxfield.com/decks/kL6gGcsoAUqD4U9-1-dw9Q) |
-| Florian Al Bayati | 04/10/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Anthony Saugeon | 10/10/2025 | TCG Besançon - Octobre | [Grixis Reanimator](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1093336)  |
 | Arthur Mertz | 10/10/2025 | Modern Mensuel - La Caverne du Gobelin |  |
 | Coralie Ferrand | 11/10/2025 | Qualifier CDF - La Regle du Jeu | |
@@ -75,6 +75,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern | [UR Prowess](https://mtgtop8.com/event?e=75254&d=771083&f=MO) |
 | Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern | [BW Blink](https://mtgtop8.com/event?e=75254&d=771085&f=MO) |
 | Carlo Ottaviani | 24/10/2025 | Qualifier CDF - MTG Genève | [RG Broodscale](https://moxfield.com/decks/QWG9oOjw9U6uleW4O-URrA) |
+| Marwan Tedjini | 02/11/2025 | Qualifier CDF - Joutes & Jeux | [Samwise Combo](https://moxfield.com/decks/To0tqJw4KEmjaWog6Ps_rw) |
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
