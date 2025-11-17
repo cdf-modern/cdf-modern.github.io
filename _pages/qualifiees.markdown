@@ -79,9 +79,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Valentin Tallec | 08/11/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Lino Toretta | 07/11/2025 | Relic Fest Main Event Modern | Jeskai Blink |
 | Amand Dosimont | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Mike Boulinguiez | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Mike Boulinguiez | 07/11/2025 | Relic Fest Main Event Modern | Goryo |
 | Paul Magnaldo | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Adam Ichalalen | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Adam Ichalalen | 07/11/2025 | Relic Fest Main Event Modern | Domain Zoo |
 | Martino Bidese | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Jemery Thizy | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Geoffroy Heurtier | 07/11/2025 | Relic Fest Main Event Modern |  |
@@ -89,9 +89,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Guillem Lana | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Alexis Raulin-Foissac | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Robin Courtiat | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Johann Kergal | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Johann Kergal | 07/11/2025 | Relic Fest Main Event Modern | Jeskai Blink |
 | Jules Mathet | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern | Samwise Combo |
 | Salim Zaouia | 07/11/2025 | Relic Fest Main Event Modern |  |
 
 
