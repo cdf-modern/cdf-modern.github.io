@@ -77,6 +77,25 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Carlo Ottaviani | 24/10/2025 | Qualifier CDF - MTG Genève | [RG Broodscale](https://moxfield.com/decks/QWG9oOjw9U6uleW4O-URrA) |
 | Marwan Tedjini | 02/11/2025 | Qualifier CDF - Joutes & Jeux | [Samwise Combo](https://moxfield.com/decks/To0tqJw4KEmjaWog6Ps_rw) |
 | Valentin Tallec | 08/11/2025 | Qualifier CDF - La Guilde du Jeu |  |
+| Lino Toretta | 07/11/2025 | Relic Fest Main Event Modern | Jeskai Blink |
+| Amand Dosimont | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Mike Boulinguiez | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Paul Magnaldo | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Adam Ichalalen | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Martino Bidese | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Jemery Thizy | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Geoffroy Heurtier | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Albert Queralt | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Guillem Lana | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Alexis Raulin-Foissac | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Robin Courtiat | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Johann Kergal | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Jules Mathet | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Salim Zaouia | 07/11/2025 | Relic Fest Main Event Modern |  |
+
+
+
 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
