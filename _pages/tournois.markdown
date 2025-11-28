@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-
 | 28/11/2025 | Genève (CH) | [MTG Genève](https://unityleague.gg/organizer/20){:target="_blank"} |  |  |
 | 28/11/2025 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 29/11/2025 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 40 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=11&annee=2025)|
