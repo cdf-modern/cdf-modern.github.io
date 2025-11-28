@@ -93,6 +93,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jules Mathet | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern | Samwise Combo |
 | Salim Zaouia | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Titouan Le Berre | 23/11/2025 | Esport Nimes Arena | [RG Broodscale](https://www.mtgtop8.com/event?e=76873&d=783179&f=MO)   |
 
 
 
