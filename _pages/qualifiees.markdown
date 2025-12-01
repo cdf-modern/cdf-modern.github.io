@@ -98,7 +98,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Titouan Le Berre | 23/11/2025 | Esport Nimes Arena | [RG Broodscale](https://www.mtgtop8.com/event?e=76873&d=783179&f=MO)   |
 | Lucas Pio | 28/11/2025 | Qualifier CDF - MTG Genève | Boros Energy |
 | Maxime Fitrzyk | 28/11/2025 | Qualifier CDF - L'Antre du Panda | |
-| Michel Noblime | 29/11/2025 | Qualifier CDF - Magic Corporation | [Orzhov Blink](https://moxfield.com/decks/Fw6PxC_W-kmRsL0Nq4x8bA) |
+| Michel Nobime | 29/11/2025 | Qualifier CDF - Magic Corporation | [Orzhov Blink](https://moxfield.com/decks/Fw6PxC_W-kmRsL0Nq4x8bA) |
 | Mathieu Goudard | 29/11/2025 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://www.mtggoldfish.com/deck/7483958) |
 | Léo Bourgeois | 30/11/2025 | Win A Biland - MTG Anjou | [Boros Energy](https://moxfield.com/decks/W5--nP4gGkSYgmnnuQruCA) |
 
