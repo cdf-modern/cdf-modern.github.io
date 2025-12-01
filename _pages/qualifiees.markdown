@@ -101,6 +101,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Michel Nobime | 29/11/2025 | Qualifier CDF - Magic Corporation | [Orzhov Blink](https://moxfield.com/decks/Fw6PxC_W-kmRsL0Nq4x8bA) |
 | Mathieu Goudard | 29/11/2025 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://www.mtggoldfish.com/deck/7483958) |
 | Léo Bourgeois | 30/11/2025 | Win A Biland - MTG Anjou | [Boros Energy](https://moxfield.com/decks/W5--nP4gGkSYgmnnuQruCA) |
+| Nathanaël Orefice | 30/11/2025 | Win A Biland - MTG Anjou | [Boros Energy](https://moxfield.com/decks/A2SfSA1EK06b1xiUuYso3g) |
 
 
 
