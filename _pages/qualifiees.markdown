@@ -83,7 +83,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Paul Magnaldo | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Adam Ichalalen | 07/11/2025 | Relic Fest Main Event Modern | Domain Zoo |
 | Martino Bidese | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Jemery Thizy | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Jeremy Thizy | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Geoffroy Heurtier | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Albert Queralt | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Guillem Lana | 07/11/2025 | Relic Fest Main Event Modern |  |
