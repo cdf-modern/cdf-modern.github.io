@@ -103,7 +103,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Léo Bourgeois | 30/11/2025 | Win A Biland - MTG Anjou | [Boros Energy](https://moxfield.com/decks/W5--nP4gGkSYgmnnuQruCA) |
 | Nathanaël Orefice | 30/11/2025 | Win A Biland - MTG Anjou | [Boros Energy](https://moxfield.com/decks/A2SfSA1EK06b1xiUuYso3g) |
 | Joan Massot | 04/12/2025 | Ligue Modern - Clermont-Ferrand | [Jeskai Blink](https://moxfield.com/decks/J8mgZSAA-k2aNjWs2V0bUg) |
-
+| Valentin Tallec | 05/12/2025 | Qualifier CDF - La Guilde du Jeu |  |
 
 
 
