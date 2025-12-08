@@ -105,6 +105,14 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Joan Massot | 04/12/2025 | Ligue Modern - Clermont-Ferrand | [Jeskai Blink](https://moxfield.com/decks/J8mgZSAA-k2aNjWs2V0bUg) |
 | Cyrille Braconnier | 05/12/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Sergio Courtois | 07/12/2025 | Qualifier CDF - Joutes & Jeux | Simic Ritual |
+| Antoine Lamaud | 07/12/2025 | EUL Nationals France | Boros Energy |
+| Baptiste Platteau | 07/12/2025 | EUL Nationals France | Simic Ritual |
+| Arthur Laborderie | 07/12/2025 | EUL Nationals France | Amulet TItan |
+| Yassine Bouzekri Alami | 07/12/2025 | EUL Nationals France | UR Prowess |
+| Antoine Alix | 07/12/2025 | EUL Nationals France |  |
+| Marc Montagne | 07/12/2025 | EUL Nationals France |  |
+| Romain Labenne | 07/12/2025 | EUL Nationals France | Jeskai Blink |
+| Vincent Pernel | 07/12/2025 | EUL Nationals France |  |
 | Pierre Aubart | 08/12/2025 | Qualifier CDF - Arcadia | Domain Zoo |
 
 
