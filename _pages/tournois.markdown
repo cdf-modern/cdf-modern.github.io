@@ -10,7 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 06/12/2025 | Bordeaux (33) | EUL Nationals |  | |
 | 12/12/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/12/2025 | Montpellier (34) | L'Antre du TCG | 32 | |
 | 19/12/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
@@ -61,7 +60,9 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/11/2025 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 29 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=11&annee=2025)|
 | 30/11/2025 | Angers (49) | [MTG Anjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 25 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/win-a-biland-modern-mtg-anjou)|
 | 05/12/2025 | Dijon (21) | La Guilde du Jeu |  | |
+| 06/12/2025 | Bordeaux (33) | EUL Nationals |  | |
 | 07/12/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1881){:target="_blank"} |  | |
+
 
 
 
