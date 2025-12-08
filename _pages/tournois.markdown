@@ -11,9 +11,10 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 06/12/2025 | Bordeaux (33) | EUL Nationals |  | |
-| 07/12/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1881){:target="_blank"} |  | |
 | 12/12/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/12/2025 | Montpellier (34) | L'Antre du TCG | 32 | |
+| 19/12/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
+| 20/12/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.fr/accueil){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-25521) |
 | 20/12/2025 | Béziers (34) | [AstraNova](https://www.astranova-games.fr/) |  | [AstraNova](https://www.astranova-games.fr/mtg-open-qualifier-modern)|
 | 24/01/2025 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 32 | [Play-In](https://www.play-in.com/fr/evenements/1/paris-bnf) |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -60,6 +61,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 29/11/2025 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 29 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=11&annee=2025)|
 | 30/11/2025 | Angers (49) | [MTG Anjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 25 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/win-a-biland-modern-mtg-anjou)|
 | 05/12/2025 | Dijon (21) | La Guilde du Jeu |  | |
+| 07/12/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1881){:target="_blank"} |  | |
 
 
 
