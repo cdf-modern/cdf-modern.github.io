@@ -80,7 +80,6 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Lino Toretta | 07/11/2025 | Relic Fest Main Event Modern | Jeskai Blink |
 | Amand Dosimont | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Mike Boulinguiez | 07/11/2025 | Relic Fest Main Event Modern | Goryo |
-| Paul Magnaldo | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Adam Ichalalen | 07/11/2025 | Relic Fest Main Event Modern | Domain Zoo |
 | Martino Bidese | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Jeremy Thizy | 07/11/2025 | Relic Fest Main Event Modern |  |
@@ -93,6 +92,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jules Mathet | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern | Samwise Combo |
 | Salim Zaouia | 07/11/2025 | Relic Fest Main Event Modern |  |
+| Abraham Urena | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Nathan Mathile | 14/11/2025 | TCG Besançon - Novembre |  |
 | Grente Yann | 22/11/2025 | Qualifier CDF - Apothicarte |  |
 | Titouan Le Berre | 23/11/2025 | Esport Nimes Arena | [RG Broodscale](https://www.mtgtop8.com/event?e=76873&d=783179&f=MO)   |
