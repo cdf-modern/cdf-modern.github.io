@@ -109,10 +109,6 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Baptiste Platteau | 07/12/2025 | EUL Nationals France | [Simic Ritual](https://mtgtop8.com/event?e=77439&d=787842&f=MO) |
 | Arthur Laborderie | 07/12/2025 | EUL Nationals France | [Amulet TItan](https://mtgtop8.com/event?e=77439&d=787843&f=MO) |
 | Yassine Bouzekri Alami | 07/12/2025 | EUL Nationals France | [UR Prowess](https://mtgtop8.com/event?e=77439&d=787850&f=MO) |
-| Antoine Alix | 07/12/2025 | EUL Nationals France | [Eldrazi Ramp](https://mtgtop8.com/event?e=77439&d=787851&f=MO) |
-| Marc Montagne | 07/12/2025 | EUL Nationals France | [Burn](https://mtgtop8.com/event?e=77439&d=787853&f=MO) |
-| Romain Labenne | 07/12/2025 | EUL Nationals France | Jeskai Blink |
-| Vincent Pernel | 07/12/2025 | EUL Nationals France |  |
 | Pierre Aubart | 08/12/2025 | Qualifier CDF - Arcadia | Domain Zoo |
 
 
