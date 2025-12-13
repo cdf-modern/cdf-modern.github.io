@@ -110,6 +110,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Arthur Laborderie | 07/12/2025 | EUL Nationals France | [Amulet TItan](https://mtgtop8.com/event?e=77439&d=787843&f=MO) |
 | Yassine Bouzekri Alami | 07/12/2025 | EUL Nationals France | [UR Prowess](https://mtgtop8.com/event?e=77439&d=787850&f=MO) |
 | Pierre Aubart | 08/12/2025 | Qualifier CDF - Arcadia | Domain Zoo |
+| Dorian Legay | 13/12/2025 | Qualifier CDF - L'Antre du TCG | [Grixis Ctrl](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1112854) |
 
 
 
