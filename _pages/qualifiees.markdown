@@ -93,7 +93,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Baptiste Wojtkowski | 07/11/2025 | Relic Fest Main Event Modern | Samwise Combo |
 | Salim Zaouia | 07/11/2025 | Relic Fest Main Event Modern |  |
 | Abraham Urena | 07/11/2025 | Relic Fest Main Event Modern |  |
-| Nathan Mathile | 14/11/2025 | TCG Besançon - Novembre |  |
+| Nathan Mathile | 14/11/2025 | TCG Besançon - Novembre | Boros Energy |
 | Grente Yann | 22/11/2025 | Qualifier CDF - Apothicarte |  |
 | Titouan Le Berre | 23/11/2025 | Esport Nimes Arena | [RG Broodscale](https://www.mtgtop8.com/event?e=76873&d=783179&f=MO)   |
 | Lucas Pio | 28/11/2025 | Qualifier CDF - MTG Genève | Boros Energy |
@@ -110,6 +110,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Arthur Laborderie | 07/12/2025 | EUL Nationals France | [Amulet TItan](https://mtgtop8.com/event?e=77439&d=787843&f=MO) |
 | Yassine Bouzekri Alami | 07/12/2025 | EUL Nationals France | [UR Prowess](https://mtgtop8.com/event?e=77439&d=787850&f=MO) |
 | Pierre Aubart | 08/12/2025 | Qualifier CDF - Arcadia | Domain Zoo |
+| Lilian Favre | 12/12/2025 | TCG Besançon - Décembre | [Affinity](https://moxfield.com/decks/i8CjhNDXVE-YE7TLVKW_0A) |
 | Dorian Legay | 13/12/2025 | Qualifier CDF - L'Antre du TCG | [Grixis Ctrl](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1112854) |
 
 
