@@ -75,6 +75,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Sylvain Hazard | 18/10/2025 | Urza Series - Open CDF Modern | [UR Prowess](https://mtgtop8.com/event?e=75254&d=771083&f=MO) |
 | Paul Magnaldo | 18/10/2025 | Urza Series - Open CDF Modern | [BW Blink](https://mtgtop8.com/event?e=75254&d=771085&f=MO) |
 | Carlo Ottaviani | 24/10/2025 | Qualifier CDF - MTG Genève | [RG Broodscale](https://moxfield.com/decks/QWG9oOjw9U6uleW4O-URrA) |
+| Arnaud Koch | 01/11/2025 | Qualifier CDF - La Caverne du Gobelin |  |
 | Marwan Tedjini | 02/11/2025 | Qualifier CDF - Joutes & Jeux | [Samwise Combo](https://moxfield.com/decks/To0tqJw4KEmjaWog6Ps_rw) |
 | Valentin Tallec | 08/11/2025 | Qualifier CDF - La Guilde du Jeu |  |
 | Lino Toretta | 07/11/2025 | Relic Fest Main Event Modern | Jeskai Blink |
@@ -112,6 +113,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Pierre Aubart | 08/12/2025 | Qualifier CDF - Arcadia | Domain Zoo |
 | Lilian Favre | 12/12/2025 | TCG Besançon - Décembre | [Affinity](https://moxfield.com/decks/i8CjhNDXVE-YE7TLVKW_0A) |
 | Dorian Legay | 13/12/2025 | Qualifier CDF - L'Antre du TCG | [Grixis Ctrl](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1112854) |
+| Fabien Melon | 20/12/2025 | Qualifier CDF - La Caverne du Gobelin | Jeskai Blink |
+| Victor Chevalier | 21/12/2025 | Qualifier CDF - Arcadia | UR Prowess |
 
 
 
