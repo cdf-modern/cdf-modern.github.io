@@ -10,10 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 19/12/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
-| 19/12/2025 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
-| 20/12/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.fr/accueil){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-25521) |
-| 20/12/2025 | Béziers (34) | [AstraNova](https://www.astranova-games.fr/) |  | [AstraNova](https://www.astranova-games.fr/mtg-open-qualifier-modern)|
 | 24/01/2025 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 32 | [Play-In](https://www.play-in.com/fr/evenements/1/paris-bnf) |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/02/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -62,7 +58,10 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 07/12/2025 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/events.php?events_id=1881){:target="_blank"} |  | |
 | 12/12/2025 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/12/2025 | Montpellier (34) | L'Antre du TCG | 32 | |
-
+| 19/12/2025 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
+| 19/12/2025 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
+| 20/12/2025 | Nancy (54) | [La Caverne du Gobelin](https://cavernedugobelin.fr/accueil){:target="_blank"} | 12 | [La Caverne du Gobelin](https://www.lesanimationsdugobelin.com/animations/view/nancy-magic-magic-modern-25521) |
+| 20/12/2025 | Béziers (34) | [AstraNova](https://www.astranova-games.fr/) |  | [AstraNova](https://www.astranova-games.fr/mtg-open-qualifier-modern)|
 
 
 
