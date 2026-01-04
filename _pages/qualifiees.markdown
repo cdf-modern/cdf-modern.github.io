@@ -115,6 +115,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Dorian Legay | 13/12/2025 | Qualifier CDF - L'Antre du TCG | [Grixis Ctrl](https://www.magic-ville.com/fr/decks/showdeck.php?ref=1112854) |
 | Fabien Melon | 20/12/2025 | Qualifier CDF - La Caverne du Gobelin | Jeskai Blink |
 | Victor Chevalier | 21/12/2025 | Qualifier CDF - Arcadia | UR Prowess |
+| Fabien Gauthier | 04/01/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
 
 
 
