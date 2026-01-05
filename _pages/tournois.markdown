@@ -11,6 +11,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 24/01/2025 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 32 | [Play-In](https://www.play-in.com/fr/evenements/1/paris-bnf) |
+| 25/01/2025 | Naintré (86) | [Damoclès]([https://www.play-in.com/fr](https://www.helloasso.com/associations/association-damocles)){:target="_blank"} | 32 | [Le Trophée de Diane 2026](https://www.helloasso.com/associations/association-damocles/evenements/le-trophee-de-diane-2026) |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/02/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 13/03/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
