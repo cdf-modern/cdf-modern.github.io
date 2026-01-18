@@ -116,6 +116,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Fabien Melon | 20/12/2025 | Qualifier CDF - La Caverne du Gobelin | Jeskai Blink |
 | Victor Chevalier | 21/12/2025 | Qualifier CDF - Arcadia | UR Prowess |
 | Fabien Gauthier | 04/01/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
+| Gautier Dosilé | 10/01/2026 | Qualifier CDF - Apothicarte |  |
 
 
 
