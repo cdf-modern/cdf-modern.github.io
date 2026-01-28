@@ -118,6 +118,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Fabien Gauthier | 04/01/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
 | Gautier Dosilé | 10/01/2026 | Qualifier CDF - Apothicarte |  |
 | Pénard Adrien | 24/01/2026 | Qualifier CDF - Playin | Izzet Cutter |
+| Moeneclaey Fabrice | 24/01/2026 | Qualifier CDF - Playin | [Simic Ritual](https://moxfield.com/decks/hoqPAR9nQkibvAr6AWkscw) |
 | Alban Genest | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Tron](https://mtgtop8.com/event?e=79432&d=803164&f=MO)
 | Simon Epiard | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Affinity](https://mtgtop8.com/event?e=79432&d=803167&f=MO)
 
