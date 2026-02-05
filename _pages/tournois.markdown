@@ -17,6 +17,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 21/02/2026 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 38 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=02&annee=2026)|
 | 21/02/2026 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 28/02/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
+| 01/03/2026 | Tours (37) | [MTG37](https://www.helloasso.com/associations/mtg37){:target="_blank"} |  | [HelloAsso](https://www.helloasso.com/associations/mtg37/evenements/cr-centre-28-fevrier-2026-multi-tournois-du-1er-mars) |
 | 01/03/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 01/03/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
 | 13/03/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
