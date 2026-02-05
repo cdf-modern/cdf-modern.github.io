@@ -21,6 +21,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 01/03/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 01/03/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
 | 13/03/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
+| 15/03/2026 | Douai (59) | [ReloadGamingBar](https://www.facebook.com/ReloadGamingBar){:target="_blank"} |  |  |
 | 28/03/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 25/04/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
