@@ -125,6 +125,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Lilian Favre | 30/01/2026 | TCG Besançon - Janvier | [Eldrazi Tron](https://moxfield.com/decks/GUqAXgofdEWM6DJxObDZOA) |
 | Vincent Pernel | 31/01/2026 | League Modern - Artefacts | Boros Energy |
 | Ludovic Spinelli | 01/02/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
+| Ben Cynicism | 02/02/2026 | Qualifier CDF - Arcadia | Rakdos Rock |
 
 
 
