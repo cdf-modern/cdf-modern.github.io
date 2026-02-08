@@ -14,6 +14,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 08/02/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz) |
 | 13/02/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 20/02/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
+| 20/02/2026 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
 | 21/02/2026 | Paris (75) | [MagicCorporation](https://boutique.magiccorporation.com/){:target="_blank"} | 38 | [MagicCorporation](http://animation.magiccorporation.com/?op=calendrier&mois=02&annee=2026)|
 | 21/02/2026 | Plombières les bains (88) | [L'Antre du Panda](https://www.facebook.com/lantredupanda){:target="_blank"} | 16 | |
 | 28/02/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
