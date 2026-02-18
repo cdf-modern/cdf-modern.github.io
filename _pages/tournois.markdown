@@ -10,8 +10,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 01/02/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
-| 08/02/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz) |
 | 13/02/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 20/02/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 20/02/2026 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/permalink/3140486339465811/){:target="_blank"} |  |  |
@@ -79,7 +77,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 24/01/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 25/01/2026 | Naintré (86) | [Association Damoclès](https://www.helloasso.com/associations/association-damocles){:target="_blank"} | 32 | [Le Trophée de Diane 2026](https://www.helloasso.com/associations/association-damocles/evenements/le-trophee-de-diane-2026) |
 | 30/01/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
-
+| 01/02/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
+| 08/02/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz) |
 
 
 
