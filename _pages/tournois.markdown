@@ -23,7 +23,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 13/03/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 15/03/2026 | Douai (59) | [ReloadGamingBar](https://www.facebook.com/ReloadGamingBar){:target="_blank"} |  |  |
 | 15/03/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz-de-mars) |
-| 22/03/2026 | Montpellier (34) | [Cartapapa](https://linktr.ee/cartapapa](https://cartapapa.fr/){:target="_blank"} | 32 |  |
+| 22/03/2026 | Montpellier (34) | [Cartapapa](https://cartapapa.fr/){:target="_blank"} | 32 |  |
 | 28/03/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 28/03/2026 | Montpellier (34) | [L'Antre du TCG](https://www.facebook.com/profile.php?id=100090676443961&locale=fr_FR) | 32 | |
 | 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
