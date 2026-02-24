@@ -118,7 +118,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Fabien Gauthier | 04/01/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
 | Gautier Dosilé | 10/01/2026 | Qualifier CDF - Apothicarte |  |
 | Jalil Zaim | 23/01/2026 | Qualifier CDF - La Guilde du Jeu |  |
-| Pénard Adrien | 24/01/2026 | Qualifier CDF - Playin | Izzet Cutter |
+| Pénard Adrien | 24/01/2026 | Qualifier CDF - Playin | [Izzet Cutter](https://moxfield.com/decks/cGQHbXoFo0eCSXHZlk5ASw) |
 | Moeneclaey Fabrice | 24/01/2026 | Qualifier CDF - Playin | [Simic Ritual](https://moxfield.com/decks/hoqPAR9nQkibvAr6AWkscw) |
 | Alban Genest | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Tron](https://mtgtop8.com/event?e=79432&d=803164&f=MO)
 | Simon Epiard | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Affinity](https://mtgtop8.com/event?e=79432&d=803167&f=MO)
@@ -127,8 +127,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Ludovic Spinelli | 01/02/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
 | Ben Cynicism | 02/02/2026 | Qualifier CDF - Arcadia | Rakdos Rock |
 | Quentin Cottret | 08/02/2026 | Qualifier CDF - Tableraze / Magic à Brac | [Gruul Broodscale](https://moxfield.com/decks/mzIEZL9tsUO_DjY0As51Ng) |
-| Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation |  |
-| Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation |  |
+| Marius Derval | 13/02/2026 | TCG Besançon - Février | UR Prowess |
+| Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation | [Simic Tirual](https://moxfield.com/decks/-xeRzVsV40uQ7Njnb2WltQ) |
+| Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://moxfield.com/decks/dUE2-Dvtnki2r18u7HGCBQ) |
+| Daniel Wernink | 21/02/2026 | Qualifier CDF - L'Antre du Panda | Jeskai Blink |
 
 
 
