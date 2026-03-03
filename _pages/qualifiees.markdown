@@ -131,6 +131,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation | [Simic Tirual](https://moxfield.com/decks/-xeRzVsV40uQ7Njnb2WltQ) |
 | Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://moxfield.com/decks/dUE2-Dvtnki2r18u7HGCBQ) |
 | Daniel Wernink | 21/02/2026 | Qualifier CDF - L'Antre du Panda | Jeskai Blink |
+| Alexandre Gautier | 01/03/2026 | Qualifier CDF - Apothicarte |  |
+| Thibault Bredzinski | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 
 
 
