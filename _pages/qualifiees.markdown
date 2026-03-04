@@ -120,6 +120,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Jalil Zaim | 23/01/2026 | Qualifier CDF - La Guilde du Jeu |  |
 | Pénard Adrien | 24/01/2026 | Qualifier CDF - Playin | [Izzet Cutter](https://moxfield.com/decks/cGQHbXoFo0eCSXHZlk5ASw) |
 | Moeneclaey Fabrice | 24/01/2026 | Qualifier CDF - Playin | [Simic Ritual](https://moxfield.com/decks/hoqPAR9nQkibvAr6AWkscw) |
+| Manuel Ligny | 24/01/2026 | Qualifier CDF - La Caverne du Jeu | Jeskai Blink |
 | Alban Genest | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Tron](https://mtgtop8.com/event?e=79432&d=803164&f=MO)
 | Simon Epiard | 25/01/2026 | Qualifier CDF - Le Trophée de Diane | [Affinity](https://mtgtop8.com/event?e=79432&d=803167&f=MO)
 | Lilian Favre | 30/01/2026 | TCG Besançon - Janvier | [Eldrazi Tron](https://moxfield.com/decks/GUqAXgofdEWM6DJxObDZOA) |
@@ -131,6 +132,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation | [Simic Tirual](https://moxfield.com/decks/-xeRzVsV40uQ7Njnb2WltQ) |
 | Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://moxfield.com/decks/dUE2-Dvtnki2r18u7HGCBQ) |
 | Daniel Wernink | 21/02/2026 | Qualifier CDF - L'Antre du Panda | Jeskai Blink |
+| Victorien Guilbert | 28/02/2026 | Qualifier CDF - La Caverne du Jeu | Affinity  |
 | Alexandre Gautier | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Thibault Bredzinski | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 
