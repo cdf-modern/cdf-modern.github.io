@@ -133,6 +133,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://moxfield.com/decks/dUE2-Dvtnki2r18u7HGCBQ) |
 | Daniel Wernink | 21/02/2026 | Qualifier CDF - L'Antre du Panda | Jeskai Blink |
 | Victorien Guilbert | 28/02/2026 | Qualifier CDF - La Caverne du Jeu | Affinity  |
+| Yannick Gratacos | 28/02/2026 | Qualifier CDF - L'Antre du TCG | [Simic Ritual](https://moxfield.com/decks/Ja0lGJdBZkakVnx3cSRW7g) |
 | Alexandre Gautier | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Thibault Bredzinski | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Yoann Comas | 01/03/2026 | Qualifier CDF - MTG37 |  |
