@@ -135,6 +135,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Victorien Guilbert | 28/02/2026 | Qualifier CDF - La Caverne du Jeu | Affinity  |
 | Alexandre Gautier | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Thibault Bredzinski | 01/03/2026 | Qualifier CDF - Apothicarte |  |
+| Yoann Comas | 01/03/2026 | Qualifier CDF - MTG37 |  |
+| Julien Eymery | 08/03/2026 | Qualifier CDF - Joutes & Jeux |  |
 
 
 
