@@ -137,6 +137,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Alexandre Gautier | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Thibault Bredzinski | 01/03/2026 | Qualifier CDF - Apothicarte |  |
 | Yoann Comas | 01/03/2026 | Qualifier CDF - MTG37 |  |
+| Noel Drapier | 07/03/2026 | Qualifier CDF - La Guilde du Jeu |  |
 | Julien Eymery | 08/03/2026 | Qualifier CDF - Joutes & Jeux |  |
 
 
