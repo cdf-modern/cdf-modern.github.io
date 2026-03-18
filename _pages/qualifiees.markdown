@@ -140,7 +140,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Yoann Comas | 01/03/2026 | Qualifier CDF - MTG37 |  |
 | Noel Drapier | 07/03/2026 | Qualifier CDF - La Guilde du Jeu |  |
 | Julien Eymery | 08/03/2026 | Qualifier CDF - Joutes & Jeux |  |
+| John Girdardot | 13/03/2026 | TCG Besançon - Mars | [Goryo](https://moxfield.com/decks/q0eARxAwnk26gEDNfbPBWg) |
 | Maxence Noclain | 15/03/2026 | Qualifier CDF - ReloadGamingBar Douai |  |
+| Sacha Lorlut | 15/03/2026 | Qualifier CDF - Tableraze / Magic à Brac | Tron |
 | Olivier Lacampagne | 16/03/2026 | YellowHat Challenge | Affinity |
 | Lucas Chèvre | 16/03/2026 | YellowHat Challenge | Titan |
 
