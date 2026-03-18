@@ -140,6 +140,9 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Yoann Comas | 01/03/2026 | Qualifier CDF - MTG37 |  |
 | Noel Drapier | 07/03/2026 | Qualifier CDF - La Guilde du Jeu |  |
 | Julien Eymery | 08/03/2026 | Qualifier CDF - Joutes & Jeux |  |
+| Maxence Noclain | 15/03/2026 | Qualifier CDF - ReloadGamingBar Douai |  |
+| Olivier Lacampagne | 16/03/2026 | YellowHat Challenge | Affinity |
+| Lucas Chèvre | 16/03/2026 | YellowHat Challenge | Titan |
 
 
 
