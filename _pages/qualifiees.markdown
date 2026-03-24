@@ -130,7 +130,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Quentin Cottret | 08/02/2026 | Qualifier CDF - Tableraze / Magic à Brac | [Gruul Broodscale](https://moxfield.com/decks/mzIEZL9tsUO_DjY0As51Ng) |
 | Marius Derval | 13/02/2026 | TCG Besançon - Février | UR Prowess |
 | Thomas Perrothey | 20/02/2026 | Qualifier CDF - Arcadia |  |
-| Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation | [Simic Tirual](https://moxfield.com/decks/-xeRzVsV40uQ7Njnb2WltQ) |
+| Loic Quentin | 21/02/2026 | Qualifier CDF - Magic Corporation | [Simic Ritual](https://moxfield.com/decks/-xeRzVsV40uQ7Njnb2WltQ) |
 | Cédric Leizour | 21/02/2026 | Qualifier CDF - Magic Corporation | [Jeskai Blink](https://moxfield.com/decks/dUE2-Dvtnki2r18u7HGCBQ) |
 | Daniel Wernink | 21/02/2026 | Qualifier CDF - L'Antre du Panda | Jeskai Blink |
 | Victorien Guilbert | 28/02/2026 | Qualifier CDF - La Caverne du Jeu | Affinity  |
