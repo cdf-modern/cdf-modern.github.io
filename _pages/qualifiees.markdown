@@ -145,8 +145,13 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Sacha Lorlut | 15/03/2026 | Qualifier CDF - Tableraze / Magic à Brac | Tron |
 | Olivier Lacampagne | 16/03/2026 | YellowHat Challenge | Affinity |
 | Lucas Chèvre | 16/03/2026 | YellowHat Challenge | Titan |
+| Armand Paulin | 20/03/2026 | Qualifier CDF - Arcadia | Tron |
 | Alexis Brisville | 23/03/2026 | Qualifier CDF - CartaPapa | Eldrazi Ramp |
 | Gautier Espargilière | 23/03/2026 | Qualifier CDF - CartaPapa | Boros Energy |
+| Lorenzo Hayaert | 28/03/2026 | Qualifier CDF - La Caverne du Jeu | |
+| Benjamin Noilhan | 28/03/2026 | Qualifier CDF - Urza Series | |
+| Samir Janicot | 28/03/2026 | Qualifier CDF - Urza Series | |
+
 
 
 
