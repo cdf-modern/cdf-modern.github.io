@@ -10,10 +10,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 20/03/2026 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/posts/3233748980139546){:target="_blank"} |  |  |
-| 28/03/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
-| 28/03/2026 | Montpellier (34) | [L'Antre du TCG](https://www.facebook.com/profile.php?id=100090676443961&locale=fr_FR) | 32 | |
-| 28/03/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza) | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-mars-2026) |
+| 03/04/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 25/04/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 08/05/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -86,6 +83,10 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 15/03/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz-de-mars) |
 | 14/03/2026 | Angers (49) | [La Guilde des Joueurs](https://boutiques-ludiques.fr/annonce/la-guilde-des-joueurs-angers/){:target="_blank"} |  | |
 | 22/03/2026 | Montpellier (34) | [Cartapapa](https://cartapapa.fr/){:target="_blank"} | 32 |  |
+| 20/03/2026 | Nancy (54) | [Arcadia](https://www.facebook.com/groups/magicthegatheringnancy/posts/3233748980139546){:target="_blank"} |  |  |
+| 28/03/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
+| 28/03/2026 | Montpellier (34) | [L'Antre du TCG](https://www.facebook.com/profile.php?id=100090676443961&locale=fr_FR) | 32 | |
+| 28/03/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza) | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-mars-2026) |
 
 
 
