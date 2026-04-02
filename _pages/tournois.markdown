@@ -13,6 +13,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 03/04/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 25/04/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
+| 26/04/2026 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 64 | [Play-In](https://www.play-in.com/fr/evenement/13282/regional-championship-qualifier-rcq) |
 | 02/05/2026 | Angers (49) | [MTG Anjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-02-05-2026-modern-regional-championship-qualifier)|
 | 08/05/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 30/05/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
