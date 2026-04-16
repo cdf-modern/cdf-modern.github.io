@@ -11,7 +11,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
 | 03/04/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
-| 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 25/04/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 25/04/2026 | Nancy (54) | [Les Joutes Téméraires](https://www.facebook.com/events/1320124493390508/?onload_action=open_invite_flow&show_created_event_toast=true){:target="_blank"} |  |  |
 | 26/04/2026 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 64 | [Play-In](https://www.play-in.com/fr/evenement/13282/regional-championship-qualifier-rcq) |
@@ -91,6 +90,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 28/03/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 28/03/2026 | Montpellier (34) | [L'Antre du TCG](https://www.facebook.com/profile.php?id=100090676443961&locale=fr_FR) | 32 | |
 | 28/03/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza) | 32 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-mars-2026) |
+| 10/04/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 
 
 
