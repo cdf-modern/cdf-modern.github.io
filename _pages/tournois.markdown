@@ -16,6 +16,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 26/04/2026 | Paris (75) | [Play-In](https://www.play-in.com/fr){:target="_blank"} | 64 | [Play-In](https://www.play-in.com/fr/evenement/13282/regional-championship-qualifier-rcq) |
 | 26/04/2026 | Palaiseau (91) | [ZAP](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau){:target="_blank"} | 40 | [ZAP caritatif](https://www.helloasso.com/associations/les-arpenteurs-de-palaiseau/evenements/zap-caritatif-2026-duel-commander-rcq-standard-scelle-edh) |
 | 02/05/2026 | Angers (49) | [MTG Anjou](https://www.helloasso.com/associations/mtg-anjou){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/mtg-anjou/evenements/tournoi-02-05-2026-modern-regional-championship-qualifier)|
+| 03/05/2026 | Plombières les bains (88) | [Deck'Ouverte](https://www.facebook.com/events/1386272626641205/){:target="_blank"} |  |  |
 | 08/05/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 30/05/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 30/05/2025 | Talence (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/regional-championship-qualifier) |
