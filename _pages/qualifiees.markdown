@@ -152,6 +152,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Benjamin Noilhan | 28/03/2026 | Qualifier CDF - Urza Series | |
 | Samir Janicot | 28/03/2026 | Qualifier CDF - Urza Series | |
 | Quentin Briand | 28/03/2026 | Qualifier CDF - L'Antre du TCG | [Dimir Necro](https://www.mtgtop8.com/event?e=82764&d=828920&f=MO) |
+| Didier Lespinas | 03/04/2026 | Qualifier CDF - Apothicarte |  |
 | Rémy Neveu | 10/04/2026 | Qualifier CDF - Joutes & Jeux |  |
 | David Noël | 15/04/2026 | TCG Besançon - Avril | Amulet Titan |
 
