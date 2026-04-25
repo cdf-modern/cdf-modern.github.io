@@ -127,6 +127,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Vincent Pernel | 31/01/2026 | League Modern - Artefacts | Boros Energy |
 | Ludovic Spinelli | 01/02/2026 | Qualifier CDF - Joutes & Jeux | Jeskai Blink |
 | Ben Cynicism | 02/02/2026 | Qualifier CDF - Arcadia | Rakdos Rock |
+| Etienne Yan | 06/02/2026 | Qualifier CDF - La Guilde du Jeu |  |
 | Quentin Cottret | 08/02/2026 | Qualifier CDF - Tableraze / Magic à Brac | [Gruul Broodscale](https://moxfield.com/decks/mzIEZL9tsUO_DjY0As51Ng) |
 | Marius Derval | 13/02/2026 | TCG Besançon - Février | UR Prowess |
 | Thomas Perrothey | 20/02/2026 | Qualifier CDF - Arcadia |  |
