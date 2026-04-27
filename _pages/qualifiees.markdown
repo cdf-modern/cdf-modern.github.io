@@ -156,6 +156,14 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Didier Lespinas | 03/04/2026 | Qualifier CDF - Apothicarte |  |
 | Rémy Neveu | 10/04/2026 | Qualifier CDF - Joutes & Jeux |  |
 | David Noël | 15/04/2026 | TCG Besançon - Avril | Amulet Titan |
+| Chloé Debesson | 26/04/2026 | RCQ Play-In | [Boros Energy](https://moxfield.com/decks/n8EguYd5sUSwS1S6J94DaA) |
+| Pascal Legros | 26/04/2026 | RCQ Play-In | Merfolk |
+| Alexis Saute | 26/04/2026 | RCQ Play-In | Affinity |
+| Vincent Collard | 26/04/2026 | RCQ Play-In | Yawgmoth |
+| Romain Labenne | 26/04/2026 | RCQ Zap | [Jeskai Blink](https://moxfield.com/decks/ua8NHrmis0WEsuOFwkJm4A) |
+| Etienne Foare | 26/04/2026 | RCQ Zap |  |
+
+
 
 
 
@@ -169,3 +177,4 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
+
