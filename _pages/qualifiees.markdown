@@ -158,7 +158,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | David Noël | 15/04/2026 | TCG Besançon - Avril | Amulet Titan |
 | Enzo Demaretz | 25/04/2026 | Qualifier CDF - L'Antre du TCG | [Simic Tifect](https://www.magic-ville.com/fr/decks/showdeck?ref=1063373) |
 | Chloé Debesson | 26/04/2026 | RCQ Play-In | [Boros Energy](https://moxfield.com/decks/n8EguYd5sUSwS1S6J94DaA) |
-| Pascal Legros | 26/04/2026 | RCQ Play-In | Merfolk |
+| Pascal Legros | 26/04/2026 | RCQ Play-In | [Merfolk](https://www.magic-ville.com/fr/decks/showdeck?ref=719882) |
 | Alexis Saute | 26/04/2026 | RCQ Play-In | Affinity |
 | Vincent Collard | 26/04/2026 | RCQ Play-In | Yawgmoth |
 | Romain Labenne | 26/04/2026 | RCQ Zap | [Jeskai Blink](https://moxfield.com/decks/ua8NHrmis0WEsuOFwkJm4A) |
