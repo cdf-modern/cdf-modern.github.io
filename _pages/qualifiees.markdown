@@ -156,6 +156,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Didier Lespinas | 03/04/2026 | Qualifier CDF - Apothicarte |  |
 | Rémy Neveu | 10/04/2026 | Qualifier CDF - Joutes & Jeux |  |
 | David Noël | 15/04/2026 | TCG Besançon - Avril | Amulet Titan |
+| Maxence Robbe | 25/03/2026 | Qualifier CDF - La Caverne du Jeu | [Yawgmoth](https://moxfield.com/decks/TaV4o8CRLU6gis1dHLwFUg) |
 | Enzo Demaretz | 25/04/2026 | Qualifier CDF - L'Antre du TCG | [Simic Tifect](https://www.magic-ville.com/fr/decks/showdeck?ref=1063373) |
 | Chloé Debesson | 26/04/2026 | RCQ Play-In | [Boros Energy](https://moxfield.com/decks/n8EguYd5sUSwS1S6J94DaA) |
 | Pascal Legros | 26/04/2026 | RCQ Play-In | [Merfolk](https://www.magic-ville.com/fr/decks/showdeck?ref=719882) |
