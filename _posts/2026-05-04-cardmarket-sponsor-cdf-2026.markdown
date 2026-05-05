@@ -16,6 +16,6 @@ Tant qu'on parle du sujet, sachez que nous travaillons d'arrache-pied pour prép
 Pour toutes les futures annonces, pensez à rejoindre le [serveur Discord Modern FR](https://discord.gg/KW4KPRZ3n7) pour ne rien rater !
 
 Pour rappel les inscriptions sont ouvertes, dépêchez vous de prendre vos places :  
-<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/cdf-modern-fr-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cdf26_i.png" alt="Finale CdF 2026" /></a></p>
+<p class="text-align-center"><a href="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/cdf-modern-fr-2" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/cdf_26i.png" alt="Finale CdF 2026" /></a></p>
 
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/l-assemblee-du-modern/evenements/cdf-modern-fr-2/widget-bouton" style="width: 100%; height: 70px; border: none;"></iframe>
