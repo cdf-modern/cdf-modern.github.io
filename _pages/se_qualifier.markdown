@@ -30,6 +30,10 @@ Vous participez à un tournoi qualificatif avec 70 participant.e.s. Il y a donc 
 Vous finissez 11ème à l'issue des rondes. Par chance, deux personnes du top 8 ainsi que le 10ème sont déjà qualifié.e.s.  
 On fait alors descendre les qualifications jusqu'à trouver huit non qualifié.e.s : vous obtenez votre qualification 🥳
 
+## Une performance sur un tournoi Modern "reconnu" pendant l'année
+
+Si vous avez réussi à vous qualifier à un RC / PT Modern pendant l'année nous serons ravis de vous voir à la finale :) Venez nous montrer ce que vous valez !
+
 ## Des "last chance" la veille du tournoi final
 
 Nous prévoyons d'organiser un ou plusieurs tournois qualificatifs le même week-end que le tournoi. Les détails seront communiqués lors de l'annonce du tournoi final.
