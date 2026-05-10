@@ -164,6 +164,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Vincent Collard | 26/04/2026 | RCQ Play-In | Yawgmoth |
 | Romain Labenne | 26/04/2026 | RCQ Zap | [Jeskai Blink](https://moxfield.com/decks/ua8NHrmis0WEsuOFwkJm4A) |
 | Etienne Foare | 26/04/2026 | RCQ Zap |  |
+| Axel Chambon | 02/05/2026 | Qualifier CDF - MTG Anjou | Boros Energy |
 
 
 
