@@ -165,9 +165,11 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | Romain Labenne | 26/04/2026 | RCQ Zap | [Jeskai Blink](https://moxfield.com/decks/ua8NHrmis0WEsuOFwkJm4A) |
 | Etienne Foare | 26/04/2026 | RCQ Zap |  |
 | Axel Chambon | 02/05/2026 | Qualifier CDF - MTG Anjou | Boros Energy |
+| Gilles Zahnd | 03/05/2026 | Qualifier CDF - Joutes & Jeux |  |
 | Maël Larmonier | 09/05/2026 | Ligue Modern - Clermont-Ferrand | [Belcher](https://moxfield.com/decks/jBDH9Li0okiPWgSdgwUTzA) |
 | Eugène Yayloyan | 09/05/2026 | Ligue Modern - Clermont-Ferrand | [Ruby Storm](https://moxfield.com/decks/4IXBu1297k2ZsQOv6rUT_g) |
-
+| Mathieu Krepiki | 10/05/2026 | Qualifier CDF - Tableraze / Magic à Brac | [Dredge](https://www.mtgtop8.com/event?e=84891&d=844990&f=MO) |
+| Maurice Kurth | 10/05/2026 | RCQ Cartes Flambées |  |
 
 
 
