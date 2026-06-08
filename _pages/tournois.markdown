@@ -18,7 +18,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 30/05/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 30/05/2025 | Talence (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza){:target="_blank"} | 40 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/regional-championship-qualifier) |
 | 27/06/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
-| 05/07/2026 | Chateauroux (36) | [MTGPrime](https://www.mtgprime.fr/) | 128 | [Site Web](https://shop.mtgprime.fr/) |
+| 05/07/2026 | Chateauroux (36) | [MTGPrime](https://www.mtgprime.fr/){:target="_blank"} | 128 | [Site Web](https://shop.mtgprime.fr/) |
 
 
 ## Tournois passés
