@@ -10,6 +10,8 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
+|  |  | |  |  |
+
 
 ## Tournois passés
 
