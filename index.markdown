@@ -15,9 +15,10 @@ La Coupe de France Modern c'est un circuit de tournois pendant l'année, qui dis
 
 ## Une super finale qui claque 🤩
 
+Depuis 2025, la CdF Modern est l'évènement à ne pas rater en Modern en France ! 
 En 2025 nous avons réuni 105 personnes à Tours, pour la première finale. C'était un [super week-end](/premier-champion-de-france/) 🫶
 
-En 2026 nous avons l'intention de remettre le couvert, en gardant une ligne directrice claire : une initative associative, par les joueurs et pour les joueurs !
+En 2026, nous avons dépassé les 130 joueurs inscrits au main event, et pour 2027, nous avons l'intention de remettre le couvert, en gardant une ligne directrice claire : une initative associative, par les joueurs et pour les joueurs !
 
 ## Comment organiser un tournoi qualificatif ?
 
