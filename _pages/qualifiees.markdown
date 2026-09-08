@@ -36,6 +36,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | LABENNE ROMAIN | 26/04/26 | Perf26 - Rcq Zap | |
 | PENARD ADRIEN | 26/04/26 | Perf26 - Rcq Playin | |
 | HOUYVET PIERRE | 19/07/26 | RCQ Le jeu Facetieux | |
+| SPINELLI LUDOVIC | 23/08/26 | Qualifier CDF - Joutes & Jeux | |
 | - | - | - | - | | |
  |
  |
