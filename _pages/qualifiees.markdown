@@ -4,7 +4,7 @@ title: Qualifié.e.s
 permalink: /qualifiees/
 ---
 
-Voici la liste des personnes qualifiées à la CdF Modern 2026.
+Voici la liste des personnes qualifiées à la CdF Modern 2027.
 Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette page](/se-qualifier/){:target="_blank"}.
 
 | Nom | Date | Tournoi | Deck |
@@ -26,7 +26,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | AL BAYATI FLORIAN | 07/06/26 | Rebound CDF 2026 | Boros Ponza |
 | DAMIENS ALEXANDRE | 07/06/26 | Rebound CDF 2026 | Izzet Prowess |
 | PAVESI VITTORIO | 27/06/26 | Perf26 - Rcq Professor Fest | RG Broodscales |
-| PASKOV ALEXANDRE | 04/07/2026 | Perf26 - Rcq Majestik Games | U Belcher |
+| PASKOV ALEXANDRE | 04/07/26 | Perf26 - Rcq Majestik Games | U Belcher |
 | RIVET CHARLES | 11/07/26 | Perf26 - Rcq Majestik Games | |
 | LECOFFRE ETIENNE | 05/07/26 | Perf26 - Destination Qualifier CDF DC | Izzet Affinity |
 | DRUCKE THOMAS | 05/07/26 | Perf26 - Destination Qualifier CDF DC | MonoG Broodscale |
