@@ -38,6 +38,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | HOUYVET PIERRE | 19/07/26 | RCQ Le jeu Facetieux | |
 | SPINELLI LUDOVIC | 23/08/26 | Qualifier CDF - Joutes & Jeux | |
 | WEINMAN JACQUES | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
+| KURTZMAN MARIUS | 04/09/26 | TCG Besançon | UR Cutter |
 | - | - | - | - | | |
  |
  |
