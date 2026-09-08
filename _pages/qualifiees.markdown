@@ -9,9 +9,36 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 
 | Nom | Date | Tournoi | Deck |
 | - | - | - | - |
-| - | - | - | - |
-
-
+| LE GOANVIC ARTHUR | 07/06/26 | Main Event CDF 2026 | Eldrazi Tron |
+| TALLEC VALENTIN | 07/06/26 | Main Event CDF 2026 | Eldrazi ramp |
+| MEIN MARCELIN | 07/06/26 | Main Event CDF 2026 | Boros Ponza |
+| GAILLARD HECTOR | 07/06/26 | Main Event CDF 2026 | MonoG Broodscale |
+| ROUAR JULIEN | 07/06/26 | Main Event CDF 2026 | UB Blink |
+| DEBESSON CHLOE | 07/06/26 | Main Event CDF 2026 | Mardu Energy |
+| GUIMARD LEO | 07/06/26 | Main Event CDF 2026 | Esper Reanimator |
+| MARCHE VICTOR | 07/06/26 | Main Event CDF 2026 | U Belcher |
+| LAROCHELLE MAEL | 07/06/26 | Rebound CDF 2026 | Boros Energy |
+| MATHET JULES | 07/06/26 | Rebound CDF 2026 | Esper Goryo |
+| BRETIN MAE | 07/06/26 | Rebound CDF 2026 | Amulet Titan |
+| KERGAL JOHANN | 07/06/26 | Rebound CDF 2026 | Azorius Blink |
+| BRACONNIER CYRILLE | 07/06/26 | Rebound CDF 2026 | Boros Energy |
+| ZAOUIA SALIM | 07/06/26 | Rebound CDF 2026 | Esper Goryo |
+| AL BAYATI FLORIAN | 07/06/26 | Rebound CDF 2026 | Boros Ponza |
+| DAMIENS ALEXANDRE | 07/06/26 | Rebound CDF 2026 | Izzet Prowess |
+| PAVESI VITTORIO | 27/06/26 | Perf26 - Rcq Professor Fest | RG Broodscales |
+| PASKOV ALEXANDRE | 04/07/2026 | Perf26 - Rcq Majestik Games | U Belcher |
+| RIVET CHARLES | 11/07/26 | Perf26 - Rcq Majestik Games | |
+| LECOFFRE ETIENNE | 05/07/26 | Perf26 - Destination Qualifier CDF DC | Izzet Affinity |
+| DRUCKE THOMAS | 05/07/26 | Perf26 - Destination Qualifier CDF DC | MonoG Broodscale |
+| BLONDIAUX TIMOTHEE | 05/07/26 | Perf26 - Destination Qualifier CDF DC | Boros Energy |
+| COLLY EVAN | 11/07/26 | Perf26 - Rcq Artefacts | |
+| HUOT JOSEPH | 26/05/26 | Perf26 - Rcq Magic Corporation | |
+| LABENNE ROMAIN | 26/04/26 | Perf26 - Rcq Zap | |
+| PENARD ADRIEN | 26/04/26 | Perf26 - Rcq Playin | |
+| HOUYVET PIERRE | 19/07/26 | RCQ Le jeu Facetieux | |
+| - | - | - | - | | |
+ |
+ |
 
 
 
