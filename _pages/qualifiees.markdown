@@ -37,6 +37,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | PENARD ADRIEN | 26/04/26 | Perf26 - Rcq Playin | |
 | HOUYVET PIERRE | 19/07/26 | RCQ Le jeu Facetieux | |
 | SPINELLI LUDOVIC | 23/08/26 | Qualifier CDF - Joutes & Jeux | |
+| WEINMAN JACQUES | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
 | - | - | - | - | | |
  |
  |
@@ -49,4 +50,5 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 {: .tablesorter data-sortlist="[[1,0]]"}
 
 Si vous repérez des erreurs sur cette page, ou si vous voulez que l'on modifie votre nom, vous pouvez nous contacter sur [Discord](https://discord.gg/KW4KPRZ3n7) ou [par mail](mailto:lassembleedumodern@gmail.com).
+
 
