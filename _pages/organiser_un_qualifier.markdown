@@ -63,6 +63,7 @@ Ce n'est pas obligatoire, mais c'est mieux ! Si vous nous contactez en amont, no
 > Quelles informations dois-je communiquer après le tournoi ?
 
 Pour que nous soyons tenus au courant des personnes qualifiées, nous vous demanderons de nous envoyer [par mail](mailto:lassembleedumodern@gmail.com) une capture d'écran des standings finaux, du top 8, ainsi que les noms/prénoms/adresse mail des qualifié.e.s. Nous utiliserons l'adresse mail uniquement pour communiquer des informations relatives à la CDF.
+
 Nous vous invitons également à nous mettre en contact avec le gagnant de votre tournoi : ce sera l'occasion pour nous de le mettre en avant sur le site, pour notamment faire parler de votre tournoi.
 
 > Comment faire pour que mon tournoi apparaisse sur ce site ?
