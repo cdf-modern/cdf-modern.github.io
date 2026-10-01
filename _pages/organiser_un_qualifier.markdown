@@ -27,7 +27,9 @@ Il y a deux "règles" à respecter pour l'organisation d'un Qualifier.
 
 Votre tournoi doit suivre les [règles officielles de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"}. Cela ne devrait pas être bloquant car les tournois suivent déjà quasi systématiquement ce système.
 
-Une exception est permise : vous pouvez autoriser les proxies sur votre évènement si vous le souhaitez. Le cas échéant, nous vous conseillons de suivre la [politique de proxies de MTG Nantes](https://www.mtgnantes.fr/activit%C3%A9s/politique-proxy){:target="_blank"}.
+Deux exceptions sont permises : 
+- vous pouvez autoriser les proxies sur votre évènement si vous le souhaitez. Le cas échéant, nous vous conseillons de suivre la [politique de proxies de MTG Nantes](https://www.mtgnantes.fr/activit%C3%A9s/politique-proxy){:target="_blank"} ;
+- Si votre tournoi compte entre 9 et 16 joueurs, vous pouvez limiter le tournoi à 4 rondes.
 
 ### Pas plus d'un qualifier tous les mois
 
@@ -50,9 +52,9 @@ Les qualifications sont distribuées à partir de 9 joueurs présents.
 
 Le top n'est pas obligatoire. On utilisera alors les standings à l'issue des rondes pour déterminer qui obtient une qualification.
 
-> Vous indiquez que pour 9 à 16 joueurs, le tournoi doit comporter cinq rondes. C'est normal ?
+> Vous indiquez que pour 9 à 16 joueurs, le tournoi peut se dérouler en 4 rondes. C'est normal ?
 
-Oui :) Les [règles officiels de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"} indiquent cinq rondes pour un tournoi Modern de 9 à 16 joueurs.
+C'est une dérogation aux [règles officiels de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"} afin de faciliter l'organisation de tournois en soirée.
 
 > Dois-je vous contacter *avant* mon tournoi pour qu'il soit un Qualifier ?
 
@@ -60,7 +62,7 @@ Ce n'est pas obligatoire, mais c'est mieux ! Si vous nous contactez en amont, no
 
 > Quelles informations dois-je communiquer après le tournoi ?
 
-Pour que nous soyions tenus au courant des personnes qualifiées, nous vous demanderons de nous envoyer une capture d'écran des standings finaux et du top 8.  
+Pour que nous soyons tenus au courant des personnes qualifiées, nous vous demanderons de nous envoyer [par mail](mailto:lassembleedumodern@gmail.com) une capture d'écran des standings finaux, du top 8, ainsi que les noms/prénoms/adresse mail des qualifié.e.s. Nous utiliserons l'adresse mail uniquement pour communiquer des informations relatives à la CDF.
 Nous vous invitons également à nous mettre en contact avec le gagnant de votre tournoi : ce sera l'occasion pour nous de le mettre en avant sur le site, pour notamment faire parler de votre tournoi.
 
 > Comment faire pour que mon tournoi apparaisse sur ce site ?
