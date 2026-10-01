@@ -14,13 +14,14 @@ Le nombre de qualifications octroyées lors d'un tournoi dépend du nombre de ro
 
 |Nombre de participant.e.s | Nombre de rondes | Nombre de places qualificatives |
 | :-: | :-: | :-: |
-| 9 - 16 | 5 (et un top 4) | 1 |
+| 9 - 16 | 4 ou 5 | 1 |
 | 17 - 32 | 5 | 2 |
 | 33 - 64 | 6 | 4 |
 | 65 - 128 | 7 | 8 |
 | 129+ | 8+ | 16 |
 
 Notez que le nombre de rondes affiché ici est issu des [règles officiels de tournois de Magic](https://wpn.wizards.com/en/rules-documents){:target="_blank"}.
+Pour les tournois avec 9 à 16 joueurs, il est possible de déroger aux règles officielles sur le nombre de rondes en se limitant à 4 rondes.
 
 **Les places qualificatives descendent si une personne est déjà qualifiée.**
 
