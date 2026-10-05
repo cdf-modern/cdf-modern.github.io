@@ -38,11 +38,10 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | COLLY EVAN | 11/07/26 | Perf26 - Rcq Artefacts | |
 | HOUYVET PIERRE | 19/07/26 | RCQ Le jeu Facetieux | |
 | SPINELLI LUDOVIC | 23/08/26 | Qualifier CDF - Joutes & Jeux | |
-| WEINMAN JACQUES | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
 | KURTZMAN MARIUS | 04/09/26 | TCG Besançon | UR Cutter |
-| GASTALDO LAURENT | 04/10/26 | Qualifier CDF - Joutes & Jeux | Zoo |
+| WEINMAN JACQUES | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
 | LE COURIC MAXIME | 27/09/26 | Urza's Series | [Tron](https://mtgtop8.com/event?e=91396&f=MO) |
-
+| GASTALDO LAURENT | 04/10/26 | Qualifier CDF - Joutes & Jeux | Zoo |
 | - | - | - | - | | |
  |
  |
