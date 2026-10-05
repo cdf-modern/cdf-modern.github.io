@@ -15,6 +15,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 04/10/2026 | Rennes (35) | [Magic Rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 16 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/open-qualifier-cdf-modern) |
 | 09/10/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 06/10/2026 | Dijon (21) | La Guilde du jeu |  |  |
+| 01/11/2026 | Labège (31) | [Relic Fest 2026](https://getpaird.io/relicfest){:target="_blank"} |   | [Relic Fest - main event modern](https://getpaird.io/tournaments/modern-main-event-8gvZ3V) |
 | 20/11/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 04/12/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 04/12/2026 | Dijon (21) | La Guilde du jeu |  |  |
