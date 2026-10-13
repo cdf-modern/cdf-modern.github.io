@@ -13,7 +13,6 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 27/09/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza){:target="_blank"} | 30 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-septembre-2026) |
 | 02/10/2026 | Dijon (21) | La Guilde du jeu |  |  |
 | 04/10/2026 | Rennes (35) | [Magic Rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 16 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/open-qualifier-cdf-modern) |
-| 06/10/2026 | Dijon (21) | La Guilde du jeu |  |  |
 | 09/10/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 17/10/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
 | 23/10/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
