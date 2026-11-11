@@ -10,18 +10,13 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de places | Inscription |
 | - | - | - | :-: | - |
-| 27/09/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza){:target="_blank"} | 30 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-septembre-2026) |
-| 02/10/2026 | Dijon (21) | La Guilde du jeu |  |  |
-| 04/10/2026 | Rennes (35) | [Magic Rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 16 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/open-qualifier-cdf-modern) |
-| 09/10/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
-| 17/10/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
-| 23/10/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 | 01/11/2026 | Labège (31) | [Relic Fest 2026](https://getpaird.io/relicfest){:target="_blank"} |   | [Relic Fest - main event modern](https://getpaird.io/tournaments/modern-main-event-8gvZ3V) |
 | 06/11/2026 | Dijon (21) | La Guilde du jeu |  |  |
-| 08/11/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
 | 20/11/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
+| 22/11/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
 | 04/12/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 04/12/2026 | Dijon (21) | La Guilde du jeu |  |  |
+| 05/12/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
 | 15/01/2027 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 12/02/2027 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 12/03/2027 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
@@ -34,13 +29,13 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 
 | Date | Ville | Organisateur | Nb. de joueurs | Top 8 |
 | - | - | - | :-: | - |
-| 25/04/2026 | Nancy (54) | [Les Joutes Téméraires](https://www.facebook.com/events/1320124493390508/?onload_action=open_invite_flow&show_created_event_toast=true){:target="_blank"} |  |  |
-| 08/05/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
-| 09/05/2026 | Rennes (35) | [BOLT](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/bolt-1-oq-modern) |
-| 10/05/2026 | Rennes (35) | [BOLT](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 32 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/bolt-1-oq-modern) |
-| 10/05/2026 | Montpellier (34) | [Tableraze / Magic à Brac](https://tablerazemontpellier.com/){:target="_blank"} | 24 | [Magic A Brac](https://www.helloasso.com/associations/magic-a-brac/evenements/modern-qualifier-cdf-tbz-de-mai?utm_source=app_ha&utm_campaign=share_campaign_button&utm_medium=android) |
-| 30/05/2026 | Calais (62) | [La Caverne du Jeu](https://www.facebook.com/Lacavernedujeu/){:target="_blank"} |  |  |
 | 04/09/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
+| 27/09/2026 | Eysines (33) | [Les Mages d'Urza](https://www.helloasso.com/associations/les-mages-d-urza){:target="_blank"} | 30 | [HelloAsso](https://www.helloasso.com/associations/les-mages-d-urza/evenements/urza-series-septembre-2026) |
+| 02/10/2026 | Dijon (21) | La Guilde du jeu |  |  |
+| 04/10/2026 | Rennes (35) | [Magic Rennes](https://www.helloasso.com/associations/imadjinns-magic-rennes){:target="_blank"} | 16 | [HelloAsso](https://www.helloasso.com/associations/imadjinns-magic-rennes/evenements/open-qualifier-cdf-modern) |
+| 09/10/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
+| 17/10/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
+| 23/10/2026 | Périgueux (24) | [Apothicarte](https://apothicarte.com/){:target="_blank"} |  |  |
 
 
 
