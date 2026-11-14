@@ -14,6 +14,7 @@ Si vous voulez organiser un tournoi qualificatif à la CdF Modern, vous trouvere
 | 06/11/2026 | Dijon (21) | La Guilde du jeu |  |  |
 | 20/11/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 22/11/2026 | Grenoble (38) | [Joutes et Jeux](https://www.jouteetjeux.com/index.php){:target="_blank"} |  | |
+| 28/11/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
 | 04/12/2026 | Besançon (25) | [TCG Besançon](https://www.facebook.com/groups/986506592668678){:target="_blank"} | 32 | |
 | 04/12/2026 | Dijon (21) | La Guilde du jeu |  |  |
 | 05/12/2026 | Marseille (13) | [Role Games](https://discord.gg/3wKyhseFd){:target="_blank"} |  |  |
