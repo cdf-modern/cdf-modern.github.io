@@ -33,6 +33,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | LECOFFRE ETIENNE | 05/07/26 | Perf26 - Destination Qualifier CDF DC | Izzet Affinity |
 | DRUCKE THOMAS | 05/07/26 | Perf26 - Destination Qualifier CDF DC | MonoG Broodscale |
 | BLONDIAUX TIMOTHEE | 05/07/26 | Perf26 - Destination Qualifier CDF DC | Boros Energy |
+| DOMINICI YOANN | 04/10/26 | Qualifier CDF - Joutes & Jeux |  |
 | ADELINE CHARLIE | 11/07/26 | Qualifier CDF - Role Games | |
 | RIVET CHARLES | 11/07/26 | Perf26 - Rcq Majestik Games | |
 | COLLY EVAN | 11/07/26 | Perf26 - Rcq Artefacts | |
@@ -40,6 +41,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | SPINELLI LUDOVIC | 23/08/26 | Qualifier CDF - Joutes & Jeux | |
 | KURTZMAN MARIUS | 04/09/26 | TCG Besançon | UR Cutter |
 | WEINMAN JACQUES | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
+| NEVEU REMY | 06/09/26 | Qualifier CDF - Joutes & Jeux | Esper Blink |
 | LE COURIC MAXIME | 27/09/26 | Urza's Series | [Tron](https://mtgtop8.com/event?e=91396&f=MO) |
 | GASTALDO LAURENT | 04/10/26 | Qualifier CDF - Joutes & Jeux | Zoo |
 | LEGAY DORIAN | 14/10/26 | Qualifier CDF - CartaPapa | [Mono B Coffers](https://www.mtgtop8.com/event?e=92447&f=MO) |
