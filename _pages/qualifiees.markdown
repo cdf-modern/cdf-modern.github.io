@@ -47,8 +47,8 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | LEGAY DORIAN | 14/10/26 | Qualifier CDF - CartaPapa | [Mono B Coffers](https://www.mtgtop8.com/event?e=92447&f=MO) |
 | BRIAND QUENTIN | 18/10/26 | Qualifier CDF - Pick a Pack | [BG Necro](https://www.mtgtop8.com/event?e=92635&d=903669&f=MO) |
 | BREDZINSKI THIBAULT | 14/10/26 | Qualifier CDF - Apothicarte |  |
+| THIL ARTHUR | 06/11/26 | Qualifier CDF - La Guilde du Jeu | |
 | MARILLER TIMOTHE | 08/11/26 | Qualifier CDF - TableRaz / Magic à Brac | 5C Creativity  |
-| THIL ARTHUR | 05/09/26 | Qualifier CDF - La Guilde du Jeu | |
 | - | - | - | - | | |
  |
  |
