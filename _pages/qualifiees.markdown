@@ -49,6 +49,7 @@ Si vous aussi vous voulez vous qualifier, retrouvez tous les details [sur cette 
 | BREDZINSKI THIBAULT | 14/10/26 | Qualifier CDF - Apothicarte |  |
 | THIL ARTHUR | 06/11/26 | Qualifier CDF - La Guilde du Jeu | |
 | MARILLER TIMOTHE | 08/11/26 | Qualifier CDF - TableRaz / Magic à Brac | 5C Creativity  |
+|	GAUTHIER	Fabien		 | 22/11/2026 | Qualifier CdF - Joute et jeux Grenoble |	UW chant |
 | - | - | - | - | | |
  |
  |
